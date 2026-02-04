@@ -1,6 +1,6 @@
-```json
+```JSON
 {
-  "version": "144",
+  "版本": "144"
   "chrome_version": "144.0.6367.60"
 }
 ```
@@ -10,3 +10,4 @@
 - `chrome_version`: Chrome 完整版本号（可选，用于显示）
 
 ---
+
