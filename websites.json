@@ -1,97 +1,266 @@
 {
-  "version": 1,
-  "lastUpdate": "2026-02-05T10:00:00Z",
+  "version": 2,
+  "lastUpdate": "2026-02-05T13:04:47.3712218Z",
   "categories": [
-      {
-        "id": "ai-video",
-        "name": "AI 视频创作",
-        "icon": "🎬",
-        "order": 1,
-        "featured": [
-          {"name": "可灵 Kling", "icon": "🎥", "description": "国产之光顶级水准", "url":
-  "https://klingai-share.kuaishou.com/h5-app/invitation?code=6B6A8HPQDZDF", "order": 1},
-          {"name": "Luma Dream Machine", "icon": "✨", "description": "视频质感极强", "url":
-  "https://lumalabs.ai/dream-machine", "order": 2}
-        ],
-        "others": [
-          {"name": "Runway", "icon": "🎞️ ", "description": "控制力强", "url": "https://runwayml.com", "order": 1},     
-          {"name": "Pika Labs", "icon": "⚡", "description": "简单易用", "url": "https://pika.art", "order": 2},
-          {"name": "HeyGen", "icon": "👤", "description": "数字人", "url": "https://www.heygen.com", "order": 3},
-          {"name": "Synthesia", "icon": "🎭", "description": "企业级", "url": "https://www.synthesia.io", "order": 4}
-        ]
-      },
-      {
-        "id": "sms",
-        "name": "短信接码",
-        "icon": "📱",
-        "order": 2,
-        "featured": [
-          {"name": "白鲸数据共享", "icon": "📲", "description": "根据短信抬头接收验证码", "url":
-  "https://web.tqsms.xyz/#/register?inviter=242950", "order": 1},
-          {"name": "5SIM", "icon": "5️⃣", "description": "界面简洁，多国号码支持", "url": "https://5sim.net", "order": 2}
-        ],
-        "others": [
-          {"name": "Grizzly SMS", "icon": "", "description": "稳定性强", "url": "https://grizzlysms.com", "order": 1},
-          {"name": "OnlineSIM", "icon": "📡", "description": "支持长租", "url": "https://onlinesim.io", "order": 2},
-          {"name": "SMS-Man", "icon": "👨", "description": "价格实惠", "url": "https://sms-man.com", "order": 3},
-          {"name": "GetSMSCode", "icon": "✉️", "description": "快速接码", "url": "https://getsmscode.com", "order": 4}
-        ]
-      },
-      {
-        "id": "automation",
-        "name": "自动化与工作流",
-        "icon": "",
-        "order": 3,
-        "featured": [
-          {"name": "RunningHub", "icon": "🏃", "description": "云端ComfyUI工作流", "url":
-  "https://www.runninghub.cn/?inviteCode=xotckcje", "order": 1},
-          {"name": "SeaArt 海艺", "icon": "🌊", "description": "工作流丰富，一键复刻作品", "url":
-  "https://www.seaart.ai", "order": 2}
-        ],
-        "others": [
-          {"name": "OpenArt", "icon": "🎭", "description": "批量生产", "url": "https://openart.ai", "order": 1},
-          {"name": "Liblib AI", "icon": "📚", "description": "模型社区", "url": "https://www.liblib.art", "order": 2},
-          {"name": "ComfyUI", "icon": "🔗", "description": "开源工作流", "url": "https://comfyui.com", "order": 3},
-          {"name": "Tensor.Art", "icon": "⚡", "description": "免费算力", "url": "https://tensor.art", "order": 4}
-        ]
-      },
-      {
-        "id": "proxy",
-        "name": "代理 IP 补给站",
-        "icon": "🌐",
-        "order": 4,
-        "featured": [
-          {"name": "Webshare", "icon": "🌍", "description": "性价比高，大规模扫号首选", "url":
-  "https://www.webshare.io/?referral_code=n6mi3dp9ovym", "order": 1},
-          {"name": "IPRoyal", "icon": "👑", "description": "住宅IP纯净度高，质量保证", "url":
-  "https://iproyal.cn/?r=大橘已定", "order": 2}
-        ],
-        "others": [
-          {"name": "Proxy-Seller", "icon": "🛒", "description": "偏僻地区", "url": "https://proxy-seller.com", "order":
-  1},
-          {"name": "Bright Data", "icon": "💎", "description": "企业级", "url": "https://brightdata.com", "order": 2},
-          {"name": "Smartproxy", "icon": "", "description": "智能轮换", "url": "https://smartproxy.com", "order": 3},
-          {"name": "Oxylabs", "icon": "🔬", "description": "高端服务", "url": "https://oxylabs.io", "order": 4}
-        ]
-      },
-      {
-        "id": "prompts",
-        "name": "AI 提示词收藏站",
-        "icon": "💡",
-        "order": 5,
-        "featured": [
-          {"name": "PromptHero", "icon": "🎨", "description": "全球AI提示词图书馆", "url": "https://prompthero.com",
-  "order": 1},
-          {"name": "FlowGPT", "icon": "💬", "description": "ChatGPT/Claude高级指令库", "url": "https://flowgpt.com",
-  "order": 2}
-        ],
-        "others": [
-          {"name": "Snakeprompt", "icon": "🐍", "description": "中文词库", "url": "https://snakeprompt.com", "order":
-  1},
-          {"name": "Lexica", "icon": "", "description": "图像搜索", "url": "https://lexica.art", "order": 2},
-          {"name": "Civitai", "icon": "🤖", "description": "SD社区", "url": "https://civitai.com", "order": 3},
-          {"name": "PromptBase", "icon": "💰", "description": "交易市场", "url": "https://promptbase.com", "order": 4}
-        ]
-      }
-    ]
-  }
+    {
+      "id": "ai-video",
+      "name": "AI 视频创作",
+      "icon": "\uD83C\uDFAC",
+      "order": 1,
+      "featured": [
+        {
+          "name": "可灵Ai Kling",
+          "icon": "\uD83C\uDFA5",
+          "description": "国产之光顶级水准",
+          "url": "https://klingai-share.kuaishou.com/h5-app/invitation?code=6B6A8HPQDZDF",
+          "order": 1
+        },
+        {
+          "name": "Luma Dream Machine",
+          "icon": "✨",
+          "description": "视频质感极强",
+          "url": "https://lumalabs.ai/dream-machine",
+          "order": 2
+        }
+      ],
+      "others": [
+        {
+          "name": "Runway",
+          "icon": "\uD83C\uDF9E️ ",
+          "description": "控制力强",
+          "url": "https://runwayml.com",
+          "order": 1
+        },
+        {
+          "name": "Pika Labs",
+          "icon": "⚡",
+          "description": "简单易用",
+          "url": "https://pika.art",
+          "order": 2
+        },
+        {
+          "name": "HeyGen",
+          "icon": "\uD83D\uDC64",
+          "description": "数字人",
+          "url": "https://www.heygen.com",
+          "order": 3
+        },
+        {
+          "name": "Synthesia",
+          "icon": "\uD83C\uDFAD",
+          "description": "企业级",
+          "url": "https://www.synthesia.io",
+          "order": 4
+        }
+      ]
+    },
+    {
+      "id": "sms",
+      "name": "短信接码",
+      "icon": "\uD83D\uDCF1",
+      "order": 2,
+      "featured": [
+        {
+          "name": "白鲸数据共享",
+          "icon": "\uD83D\uDCF2",
+          "description": "根据短信抬头接收验证码",
+          "url": "https://web.tqsms.xyz/#/register?inviter=242950",
+          "order": 1
+        },
+        {
+          "name": "5SIM",
+          "icon": "5️⃣",
+          "description": "界面简洁，多国号码支持",
+          "url": "https://5sim.net",
+          "order": 2
+        }
+      ],
+      "others": [
+        {
+          "name": "Grizzly SMS",
+          "icon": "",
+          "description": "稳定性强",
+          "url": "https://grizzlysms.com",
+          "order": 1
+        },
+        {
+          "name": "OnlineSIM",
+          "icon": "\uD83D\uDCE1",
+          "description": "支持长租",
+          "url": "https://onlinesim.io",
+          "order": 2
+        },
+        {
+          "name": "SMS-Man",
+          "icon": "\uD83D\uDC68",
+          "description": "价格实惠",
+          "url": "https://sms-man.com",
+          "order": 3
+        },
+        {
+          "name": "GetSMSCode",
+          "icon": "✉️",
+          "description": "快速接码",
+          "url": "https://getsmscode.com",
+          "order": 4
+        }
+      ]
+    },
+    {
+      "id": "automation",
+      "name": "自动化与工作流",
+      "icon": "",
+      "order": 3,
+      "featured": [
+        {
+          "name": "RunningHub",
+          "icon": "\uD83C\uDFC3",
+          "description": "云端ComfyUI工作流",
+          "url": "https://www.runninghub.cn/?inviteCode=xotckcje",
+          "order": 1
+        },
+        {
+          "name": "SeaArt 海艺",
+          "icon": "\uD83C\uDF0A",
+          "description": "工作流丰富，一键复刻作品",
+          "url": "https://www.seaart.ai",
+          "order": 2
+        }
+      ],
+      "others": [
+        {
+          "name": "OpenArt",
+          "icon": "\uD83C\uDFAD",
+          "description": "批量生产",
+          "url": "https://openart.ai",
+          "order": 1
+        },
+        {
+          "name": "Liblib AI",
+          "icon": "\uD83D\uDCDA",
+          "description": "模型社区",
+          "url": "https://www.liblib.art",
+          "order": 2
+        },
+        {
+          "name": "ComfyUI",
+          "icon": "\uD83D\uDD17",
+          "description": "开源工作流",
+          "url": "https://comfyui.com",
+          "order": 3
+        },
+        {
+          "name": "Tensor.Art",
+          "icon": "⚡",
+          "description": "免费算力",
+          "url": "https://tensor.art",
+          "order": 4
+        }
+      ]
+    },
+    {
+      "id": "proxy",
+      "name": "代理 IP 补给站",
+      "icon": "\uD83C\uDF10",
+      "order": 4,
+      "featured": [
+        {
+          "name": "Webshare",
+          "icon": "\uD83C\uDF0D",
+          "description": "性价比高，大规模扫号首选",
+          "url": "https://www.webshare.io/?referral_code=n6mi3dp9ovym",
+          "order": 1
+        },
+        {
+          "name": "IPRoyal",
+          "icon": "\uD83D\uDC51",
+          "description": "住宅IP纯净度高，质量保证",
+          "url": "https://iproyal.cn/?r=大橘已定",
+          "order": 2
+        }
+      ],
+      "others": [
+        {
+          "name": "Proxy-Seller",
+          "icon": "\uD83D\uDED2",
+          "description": "偏僻地区",
+          "url": "https://proxy-seller.com",
+          "order": 1
+        },
+        {
+          "name": "Bright Data",
+          "icon": "\uD83D\uDC8E",
+          "description": "企业级",
+          "url": "https://brightdata.com",
+          "order": 2
+        },
+        {
+          "name": "Smartproxy",
+          "icon": "",
+          "description": "智能轮换",
+          "url": "https://smartproxy.com",
+          "order": 3
+        },
+        {
+          "name": "Oxylabs",
+          "icon": "\uD83D\uDD2C",
+          "description": "高端服务",
+          "url": "https://oxylabs.io",
+          "order": 4
+        }
+      ]
+    },
+    {
+      "id": "prompts",
+      "name": "AI 提示词收藏站",
+      "icon": "\uD83D\uDCA1",
+      "order": 5,
+      "featured": [
+        {
+          "name": "PromptHero",
+          "icon": "\uD83C\uDFA8",
+          "description": "全球AI提示词图书馆",
+          "url": "https://prompthero.com",
+          "order": 1
+        },
+        {
+          "name": "FlowGPT",
+          "icon": "\uD83D\uDCAC",
+          "description": "ChatGPT/Claude高级指令库",
+          "url": "https://flowgpt.com",
+          "order": 2
+        }
+      ],
+      "others": [
+        {
+          "name": "Snakeprompt",
+          "icon": "\uD83D\uDC0D",
+          "description": "中文词库",
+          "url": "https://snakeprompt.com",
+          "order": 1
+        },
+        {
+          "name": "Lexica",
+          "icon": "",
+          "description": "图像搜索",
+          "url": "https://lexica.art",
+          "order": 2
+        },
+        {
+          "name": "Civitai",
+          "icon": "\uD83E\uDD16",
+          "description": "SD社区",
+          "url": "https://civitai.com",
+          "order": 3
+        },
+        {
+          "name": "PromptBase",
+          "icon": "\uD83D\uDCB0",
+          "description": "交易市场",
+          "url": "https://promptbase.com",
+          "order": 4
+        }
+      ]
+    }
+  ]
+}
