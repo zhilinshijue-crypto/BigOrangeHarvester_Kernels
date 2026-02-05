@@ -1,6 +1,6 @@
 {
-  "version": 3,
-  "lastUpdate": "2026-02-05T14:34:00.0220845Z",
+  "version": 4,
+  "lastUpdate": "2026-02-05T15:25:25.3915494Z",
   "categories": [
     {
       "id": "ai-video",
@@ -9,7 +9,7 @@
       "order": 1,
       "featured": [
         {
-          "name": "可灵Ai Kling",
+          "name": "可灵 Kling",
           "icon": "\uD83C\uDFA5",
           "description": "国产之光顶级水准",
           "url": "https://klingai-share.kuaishou.com/h5-app/invitation?code=6B6A8HPQDZDF",
