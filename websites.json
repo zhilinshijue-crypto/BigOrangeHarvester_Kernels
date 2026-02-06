@@ -1,6 +1,6 @@
 {
-  "version": 4,
-  "lastUpdate": "2026-02-05T15:25:25.3915494Z",
+  "version": 5,
+  "lastUpdate": "2026-02-06T04:03:58.908644Z",
   "categories": [
     {
       "id": "ai-video",
@@ -21,6 +21,13 @@
           "description": "视频质感极强",
           "url": "https://lumalabs.ai/dream-machine",
           "order": 2
+        },
+        {
+          "name": "1111111111",
+          "icon": "❤️",
+          "description": "1111111",
+          "url": "11111111111111111",
+          "order": 3
         }
       ],
       "others": [
@@ -51,6 +58,13 @@
           "description": "企业级",
           "url": "https://www.synthesia.io",
           "order": 4
+        },
+        {
+          "name": "1111111",
+          "icon": "❤️",
+          "description": "1",
+          "url": "11111111",
+          "order": 5
         }
       ]
     },
