@@ -1,6 +1,6 @@
 {
-  "version": 6,
-  "lastUpdate": "2026-02-06T04:04:31.9249505Z",
+  "version": 7,
+  "lastUpdate": "2026-02-14T01:27:39.8923915Z",
   "categories": [
     {
       "id": "ai-video",
@@ -73,6 +73,13 @@
           "description": "界面简洁，多国号码支持",
           "url": "https://5sim.net",
           "order": 2
+        },
+        {
+          "name": "虚拟手机号，在线验证码",
+          "icon": "✉️",
+          "description": "好用，已用3年",
+          "url": "https://www.ejiema.com/appweb/signUp.html?inviter=2serye1b",
+          "order": 3
         }
       ],
       "others": [
