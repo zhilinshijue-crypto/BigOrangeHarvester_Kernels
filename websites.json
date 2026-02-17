@@ -1,6 +1,6 @@
 {
-  "version": 2,
-  "lastUpdate": "2026-02-17T07:29:29.9178166Z",
+  "version": 3,
+  "lastUpdate": "2026-02-17T08:49:40.8817178Z",
   "categories": [
     {
       "id": "ai-video",
@@ -81,6 +81,14 @@
           "description": "界面简洁，多国号码支持",
           "url": "https://5sim.net",
           "order": 2
+        },
+        {
+          "name": "E码云短信",
+          "icon": "\uD83C\uDF10",
+          "faviconUrl": "https://www.google.com/s2/favicons?domain=www.eomsg.com&sz=64",
+          "description": "自用4年",
+          "url": "http://www.eomsg.com/appweb/signUp.html?inviter=2serye1b",
+          "order": 3
         }
       ],
       "others": [
