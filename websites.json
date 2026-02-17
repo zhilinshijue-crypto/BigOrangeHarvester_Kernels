@@ -9,37 +9,37 @@
       "order": 1,
       "featured": [
         {
-          "name": "可灵 Kling",
-          "icon": "Assets\\favicons\\klingai-share_kuaishou_com.png",
-          "faviconUrl": "Assets\\favicons\\klingai-share_kuaishou_com.png",
-          "description": "国产之光顶级水准",
-          "url": "https://klingai-share.kuaishou.com/h5-app/invitation?code=6B6A8HPQDZDF",
-          "order": 1
-        },
-        {
           "name": "Luma Dream Machine",
           "icon": "Assets\\favicons\\lumalabs_ai.png",
           "faviconUrl": "Assets\\favicons\\lumalabs_ai.png",
           "description": "视频质感极强",
           "url": "https://lumalabs.ai/dream-machine",
+          "order": 1
+        },
+        {
+          "name": "可灵 Kling",
+          "icon": "Assets\\favicons\\klingai-share_kuaishou_com.png",
+          "faviconUrl": "Assets\\favicons\\klingai-share_kuaishou_com.png",
+          "description": "国产之光顶级水准",
+          "url": "https://klingai-share.kuaishou.com/h5-app/invitation?code=6B6A8HPQDZDF",
           "order": 2
         }
       ],
       "others": [
-        {
-          "name": "Pika Labs",
-          "icon": "Assets\\favicons\\pika_art.png",
-          "faviconUrl": "Assets\\favicons\\pika_art.png",
-          "description": "简单易用",
-          "url": "https://pika.art",
-          "order": 1
-        },
         {
           "name": "HeyGen",
           "icon": "Assets\\favicons\\www_heygen_com.png",
           "faviconUrl": "Assets\\favicons\\www_heygen_com.png",
           "description": "数字人",
           "url": "https://www.heygen.com",
+          "order": 1
+        },
+        {
+          "name": "Pika Labs",
+          "icon": "Assets\\favicons\\pika_art.png",
+          "faviconUrl": "Assets\\favicons\\pika_art.png",
+          "description": "简单易用",
+          "url": "https://pika.art",
           "order": 2
         },
         {
