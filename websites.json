@@ -1,6 +1,6 @@
 {
-  "version": 3,
-  "lastUpdate": "2026-02-17T08:49:40.8817178Z",
+  "version": 4,
+  "lastUpdate": "2026-02-17T09:15:00.4360515Z",
   "categories": [
     {
       "id": "ai-video",
@@ -10,16 +10,16 @@
       "featured": [
         {
           "name": "可灵 Kling",
-          "icon": "\uD83C\uDFA5",
-          "faviconUrl": "https://klingai-share.kuaishou.com/favicon.ico",
+          "icon": "Assets\\favicons\\klingai-share_kuaishou_com.png",
+          "faviconUrl": "Assets\\favicons\\klingai-share_kuaishou_com.png",
           "description": "国产之光顶级水准",
           "url": "https://klingai-share.kuaishou.com/h5-app/invitation?code=6B6A8HPQDZDF",
           "order": 1
         },
         {
           "name": "Luma Dream Machine",
-          "icon": "✨",
-          "faviconUrl": "https://lumalabs.ai/favicon.ico",
+          "icon": "Assets\\favicons\\lumalabs_ai.png",
+          "faviconUrl": "Assets\\favicons\\lumalabs_ai.png",
           "description": "视频质感极强",
           "url": "https://lumalabs.ai/dream-machine",
           "order": 2
@@ -28,32 +28,32 @@
       "others": [
         {
           "name": "Runway",
-          "icon": "\uD83C\uDF9E️ ",
-          "faviconUrl": "https://runwayml.com/favicon.ico",
+          "icon": "Assets\\favicons\\runwayml_com.png",
+          "faviconUrl": "Assets\\favicons\\runwayml_com.png",
           "description": "控制力强",
           "url": "https://runwayml.com",
           "order": 1
         },
         {
           "name": "Pika Labs",
-          "icon": "⚡",
-          "faviconUrl": "https://pika.art/favicon.ico",
+          "icon": "Assets\\favicons\\pika_art.png",
+          "faviconUrl": "Assets\\favicons\\pika_art.png",
           "description": "简单易用",
           "url": "https://pika.art",
           "order": 2
         },
         {
           "name": "HeyGen",
-          "icon": "\uD83D\uDC64",
-          "faviconUrl": "https://www.heygen.com/favicon.ico",
+          "icon": "Assets\\favicons\\www_heygen_com.png",
+          "faviconUrl": "Assets\\favicons\\www_heygen_com.png",
           "description": "数字人",
           "url": "https://www.heygen.com",
           "order": 3
         },
         {
           "name": "Synthesia",
-          "icon": "\uD83C\uDFAD",
-          "faviconUrl": "https://www.synthesia.io/favicon.ico",
+          "icon": "Assets\\favicons\\www_synthesia_io.png",
+          "faviconUrl": "Assets\\favicons\\www_synthesia_io.png",
           "description": "企业级",
           "url": "https://www.synthesia.io",
           "order": 4
@@ -68,24 +68,24 @@
       "featured": [
         {
           "name": "白鲸数据共享",
-          "icon": "\uD83D\uDCF2",
-          "faviconUrl": "https://web.tqsms.xyz/favicon.ico",
+          "icon": "Assets\\favicons\\web_tqsms_xyz.png",
+          "faviconUrl": "Assets\\favicons\\web_tqsms_xyz.png",
           "description": "根据短信抬头接收验证码",
           "url": "https://web.tqsms.xyz/#/register?inviter=242950",
           "order": 1
         },
         {
           "name": "5SIM",
-          "icon": "5️⃣",
-          "faviconUrl": "https://5sim.net/favicon.ico",
+          "icon": "Assets\\favicons\\5sim_net.png",
+          "faviconUrl": "Assets\\favicons\\5sim_net.png",
           "description": "界面简洁，多国号码支持",
           "url": "https://5sim.net",
           "order": 2
         },
         {
           "name": "E码云短信",
-          "icon": "\uD83C\uDF10",
-          "faviconUrl": "https://www.google.com/s2/favicons?domain=www.eomsg.com&sz=64",
+          "icon": "Assets\\favicons\\www_eomsg_com.png",
+          "faviconUrl": "Assets\\favicons\\www_eomsg_com.png",
           "description": "自用4年",
           "url": "http://www.eomsg.com/appweb/signUp.html?inviter=2serye1b",
           "order": 3
@@ -94,31 +94,31 @@
       "others": [
         {
           "name": "Grizzly SMS",
-          "icon": "",
-          "faviconUrl": "https://grizzlysms.com/favicon.ico",
+          "icon": "Assets\\favicons\\grizzlysms_com.png",
+          "faviconUrl": "Assets\\favicons\\grizzlysms_com.png",
           "description": "稳定性强",
           "url": "https://grizzlysms.com",
           "order": 1
         },
         {
           "name": "OnlineSIM",
-          "icon": "\uD83D\uDCE1",
-          "faviconUrl": "https://onlinesim.io/favicon.ico",
+          "icon": "Assets\\favicons\\onlinesim_io.png",
+          "faviconUrl": "Assets\\favicons\\onlinesim_io.png",
           "description": "支持长租",
           "url": "https://onlinesim.io",
           "order": 2
         },
         {
           "name": "SMS-Man",
-          "icon": "\uD83D\uDC68",
-          "faviconUrl": "https://sms-man.com/favicon.ico",
+          "icon": "Assets\\favicons\\sms-man_com.png",
+          "faviconUrl": "Assets\\favicons\\sms-man_com.png",
           "description": "价格实惠",
           "url": "https://sms-man.com",
           "order": 3
         },
         {
           "name": "GetSMSCode",
-          "icon": "✉️",
+          "icon": "https://getsmscode.com/favicon.ico",
           "faviconUrl": "https://getsmscode.com/favicon.ico",
           "description": "快速接码",
           "url": "https://getsmscode.com",
@@ -134,16 +134,16 @@
       "featured": [
         {
           "name": "RunningHub",
-          "icon": "\uD83C\uDFC3",
-          "faviconUrl": "https://www.runninghub.cn/favicon.ico",
+          "icon": "Assets\\favicons\\www_runninghub_cn.png",
+          "faviconUrl": "Assets\\favicons\\www_runninghub_cn.png",
           "description": "云端ComfyUI工作流",
           "url": "https://www.runninghub.cn/?inviteCode=xotckcje",
           "order": 1
         },
         {
           "name": "SeaArt 海艺",
-          "icon": "\uD83C\uDF0A",
-          "faviconUrl": "https://www.seaart.ai/favicon.ico",
+          "icon": "Assets\\favicons\\www_seaart_ai.png",
+          "faviconUrl": "Assets\\favicons\\www_seaart_ai.png",
           "description": "工作流丰富，一键复刻作品",
           "url": "https://www.seaart.ai",
           "order": 2
@@ -152,23 +152,23 @@
       "others": [
         {
           "name": "OpenArt",
-          "icon": "\uD83C\uDFAD",
-          "faviconUrl": "https://openart.ai/favicon.ico",
+          "icon": "Assets\\favicons\\openart_ai.png",
+          "faviconUrl": "Assets\\favicons\\openart_ai.png",
           "description": "批量生产",
           "url": "https://openart.ai",
           "order": 1
         },
         {
           "name": "Liblib AI",
-          "icon": "\uD83D\uDCDA",
-          "faviconUrl": "https://www.liblib.art/favicon.ico",
+          "icon": "Assets\\favicons\\www_liblib_art.png",
+          "faviconUrl": "Assets\\favicons\\www_liblib_art.png",
           "description": "模型社区",
           "url": "https://www.liblib.art",
           "order": 2
         },
         {
           "name": "ComfyUI",
-          "icon": "\uD83D\uDD17",
+          "icon": "https://comfyui.com/favicon.ico",
           "faviconUrl": "https://comfyui.com/favicon.ico",
           "description": "开源工作流",
           "url": "https://comfyui.com",
@@ -176,8 +176,8 @@
         },
         {
           "name": "Tensor.Art",
-          "icon": "⚡",
-          "faviconUrl": "https://tensor.art/favicon.ico",
+          "icon": "Assets\\favicons\\tensor_art.png",
+          "faviconUrl": "Assets\\favicons\\tensor_art.png",
           "description": "免费算力",
           "url": "https://tensor.art",
           "order": 4
@@ -192,16 +192,16 @@
       "featured": [
         {
           "name": "Webshare",
-          "icon": "\uD83C\uDF0D",
-          "faviconUrl": "https://www.webshare.io/favicon.ico",
+          "icon": "Assets\\favicons\\www_webshare_io.png",
+          "faviconUrl": "Assets\\favicons\\www_webshare_io.png",
           "description": "性价比高，大规模扫号首选",
           "url": "https://www.webshare.io/?referral_code=n6mi3dp9ovym",
           "order": 1
         },
         {
           "name": "IPRoyal",
-          "icon": "\uD83D\uDC51",
-          "faviconUrl": "https://iproyal.cn/favicon.ico",
+          "icon": "Assets\\favicons\\iproyal_cn.png",
+          "faviconUrl": "Assets\\favicons\\iproyal_cn.png",
           "description": "住宅IP纯净度高，质量保证",
           "url": "https://iproyal.cn/?r=大橘已定",
           "order": 2
@@ -210,32 +210,32 @@
       "others": [
         {
           "name": "Proxy-Seller",
-          "icon": "\uD83D\uDED2",
-          "faviconUrl": "https://proxy-seller.com/favicon.ico",
+          "icon": "Assets\\favicons\\proxy-seller_com.png",
+          "faviconUrl": "Assets\\favicons\\proxy-seller_com.png",
           "description": "偏僻地区",
           "url": "https://proxy-seller.com",
           "order": 1
         },
         {
           "name": "Bright Data",
-          "icon": "\uD83D\uDC8E",
-          "faviconUrl": "https://brightdata.com/favicon.ico",
+          "icon": "Assets\\favicons\\brightdata_com.png",
+          "faviconUrl": "Assets\\favicons\\brightdata_com.png",
           "description": "企业级",
           "url": "https://brightdata.com",
           "order": 2
         },
         {
           "name": "Smartproxy",
-          "icon": "",
-          "faviconUrl": "https://smartproxy.com/favicon.ico",
+          "icon": "Assets\\favicons\\smartproxy_com.png",
+          "faviconUrl": "Assets\\favicons\\smartproxy_com.png",
           "description": "智能轮换",
           "url": "https://smartproxy.com",
           "order": 3
         },
         {
           "name": "Oxylabs",
-          "icon": "\uD83D\uDD2C",
-          "faviconUrl": "https://oxylabs.io/favicon.ico",
+          "icon": "Assets\\favicons\\oxylabs_io.png",
+          "faviconUrl": "Assets\\favicons\\oxylabs_io.png",
           "description": "高端服务",
           "url": "https://oxylabs.io",
           "order": 4
@@ -250,16 +250,16 @@
       "featured": [
         {
           "name": "PromptHero",
-          "icon": "\uD83C\uDFA8",
-          "faviconUrl": "https://prompthero.com/favicon.ico",
+          "icon": "Assets\\favicons\\prompthero_com.png",
+          "faviconUrl": "Assets\\favicons\\prompthero_com.png",
           "description": "全球AI提示词图书馆",
           "url": "https://prompthero.com",
           "order": 1
         },
         {
           "name": "FlowGPT",
-          "icon": "\uD83D\uDCAC",
-          "faviconUrl": "https://flowgpt.com/favicon.ico",
+          "icon": "Assets\\favicons\\flowgpt_com.png",
+          "faviconUrl": "Assets\\favicons\\flowgpt_com.png",
           "description": "ChatGPT/Claude高级指令库",
           "url": "https://flowgpt.com",
           "order": 2
@@ -268,7 +268,7 @@
       "others": [
         {
           "name": "Snakeprompt",
-          "icon": "\uD83D\uDC0D",
+          "icon": "https://snakeprompt.com/favicon.ico",
           "faviconUrl": "https://snakeprompt.com/favicon.ico",
           "description": "中文词库",
           "url": "https://snakeprompt.com",
@@ -276,24 +276,24 @@
         },
         {
           "name": "Lexica",
-          "icon": "",
-          "faviconUrl": "https://lexica.art/favicon.ico",
+          "icon": "Assets\\favicons\\lexica_art.png",
+          "faviconUrl": "Assets\\favicons\\lexica_art.png",
           "description": "图像搜索",
           "url": "https://lexica.art",
           "order": 2
         },
         {
           "name": "Civitai",
-          "icon": "\uD83E\uDD16",
-          "faviconUrl": "https://civitai.com/favicon.ico",
+          "icon": "Assets\\favicons\\civitai_com.png",
+          "faviconUrl": "Assets\\favicons\\civitai_com.png",
           "description": "SD社区",
           "url": "https://civitai.com",
           "order": 3
         },
         {
           "name": "PromptBase",
-          "icon": "\uD83D\uDCB0",
-          "faviconUrl": "https://promptbase.com/favicon.ico",
+          "icon": "Assets\\favicons\\promptbase_com.png",
+          "faviconUrl": "Assets\\favicons\\promptbase_com.png",
           "description": "交易市场",
           "url": "https://promptbase.com",
           "order": 4
