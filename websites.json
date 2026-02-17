@@ -35,19 +35,19 @@
           "order": 1
         },
         {
-          "name": "Runway",
-          "icon": "Assets\\favicons\\runwayml_com.png",
-          "faviconUrl": "Assets\\favicons\\runwayml_com.png",
-          "description": "控制力强",
-          "url": "https://runwayml.com",
-          "order": 2
-        },
-        {
           "name": "Pika Labs",
           "icon": "Assets\\favicons\\pika_art.png",
           "faviconUrl": "Assets\\favicons\\pika_art.png",
           "description": "简单易用",
           "url": "https://pika.art",
+          "order": 2
+        },
+        {
+          "name": "Runway",
+          "icon": "Assets\\favicons\\runwayml_com.png",
+          "faviconUrl": "Assets\\favicons\\runwayml_com.png",
+          "description": "控制力强",
+          "url": "https://runwayml.com",
           "order": 3
         },
         {
