@@ -27,19 +27,19 @@
       ],
       "others": [
         {
-          "name": "Runway",
-          "icon": "Assets\\favicons\\runwayml_com.png",
-          "faviconUrl": "Assets\\favicons\\runwayml_com.png",
-          "description": "控制力强",
-          "url": "https://runwayml.com",
-          "order": 1
-        },
-        {
           "name": "HeyGen",
           "icon": "Assets\\favicons\\www_heygen_com.png",
           "faviconUrl": "Assets\\favicons\\www_heygen_com.png",
           "description": "数字人",
           "url": "https://www.heygen.com",
+          "order": 1
+        },
+        {
+          "name": "Runway",
+          "icon": "Assets\\favicons\\runwayml_com.png",
+          "faviconUrl": "Assets\\favicons\\runwayml_com.png",
+          "description": "控制力强",
+          "url": "https://runwayml.com",
           "order": 2
         },
         {
