@@ -43,19 +43,19 @@
           "order": 2
         },
         {
-          "name": "HeyGen",
-          "icon": "Assets\\favicons\\www_heygen_com.png",
-          "faviconUrl": "Assets\\favicons\\www_heygen_com.png",
-          "description": "数字人",
-          "url": "https://www.heygen.com",
-          "order": 3
-        },
-        {
           "name": "Runway",
           "icon": "Assets\\favicons\\runwayml_com.png",
           "faviconUrl": "Assets\\favicons\\runwayml_com.png",
           "description": "控制力强",
           "url": "https://runwayml.com",
+          "order": 3
+        },
+        {
+          "name": "HeyGen",
+          "icon": "Assets\\favicons\\www_heygen_com.png",
+          "faviconUrl": "Assets\\favicons\\www_heygen_com.png",
+          "description": "数字人",
+          "url": "https://www.heygen.com",
           "order": 4
         }
       ]
@@ -67,19 +67,19 @@
       "order": 2,
       "featured": [
         {
-          "name": "白鲸数据共享",
-          "icon": "\uD83D\uDDA8️",
-          "faviconUrl": null,
-          "description": "根据短信抬头接收验证码",
-          "url": "https://web.tqsms.xyz/#/register?inviter=242950",
-          "order": 1
-        },
-        {
           "name": "5SIM",
           "icon": "Assets\\favicons\\5sim_net.png",
           "faviconUrl": "Assets\\favicons\\5sim_net.png",
           "description": "界面简洁，多国号码支持",
           "url": "https://5sim.net",
+          "order": 1
+        },
+        {
+          "name": "白鲸数据共享",
+          "icon": "\uD83D\uDDA8️",
+          "faviconUrl": null,
+          "description": "根据短信抬头接收验证码",
+          "url": "https://web.tqsms.xyz/#/register?inviter=242950",
           "order": 2
         },
         {
