@@ -27,12 +27,20 @@
       ],
       "others": [
         {
+          "name": "Runway",
+          "icon": "Assets\\favicons\\runwayml_com.png",
+          "faviconUrl": "Assets\\favicons\\runwayml_com.png",
+          "description": "控制力强",
+          "url": "https://runwayml.com",
+          "order": 1
+        },
+        {
           "name": "HeyGen",
           "icon": "Assets\\favicons\\www_heygen_com.png",
           "faviconUrl": "Assets\\favicons\\www_heygen_com.png",
           "description": "数字人",
           "url": "https://www.heygen.com",
-          "order": 1
+          "order": 2
         },
         {
           "name": "Pika Labs",
@@ -40,14 +48,6 @@
           "faviconUrl": "Assets\\favicons\\pika_art.png",
           "description": "简单易用",
           "url": "https://pika.art",
-          "order": 2
-        },
-        {
-          "name": "Runway",
-          "icon": "Assets\\favicons\\runwayml_com.png",
-          "faviconUrl": "Assets\\favicons\\runwayml_com.png",
-          "description": "控制力强",
-          "url": "https://runwayml.com",
           "order": 3
         },
         {
