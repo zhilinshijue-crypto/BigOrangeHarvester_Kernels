@@ -35,19 +35,19 @@
           "order": 1
         },
         {
-          "name": "HeyGen",
-          "icon": "Assets\\favicons\\www_heygen_com.png",
-          "faviconUrl": "Assets\\favicons\\www_heygen_com.png",
-          "description": "数字人",
-          "url": "https://www.heygen.com",
-          "order": 2
-        },
-        {
           "name": "Synthesia",
           "icon": "Assets\\favicons\\www_synthesia_io.png",
           "faviconUrl": "Assets\\favicons\\www_synthesia_io.png",
           "description": "企业级",
           "url": "https://www.synthesia.io",
+          "order": 2
+        },
+        {
+          "name": "HeyGen",
+          "icon": "Assets\\favicons\\www_heygen_com.png",
+          "faviconUrl": "Assets\\favicons\\www_heygen_com.png",
+          "description": "数字人",
+          "url": "https://www.heygen.com",
           "order": 3
         },
         {
