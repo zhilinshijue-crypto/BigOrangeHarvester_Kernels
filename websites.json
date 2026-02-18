@@ -101,16 +101,7 @@
           "order": 3
         }
       ],
-      "others": [
-        {
-          "name": "OpenArt",
-          "icon": "Assets\\favicons\\openart_ai.png",
-          "faviconUrl": "Assets\\favicons\\openart_ai.png",
-          "description": "批量生产",
-          "url": "https://openart.ai",
-          "order": 1
-        }
-      ]
+      "others": []
     },
     {
       "id": "proxy",
