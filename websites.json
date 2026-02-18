@@ -109,22 +109,6 @@
           "description": "批量生产",
           "url": "https://openart.ai",
           "order": 1
-        },
-        {
-          "name": "SeaArt 海艺",
-          "icon": "Assets\\favicons\\www_seaart_ai.png",
-          "faviconUrl": "Assets\\favicons\\www_seaart_ai.png",
-          "description": "工作流丰富，一键复刻作品",
-          "url": "https://www.seaart.ai",
-          "order": 2
-        },
-        {
-          "name": "Tensor.Art",
-          "icon": "Assets\\favicons\\tensor_art.png",
-          "faviconUrl": "Assets\\favicons\\tensor_art.png",
-          "description": "免费算力",
-          "url": "https://tensor.art",
-          "order": 3
         }
       ]
     },
