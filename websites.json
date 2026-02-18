@@ -35,20 +35,12 @@
           "order": 1
         },
         {
-          "name": "Pika Labs",
-          "icon": "Assets\\favicons\\pika_art.png",
-          "faviconUrl": "Assets\\favicons\\pika_art.png",
-          "description": "简单易用",
-          "url": "https://pika.art",
-          "order": 2
-        },
-        {
           "name": "Luma Dream Machine",
           "icon": "Assets\\favicons\\lumalabs_ai.png",
           "faviconUrl": "Assets\\favicons\\lumalabs_ai.png",
           "description": "视频质感极强",
           "url": "https://lumalabs.ai/dream-machine",
-          "order": 3
+          "order": 2
         },
         {
           "name": "Synthesia",
@@ -56,6 +48,14 @@
           "faviconUrl": "Assets\\favicons\\www_synthesia_io.png",
           "description": "企业级",
           "url": "https://www.synthesia.io",
+          "order": 3
+        },
+        {
+          "name": "Pika Labs",
+          "icon": "Assets\\favicons\\pika_art.png",
+          "faviconUrl": "Assets\\favicons\\pika_art.png",
+          "description": "简单易用",
+          "url": "https://pika.art",
           "order": 4
         }
       ]
