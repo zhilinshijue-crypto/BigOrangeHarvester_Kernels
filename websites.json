@@ -43,12 +43,12 @@
           "order": 2
         },
         {
-          "name": "",
-          "icon": "",
-          "faviconUrl": null,
-          "description": "",
-          "url": "",
-          "order": 0
+          "name": "Pika Labs",
+          "icon": "Assets\\favicons\\pika_art.png",
+          "faviconUrl": "Assets\\favicons\\pika_art.png",
+          "description": "简单易用",
+          "url": "https://pika.art",
+          "order": 3
         },
         {
           "name": "HeyGen",
