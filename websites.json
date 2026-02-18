@@ -77,19 +77,19 @@
           "order": 2
         },
         {
-          "name": "OnlineSIM",
-          "icon": "Assets\\favicons\\onlinesim_io.png",
-          "faviconUrl": "Assets\\favicons\\onlinesim_io.png",
-          "description": "支持长租",
-          "url": "https://onlinesim.io",
-          "order": 3
-        },
-        {
           "name": "GetSMSCode",
           "icon": "\uD83C\uDF99️",
           "faviconUrl": null,
           "description": "快速接码",
           "url": "https://getsmscode.com",
+          "order": 3
+        },
+        {
+          "name": "OnlineSIM",
+          "icon": "Assets\\favicons\\onlinesim_io.png",
+          "faviconUrl": "Assets\\favicons\\onlinesim_io.png",
+          "description": "支持长租",
+          "url": "https://onlinesim.io",
           "order": 4
         }
       ]
