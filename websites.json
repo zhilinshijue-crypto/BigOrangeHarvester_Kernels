@@ -9,19 +9,19 @@
       "order": 1,
       "featured": [
         {
-          "name": "可灵 Kling",
-          "icon": "Assets\\favicons\\klingai-share_kuaishou_com.png",
-          "faviconUrl": "Assets\\favicons\\klingai-share_kuaishou_com.png",
-          "description": "国产之光顶级水准",
-          "url": "https://klingai-share.kuaishou.com/h5-app/invitation?code=6B6A8HPQDZDF",
-          "order": 1
-        },
-        {
           "name": "Runway",
           "icon": "Assets\\favicons\\runwayml_com.png",
           "faviconUrl": "Assets\\favicons\\runwayml_com.png",
           "description": "控制力强",
           "url": "https://runwayml.com",
+          "order": 1
+        },
+        {
+          "name": "可灵 Kling",
+          "icon": "Assets\\favicons\\klingai-share_kuaishou_com.png",
+          "faviconUrl": "Assets\\favicons\\klingai-share_kuaishou_com.png",
+          "description": "国产之光顶级水准",
+          "url": "https://klingai-share.kuaishou.com/h5-app/invitation?code=6B6A8HPQDZDF",
           "order": 2
         }
       ],
@@ -141,19 +141,19 @@
           "order": 1
         },
         {
-          "name": "ComfyUI",
-          "icon": "\uD83D\uDD6F️",
-          "faviconUrl": null,
-          "description": "开源工作流",
-          "url": "https://comfyui.com",
-          "order": 2
-        },
-        {
           "name": "Liblib AI",
           "icon": "Assets\\favicons\\www_liblib_art.png",
           "faviconUrl": "Assets\\favicons\\www_liblib_art.png",
           "description": "模型社区",
           "url": "https://www.liblib.art",
+          "order": 2
+        },
+        {
+          "name": "ComfyUI",
+          "icon": "\uD83D\uDD6F️",
+          "faviconUrl": null,
+          "description": "开源工作流",
+          "url": "https://comfyui.com",
           "order": 3
         }
       ],
