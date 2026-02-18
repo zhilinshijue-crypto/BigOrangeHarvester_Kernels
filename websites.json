@@ -141,19 +141,19 @@
           "order": 1
         },
         {
+          "name": "ComfyUI",
+          "icon": "\uD83D\uDD6F️",
+          "faviconUrl": null,
+          "description": "开源工作流",
+          "url": "https://comfyui.com",
+          "order": 2
+        },
+        {
           "name": "Liblib AI",
           "icon": "Assets\\favicons\\www_liblib_art.png",
           "faviconUrl": "Assets\\favicons\\www_liblib_art.png",
           "description": "模型社区",
           "url": "https://www.liblib.art",
-          "order": 2
-        },
-        {
-          "name": "SeaArt 海艺",
-          "icon": "Assets\\favicons\\www_seaart_ai.png",
-          "faviconUrl": "Assets\\favicons\\www_seaart_ai.png",
-          "description": "工作流丰富，一键复刻作品",
-          "url": "https://www.seaart.ai",
           "order": 3
         }
       ],
@@ -167,11 +167,11 @@
           "order": 1
         },
         {
-          "name": "ComfyUI",
-          "icon": "\uD83D\uDD6F️",
-          "faviconUrl": null,
-          "description": "开源工作流",
-          "url": "https://comfyui.com",
+          "name": "SeaArt 海艺",
+          "icon": "Assets\\favicons\\www_seaart_ai.png",
+          "faviconUrl": "Assets\\favicons\\www_seaart_ai.png",
+          "description": "工作流丰富，一键复刻作品",
+          "url": "https://www.seaart.ai",
           "order": 2
         },
         {
