@@ -85,12 +85,20 @@
       ],
       "others": [
         {
+          "name": "OnlineSIM",
+          "icon": "Assets\\favicons\\onlinesim_io.png",
+          "faviconUrl": "Assets\\favicons\\onlinesim_io.png",
+          "description": "支持长租",
+          "url": "https://onlinesim.io",
+          "order": 1
+        },
+        {
           "name": "Grizzly SMS",
           "icon": "Assets\\favicons\\grizzlysms_com.png",
           "faviconUrl": "Assets\\favicons\\grizzlysms_com.png",
           "description": "稳定性强",
           "url": "https://grizzlysms.com",
-          "order": 1
+          "order": 2
         },
         {
           "name": "5SIM",
@@ -98,14 +106,6 @@
           "faviconUrl": "Assets\\favicons\\5sim_net.png",
           "description": "界面简洁，多国号码支持",
           "url": "https://5sim.net",
-          "order": 2
-        },
-        {
-          "name": "OnlineSIM",
-          "icon": "Assets\\favicons\\onlinesim_io.png",
-          "faviconUrl": "Assets\\favicons\\onlinesim_io.png",
-          "description": "支持长租",
-          "url": "https://onlinesim.io",
           "order": 3
         },
         {
