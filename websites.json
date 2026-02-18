@@ -1,6 +1,6 @@
 {
-  "version": 4,
-  "lastUpdate": "2026-02-17T09:15:00.4360515Z",
+  "version": 8,
+  "lastUpdate": "2026-02-18T10:42:06.4430015Z",
   "categories": [
     {
       "id": "ai-video",
@@ -33,6 +33,70 @@
           "description": "视频质感极强",
           "url": "https://lumalabs.ai/dream-machine",
           "order": 1
+        },
+        {
+          "name": "Haiper AI",
+          "icon": "\uD83D\uDCA1",
+          "faviconUrl": null,
+          "description": "免费生成",
+          "url": "https://haiper.ai",
+          "order": 2
+        },
+        {
+          "name": "Pixverse",
+          "icon": "Assets\\favicons\\pixverse_ai.png",
+          "faviconUrl": "Assets\\favicons\\pixverse_ai.png",
+          "description": "快速出片",
+          "url": "https://pixverse.ai",
+          "order": 3
+        },
+        {
+          "name": "Morph Studio",
+          "icon": "Assets\\favicons\\www_morphstudio_com.png",
+          "faviconUrl": "Assets\\favicons\\www_morphstudio_com.png",
+          "description": "创意工具",
+          "url": "https://www.morphstudio.com",
+          "order": 4
+        },
+        {
+          "name": "Pika Labs",
+          "icon": "Assets\\favicons\\pika_art.png",
+          "faviconUrl": "Assets\\favicons\\pika_art.png",
+          "description": "简单易用",
+          "url": "https://pika.art",
+          "order": 5
+        },
+        {
+          "name": "HeyGen",
+          "icon": "Assets\\favicons\\www_heygen_com.png",
+          "faviconUrl": "Assets\\favicons\\www_heygen_com.png",
+          "description": "数字人视频",
+          "url": "https://www.heygen.com",
+          "order": 6
+        },
+        {
+          "name": "Synthesia",
+          "icon": "Assets\\favicons\\www_synthesia_io.png",
+          "faviconUrl": "Assets\\favicons\\www_synthesia_io.png",
+          "description": "企业级数字人",
+          "url": "https://www.synthesia.io",
+          "order": 7
+        },
+        {
+          "name": "Genmo",
+          "icon": "Assets\\favicons\\genmo_ai.png",
+          "faviconUrl": "Assets\\favicons\\genmo_ai.png",
+          "description": "创意视频生成",
+          "url": "https://genmo.ai",
+          "order": 8
+        },
+        {
+          "name": "Kaiber",
+          "icon": "Assets\\favicons\\kaiber_ai.png",
+          "faviconUrl": "Assets\\favicons\\kaiber_ai.png",
+          "description": "音乐视频制作",
+          "url": "https://kaiber.ai",
+          "order": 9
         }
       ]
     },
@@ -67,6 +131,46 @@
           "description": "稳定性强",
           "url": "https://grizzlysms.com",
           "order": 1
+        },
+        {
+          "name": "5SIM",
+          "icon": "Assets\\favicons\\5sim_net.png",
+          "faviconUrl": "Assets\\favicons\\5sim_net.png",
+          "description": "多国号码",
+          "url": "https://5sim.net",
+          "order": 2
+        },
+        {
+          "name": "SMS-Activate",
+          "icon": "\uD83D\uDCF1",
+          "faviconUrl": "https://sms-activate.org/favicon.ico",
+          "description": "老牌平台",
+          "url": "https://sms-activate.org",
+          "order": 3
+        },
+        {
+          "name": "SMS-Man",
+          "icon": "\uD83D\uDC68",
+          "faviconUrl": "https://sms-man.com/favicon.ico",
+          "description": "价格实惠",
+          "url": "https://sms-man.com",
+          "order": 4
+        },
+        {
+          "name": "OnlineSIM",
+          "icon": "Assets\\favicons\\onlinesim_io.png",
+          "faviconUrl": "Assets\\favicons\\onlinesim_io.png",
+          "description": "支持长租",
+          "url": "https://onlinesim.io",
+          "order": 5
+        },
+        {
+          "name": "GetSMSCode",
+          "icon": "✉️",
+          "faviconUrl": "https://getsmscode.com/favicon.ico",
+          "description": "快速接码",
+          "url": "https://getsmscode.com",
+          "order": 6
         }
       ]
     },
@@ -85,23 +189,64 @@
           "order": 1
         },
         {
-          "name": "ComfyUI",
-          "icon": "\uD83D\uDD6F️",
-          "faviconUrl": null,
-          "description": "开源工作流",
-          "url": "https://comfyui.com",
-          "order": 3
-        },
-        {
           "name": "Liblib AI",
           "icon": "Assets\\favicons\\www_liblib_art.png",
           "faviconUrl": "Assets\\favicons\\www_liblib_art.png",
           "description": "模型社区",
           "url": "https://www.liblib.art",
           "order": 2
+        },
+        {
+          "name": "ComfyUI",
+          "icon": "\uD83D\uDD6F️",
+          "faviconUrl": null,
+          "description": "开源工作流",
+          "url": "https://comfyui.com",
+          "order": 3
         }
       ],
-      "others": []
+      "others": [
+        {
+          "name": "Tensor.Art",
+          "icon": "Assets\\favicons\\tensor_art.png",
+          "faviconUrl": "Assets\\favicons\\tensor_art.png",
+          "description": "免费算力",
+          "url": "https://tensor.art",
+          "order": 1
+        },
+        {
+          "name": "SeaArt",
+          "icon": "Assets\\favicons\\www_seaart_ai.png",
+          "faviconUrl": "Assets\\favicons\\www_seaart_ai.png",
+          "description": "海量模型",
+          "url": "https://www.seaart.ai",
+          "order": 2
+        },
+        {
+          "name": "OpenArt",
+          "icon": "Assets\\favicons\\openart_ai.png",
+          "faviconUrl": "Assets\\favicons\\openart_ai.png",
+          "description": "批量生产",
+          "url": "https://openart.ai",
+          "order": 3
+        },
+        {
+          "name": "Civitai",
+          "icon": "Assets\\favicons\\civitai_com.png",
+          "faviconUrl": "Assets\\favicons\\civitai_com.png",
+          "description": "SD社区",
+          "url": "https://civitai.com",
+          "order": 4
+        },
+        {
+          "name": "Leonardo.AI",
+          "icon": "Assets\\favicons\\leonardo_ai.png",
+          "faviconUrl": "Assets\\favicons\\leonardo_ai.png",
+          "description": "游戏素材",
+          "url": "https://leonardo.ai",
+          "order": 5
+        }
+      ]
     },
     {
       "id": "proxy",
@@ -158,6 +303,22 @@
           "description": "高端服务",
           "url": "https://oxylabs.io",
           "order": 4
+        },
+        {
+          "name": "NetNut",
+          "icon": "Assets\\favicons\\netnut_io.png",
+          "faviconUrl": "Assets\\favicons\\netnut_io.png",
+          "description": "住宅代理",
+          "url": "https://netnut.io",
+          "order": 5
+        },
+        {
+          "name": "IPRoyal",
+          "icon": "Assets\\favicons\\iproyal_com.png",
+          "faviconUrl": "Assets\\favicons\\iproyal_com.png",
+          "description": "性价比高",
+          "url": "https://iproyal.com",
+          "order": 6
         }
       ]
     },
@@ -216,6 +377,30 @@
           "description": "交易市场",
           "url": "https://promptbase.com",
           "order": 4
+        },
+        {
+          "name": "PromptPerfect",
+          "icon": "Assets\\favicons\\promptperfect_jina_ai.png",
+          "faviconUrl": "Assets\\favicons\\promptperfect_jina_ai.png",
+          "description": "提示词优化",
+          "url": "https://promptperfect.jina.ai",
+          "order": 5
+        },
+        {
+          "name": "PromptLayer",
+          "icon": "Assets\\favicons\\promptlayer_com.png",
+          "faviconUrl": "Assets\\favicons\\promptlayer_com.png",
+          "description": "提示词管理",
+          "url": "https://promptlayer.com",
+          "order": 6
+        },
+        {
+          "name": "Awesome ChatGPT Prompts",
+          "icon": "Assets\\favicons\\prompts_chat.png",
+          "faviconUrl": "Assets\\favicons\\prompts_chat.png",
+          "description": "精选提示词",
+          "url": "https://prompts.chat",
+          "order": 7
         }
       ]
     }
