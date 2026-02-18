@@ -17,12 +17,20 @@
           "order": 1
         },
         {
+          "name": "Runway",
+          "icon": "Assets\\favicons\\runwayml_com.png",
+          "faviconUrl": "Assets\\favicons\\runwayml_com.png",
+          "description": "控制力强",
+          "url": "https://runwayml.com",
+          "order": 2
+        },
+        {
           "name": "Luma Dream Machine",
           "icon": "Assets\\favicons\\lumalabs_ai.png",
           "faviconUrl": "Assets\\favicons\\lumalabs_ai.png",
           "description": "视频质感极强",
           "url": "https://lumalabs.ai/dream-machine",
-          "order": 2
+          "order": 3
         }
       ],
       "others": [
@@ -43,20 +51,12 @@
           "order": 2
         },
         {
-          "name": "Runway",
-          "icon": "Assets\\favicons\\runwayml_com.png",
-          "faviconUrl": "Assets\\favicons\\runwayml_com.png",
-          "description": "控制力强",
-          "url": "https://runwayml.com",
-          "order": 3
-        },
-        {
           "name": "HeyGen",
           "icon": "Assets\\favicons\\www_heygen_com.png",
           "faviconUrl": "Assets\\favicons\\www_heygen_com.png",
           "description": "数字人",
           "url": "https://www.heygen.com",
-          "order": 4
+          "order": 3
         }
       ]
     },
