@@ -144,20 +144,20 @@
           "order": 2
         },
         {
-          "name": "Oxylabs",
-          "icon": "Assets\\favicons\\oxylabs_io.png",
-          "faviconUrl": "Assets\\favicons\\oxylabs_io.png",
-          "description": "高端服务",
-          "url": "https://oxylabs.io",
-          "order": 4
-        },
-        {
           "name": "Smartproxy",
           "icon": "Assets\\favicons\\smartproxy_com.png",
           "faviconUrl": "Assets\\favicons\\smartproxy_com.png",
           "description": "智能轮换",
           "url": "https://smartproxy.com",
           "order": 3
+        },
+        {
+          "name": "Oxylabs",
+          "icon": "Assets\\favicons\\oxylabs_io.png",
+          "faviconUrl": "Assets\\favicons\\oxylabs_io.png",
+          "description": "高端服务",
+          "url": "https://oxylabs.io",
+          "order": 4
         }
       ]
     },
