@@ -75,20 +75,12 @@
           "order": 1
         },
         {
-          "name": "5SIM",
-          "icon": "Assets\\favicons\\5sim_net.png",
-          "faviconUrl": "Assets\\favicons\\5sim_net.png",
-          "description": "界面简洁，多国号码支持",
-          "url": "https://5sim.net",
-          "order": 2
-        },
-        {
           "name": "白鲸数据共享",
           "icon": "\uD83D\uDDA8️",
           "faviconUrl": null,
           "description": "根据短信抬头接收验证码",
           "url": "https://web.tqsms.xyz/#/register?inviter=242950",
-          "order": 3
+          "order": 2
         }
       ],
       "others": [
@@ -101,12 +93,20 @@
           "order": 1
         },
         {
+          "name": "5SIM",
+          "icon": "Assets\\favicons\\5sim_net.png",
+          "faviconUrl": "Assets\\favicons\\5sim_net.png",
+          "description": "界面简洁，多国号码支持",
+          "url": "https://5sim.net",
+          "order": 2
+        },
+        {
           "name": "OnlineSIM",
           "icon": "Assets\\favicons\\onlinesim_io.png",
           "faviconUrl": "Assets\\favicons\\onlinesim_io.png",
           "description": "支持长租",
           "url": "https://onlinesim.io",
-          "order": 2
+          "order": 3
         },
         {
           "name": "SMS-Man",
@@ -114,7 +114,7 @@
           "faviconUrl": "Assets\\favicons\\sms-man_com.png",
           "description": "价格实惠",
           "url": "https://sms-man.com",
-          "order": 3
+          "order": 4
         },
         {
           "name": "GetSMSCode",
@@ -122,7 +122,7 @@
           "faviconUrl": null,
           "description": "快速接码",
           "url": "https://getsmscode.com",
-          "order": 4
+          "order": 5
         }
       ]
     },
