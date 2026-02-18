@@ -43,19 +43,19 @@
           "order": 2
         },
         {
-          "name": "Synthesia",
-          "icon": "Assets\\favicons\\www_synthesia_io.png",
-          "faviconUrl": "Assets\\favicons\\www_synthesia_io.png",
-          "description": "企业级",
-          "url": "https://www.synthesia.io",
-          "order": 3
-        },
-        {
           "name": "Pika Labs",
           "icon": "Assets\\favicons\\pika_art.png",
           "faviconUrl": "Assets\\favicons\\pika_art.png",
           "description": "简单易用",
           "url": "https://pika.art",
+          "order": 3
+        },
+        {
+          "name": "Synthesia",
+          "icon": "Assets\\favicons\\www_synthesia_io.png",
+          "faviconUrl": "Assets\\favicons\\www_synthesia_io.png",
+          "description": "企业级",
+          "url": "https://www.synthesia.io",
           "order": 4
         }
       ]
