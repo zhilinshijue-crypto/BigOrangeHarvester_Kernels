@@ -35,12 +35,20 @@
           "order": 1
         },
         {
+          "name": "Luma Dream Machine",
+          "icon": "Assets\\favicons\\lumalabs_ai.png",
+          "faviconUrl": "Assets\\favicons\\lumalabs_ai.png",
+          "description": "视频质感极强",
+          "url": "https://lumalabs.ai/dream-machine",
+          "order": 2
+        },
+        {
           "name": "HeyGen",
           "icon": "Assets\\favicons\\www_heygen_com.png",
           "faviconUrl": "Assets\\favicons\\www_heygen_com.png",
           "description": "数字人",
           "url": "https://www.heygen.com",
-          "order": 2
+          "order": 3
         },
         {
           "name": "Synthesia",
@@ -48,14 +56,6 @@
           "faviconUrl": "Assets\\favicons\\www_synthesia_io.png",
           "description": "企业级",
           "url": "https://www.synthesia.io",
-          "order": 3
-        },
-        {
-          "name": "Luma Dream Machine",
-          "icon": "Assets\\favicons\\lumalabs_ai.png",
-          "faviconUrl": "Assets\\favicons\\lumalabs_ai.png",
-          "description": "视频质感极强",
-          "url": "https://lumalabs.ai/dream-machine",
           "order": 4
         }
       ]
