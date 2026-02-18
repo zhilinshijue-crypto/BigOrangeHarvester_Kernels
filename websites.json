@@ -1,6 +1,6 @@
 {
-  "version": 8,
-  "lastUpdate": "2026-02-18T10:42:06.4430015Z",
+  "version": 9,
+  "lastUpdate": "2026-02-18T10:47:19.0201841Z",
   "categories": [
     {
       "id": "ai-video",
@@ -9,12 +9,20 @@
       "order": 1,
       "featured": [
         {
+          "name": "即梦 Jusdream",
+          "icon": "Assets\\favicons\\jimeng_jianying_com.png",
+          "faviconUrl": "Assets\\favicons\\jimeng_jianying_com.png",
+          "description": "字节Seedance 2.0",
+          "url": "https://jimeng.jianying.com",
+          "order": 1
+        },
+        {
           "name": "Runway",
           "icon": "Assets\\favicons\\runwayml_com.png",
           "faviconUrl": "Assets\\favicons\\runwayml_com.png",
           "description": "控制力强",
           "url": "https://runwayml.com",
-          "order": 1
+          "order": 2
         },
         {
           "name": "可灵 Kling",
@@ -22,7 +30,7 @@
           "faviconUrl": "Assets\\favicons\\klingai-share_kuaishou_com.png",
           "description": "国产之光顶级水准",
           "url": "https://klingai-share.kuaishou.com/h5-app/invitation?code=6B6A8HPQDZDF",
-          "order": 2
+          "order": 3
         }
       ],
       "others": [
@@ -97,6 +105,22 @@
           "description": "音乐视频制作",
           "url": "https://kaiber.ai",
           "order": 9
+        },
+        {
+          "name": "Google Veo",
+          "icon": "Assets\\favicons\\deepmind_google.png",
+          "faviconUrl": "Assets\\favicons\\deepmind_google.png",
+          "description": "电影级真实感",
+          "url": "https://deepmind.google/technologies/veo",
+          "order": 10
+        },
+        {
+          "name": "Adobe Firefly",
+          "icon": "Assets\\favicons\\firefly_adobe_com.png",
+          "faviconUrl": "Assets\\favicons\\firefly_adobe_com.png",
+          "description": "Adobe生态整合",
+          "url": "https://firefly.adobe.com",
+          "order": 11
         }
       ]
     },
