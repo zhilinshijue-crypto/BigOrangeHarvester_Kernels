@@ -32,7 +32,7 @@
           "faviconUrl": "Assets\\favicons\\lumalabs_ai.png",
           "description": "视频质感极强",
           "url": "https://lumalabs.ai/dream-machine",
-          "order": 2
+          "order": 1
         }
       ]
     },
@@ -77,20 +77,12 @@
           "order": 2
         },
         {
-          "name": "",
-          "icon": "",
-          "faviconUrl": null,
-          "description": "",
-          "url": "",
-          "order": 3
-        },
-        {
           "name": "OnlineSIM",
           "icon": "Assets\\favicons\\onlinesim_io.png",
           "faviconUrl": "Assets\\favicons\\onlinesim_io.png",
           "description": "支持长租",
           "url": "https://onlinesim.io",
-          "order": 4
+          "order": 3
         },
         {
           "name": "GetSMSCode",
@@ -98,7 +90,7 @@
           "faviconUrl": null,
           "description": "快速接码",
           "url": "https://getsmscode.com",
-          "order": 5
+          "order": 4
         }
       ]
     },
