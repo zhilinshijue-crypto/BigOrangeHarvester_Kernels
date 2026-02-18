@@ -43,19 +43,19 @@
           "order": 1
         },
         {
-          "name": "Luma Dream Machine",
-          "icon": "Assets\\favicons\\lumalabs_ai.png",
-          "faviconUrl": "Assets\\favicons\\lumalabs_ai.png",
-          "description": "视频质感极强",
-          "url": "https://lumalabs.ai/dream-machine",
-          "order": 2
-        },
-        {
           "name": "HeyGen",
           "icon": "Assets\\favicons\\www_heygen_com.png",
           "faviconUrl": "Assets\\favicons\\www_heygen_com.png",
           "description": "数字人",
           "url": "https://www.heygen.com",
+          "order": 2
+        },
+        {
+          "name": "Luma Dream Machine",
+          "icon": "Assets\\favicons\\lumalabs_ai.png",
+          "faviconUrl": "Assets\\favicons\\lumalabs_ai.png",
+          "description": "视频质感极强",
+          "url": "https://lumalabs.ai/dream-machine",
           "order": 3
         }
       ]
