@@ -85,20 +85,20 @@
           "order": 1
         },
         {
-          "name": "Liblib AI",
-          "icon": "Assets\\favicons\\www_liblib_art.png",
-          "faviconUrl": "Assets\\favicons\\www_liblib_art.png",
-          "description": "模型社区",
-          "url": "https://www.liblib.art",
-          "order": 2
-        },
-        {
           "name": "ComfyUI",
           "icon": "\uD83D\uDD6F️",
           "faviconUrl": null,
           "description": "开源工作流",
           "url": "https://comfyui.com",
           "order": 3
+        },
+        {
+          "name": "Liblib AI",
+          "icon": "Assets\\favicons\\www_liblib_art.png",
+          "faviconUrl": "Assets\\favicons\\www_liblib_art.png",
+          "description": "模型社区",
+          "url": "https://www.liblib.art",
+          "order": 2
         }
       ],
       "others": []
