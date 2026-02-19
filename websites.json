@@ -1,6 +1,6 @@
 {
-  "version": 2,
-  "lastUpdate": "2026-02-19T05:56:20.9127386Z",
+  "version": 3,
+  "lastUpdate": "2026-02-19T06:01:50.5827124Z",
   "categories": [
     {
       "id": "hot-recommend",
@@ -51,8 +51,8 @@
       "featured": [
         {
           "name": "可灵 Kling",
-          "icon": "\uD83C\uDFA5",
-          "faviconUrl": "",
+          "icon": "Assets\\favicons\\klingai_com.png",
+          "faviconUrl": "Assets\\favicons\\klingai_com.png",
           "description": "国产顶级AI视频",
           "url": "https://klingai.com",
           "order": 1
