@@ -1,432 +1,375 @@
 {
-  "version": 10,
-  "lastUpdate": "2026-02-19T02:19:31.9875853Z",
+  "version": 2,
+  "lastUpdate": "2026-02-19T05:56:20.9127386Z",
   "categories": [
     {
-      "id": "ai-video",
-      "name": "AI 视频创作",
-      "icon": "",
+      "id": "hot-recommend",
+      "name": "热门推荐",
+      "icon": "\uD83D\uDD25",
       "order": 1,
       "featured": [
         {
-          "name": "即梦 Jusdream",
-          "icon": "Assets\\favicons\\jimeng_jianying_com.png",
-          "faviconUrl": "Assets\\favicons\\jimeng_jianying_com.png",
-          "description": "字节Seedance 2.0",
-          "url": "https://jimeng.jianying.com",
+          "name": "可灵 Kling",
+          "icon": "Assets\\favicons\\klingai_com.png",
+          "faviconUrl": "Assets\\favicons\\klingai_com.png",
+          "description": "国产AI视频",
+          "url": "https://klingai.com",
+          "order": 1
+        },
+        {
+          "name": "ChatGPT",
+          "icon": "\uD83E\uDD16",
+          "faviconUrl": "",
+          "description": "AI对话",
+          "url": "https://chat.openai.com",
+          "order": 2
+        },
+        {
+          "name": "Midjourney",
+          "icon": "\uD83C\uDFA8",
+          "faviconUrl": "",
+          "description": "AI绘画",
+          "url": "https://midjourney.com",
+          "order": 3
+        },
+        {
+          "name": "Claude",
+          "icon": "\uD83D\uDCAC",
+          "faviconUrl": "",
+          "description": "AI助手",
+          "url": "https://claude.ai",
+          "order": 4
+        }
+      ],
+      "others": []
+    },
+    {
+      "id": "ai-video",
+      "name": "AI视频创作",
+      "icon": "\uD83C\uDFAC",
+      "order": 2,
+      "featured": [
+        {
+          "name": "可灵 Kling",
+          "icon": "\uD83C\uDFA5",
+          "faviconUrl": "",
+          "description": "国产顶级AI视频",
+          "url": "https://klingai.com",
           "order": 1
         },
         {
           "name": "Runway",
-          "icon": "Assets\\favicons\\runwayml_com.png",
-          "faviconUrl": "Assets\\favicons\\runwayml_com.png",
-          "description": "控制力强",
+          "icon": "\uD83C\uDF9E️",
+          "faviconUrl": "",
+          "description": "专业视频生成",
           "url": "https://runwayml.com",
           "order": 2
         },
         {
-          "name": "可灵 Kling",
-          "icon": "Assets\\favicons\\klingai-share_kuaishou_com.png",
-          "faviconUrl": "Assets\\favicons\\klingai-share_kuaishou_com.png",
-          "description": "国产之光顶级水准",
-          "url": "https://klingai-share.kuaishou.com/h5-app/invitation?code=6B6A8HPQDZDF",
-          "order": 3
-        }
-      ],
-      "others": [
-        {
-          "name": "Luma Dream Machine",
-          "icon": "Assets\\favicons\\lumalabs_ai.png",
-          "faviconUrl": "Assets\\favicons\\lumalabs_ai.png",
-          "description": "视频质感极强",
-          "url": "https://lumalabs.ai/dream-machine",
-          "order": 1
-        },
-        {
-          "name": "Haiper AI",
-          "icon": "\uD83D\uDCA1",
-          "faviconUrl": null,
-          "description": "免费生成",
-          "url": "https://haiper.ai",
-          "order": 2
-        },
-        {
-          "name": "Pixverse",
-          "icon": "Assets\\favicons\\pixverse_ai.png",
-          "faviconUrl": "Assets\\favicons\\pixverse_ai.png",
-          "description": "快速出片",
-          "url": "https://pixverse.ai",
-          "order": 3
-        },
-        {
-          "name": "Morph Studio",
-          "icon": "Assets\\favicons\\www_morphstudio_com.png",
-          "faviconUrl": "Assets\\favicons\\www_morphstudio_com.png",
-          "description": "创意工具",
-          "url": "https://www.morphstudio.com",
-          "order": 4
-        },
-        {
-          "name": "Pika Labs",
-          "icon": "Assets\\favicons\\pika_art.png",
-          "faviconUrl": "Assets\\favicons\\pika_art.png",
+          "name": "Pika",
+          "icon": "⚡",
+          "faviconUrl": "",
           "description": "简单易用",
           "url": "https://pika.art",
-          "order": 5
+          "order": 3
         },
         {
           "name": "HeyGen",
-          "icon": "Assets\\favicons\\www_heygen_com.png",
-          "faviconUrl": "Assets\\favicons\\www_heygen_com.png",
+          "icon": "\uD83D\uDC64",
+          "faviconUrl": "",
           "description": "数字人视频",
-          "url": "https://www.heygen.com",
-          "order": 6
-        },
-        {
-          "name": "Synthesia",
-          "icon": "Assets\\favicons\\www_synthesia_io.png",
-          "faviconUrl": "Assets\\favicons\\www_synthesia_io.png",
-          "description": "企业级数字人",
-          "url": "https://www.synthesia.io",
-          "order": 7
-        },
-        {
-          "name": "Genmo",
-          "icon": "Assets\\favicons\\genmo_ai.png",
-          "faviconUrl": "Assets\\favicons\\genmo_ai.png",
-          "description": "创意视频生成",
-          "url": "https://genmo.ai",
-          "order": 8
-        },
-        {
-          "name": "Kaiber",
-          "icon": "Assets\\favicons\\kaiber_ai.png",
-          "faviconUrl": "Assets\\favicons\\kaiber_ai.png",
-          "description": "音乐视频制作",
-          "url": "https://kaiber.ai",
-          "order": 9
-        },
-        {
-          "name": "Google Veo",
-          "icon": "Assets\\favicons\\deepmind_google.png",
-          "faviconUrl": "Assets\\favicons\\deepmind_google.png",
-          "description": "电影级真实感",
-          "url": "https://deepmind.google/technologies/veo",
-          "order": 10
-        },
-        {
-          "name": "Adobe Firefly",
-          "icon": "Assets\\favicons\\firefly_adobe_com.png",
-          "faviconUrl": "Assets\\favicons\\firefly_adobe_com.png",
-          "description": "Adobe生态整合",
-          "url": "https://firefly.adobe.com",
-          "order": 11
+          "url": "https://heygen.com",
+          "order": 4
         }
-      ]
+      ],
+      "others": []
+    },
+    {
+      "id": "ai-writing",
+      "name": "AI文本写作",
+      "icon": "✍️",
+      "order": 3,
+      "featured": [
+        {
+          "name": "ChatGPT",
+          "icon": "\uD83E\uDD16",
+          "faviconUrl": "",
+          "description": "OpenAI对话",
+          "url": "https://chat.openai.com",
+          "order": 1
+        },
+        {
+          "name": "Claude",
+          "icon": "\uD83D\uDCAC",
+          "faviconUrl": "",
+          "description": "Anthropic助手",
+          "url": "https://claude.ai",
+          "order": 2
+        },
+        {
+          "name": "Notion AI",
+          "icon": "\uD83D\uDCDD",
+          "faviconUrl": "",
+          "description": "智能笔记",
+          "url": "https://notion.so",
+          "order": 3
+        },
+        {
+          "name": "Jasper",
+          "icon": "✨",
+          "faviconUrl": "",
+          "description": "营销文案",
+          "url": "https://jasper.ai",
+          "order": 4
+        }
+      ],
+      "others": []
+    },
+    {
+      "id": "ai-image",
+      "name": "AI绘图制作",
+      "icon": "\uD83C\uDFA8",
+      "order": 4,
+      "featured": [
+        {
+          "name": "Midjourney",
+          "icon": "\uD83C\uDFA8",
+          "faviconUrl": "",
+          "description": "顶级AI绘画",
+          "url": "https://midjourney.com",
+          "order": 1
+        },
+        {
+          "name": "Stable Diffusion",
+          "icon": "\uD83D\uDDBC️",
+          "faviconUrl": "",
+          "description": "开源AI绘画",
+          "url": "https://stablediffusionweb.com",
+          "order": 2
+        },
+        {
+          "name": "DALL-E 3",
+          "icon": "\uD83C\uDFAD",
+          "faviconUrl": "",
+          "description": "OpenAI绘画",
+          "url": "https://openai.com/dall-e-3",
+          "order": 3
+        },
+        {
+          "name": "Leonardo AI",
+          "icon": "\uD83D\uDD8C️",
+          "faviconUrl": "",
+          "description": "游戏素材",
+          "url": "https://leonardo.ai",
+          "order": 4
+        }
+      ],
+      "others": []
+    },
+    {
+      "id": "ai-3d",
+      "name": "AI 3D建模",
+      "icon": "\uD83E\uDDCA",
+      "order": 5,
+      "featured": [
+        {
+          "name": "Spline",
+          "icon": "\uD83C\uDFB2",
+          "faviconUrl": "",
+          "description": "3D设计工具",
+          "url": "https://spline.design",
+          "order": 1
+        },
+        {
+          "name": "Luma AI",
+          "icon": "\uD83D\uDCF8",
+          "faviconUrl": "",
+          "description": "3D扫描",
+          "url": "https://lumalabs.ai",
+          "order": 2
+        },
+        {
+          "name": "Meshy",
+          "icon": "\uD83D\uDDFF",
+          "faviconUrl": "",
+          "description": "文本转3D",
+          "url": "https://meshy.ai",
+          "order": 3
+        },
+        {
+          "name": "Kaedim",
+          "icon": "\uD83C\uDFAF",
+          "faviconUrl": "",
+          "description": "图片转3D",
+          "url": "https://kaedim3d.com",
+          "order": 4
+        }
+      ],
+      "others": []
+    },
+    {
+      "id": "ai-office",
+      "name": "AI办公学习",
+      "icon": "\uD83D\uDCDA",
+      "order": 6,
+      "featured": [
+        {
+          "name": "Notion AI",
+          "icon": "\uD83D\uDCDD",
+          "faviconUrl": "",
+          "description": "智能笔记",
+          "url": "https://notion.so",
+          "order": 1
+        },
+        {
+          "name": "Gamma",
+          "icon": "\uD83D\uDCCA",
+          "faviconUrl": "",
+          "description": "AI演示文稿",
+          "url": "https://gamma.app",
+          "order": 2
+        },
+        {
+          "name": "Beautiful.ai",
+          "icon": "\uD83C\uDFAF",
+          "faviconUrl": "",
+          "description": "PPT生成",
+          "url": "https://beautiful.ai",
+          "order": 3
+        },
+        {
+          "name": "Grammarly",
+          "icon": "✅",
+          "faviconUrl": "",
+          "description": "语法检查",
+          "url": "https://grammarly.com",
+          "order": 4
+        }
+      ],
+      "others": []
+    },
+    {
+      "id": "ai-coding",
+      "name": "AI编程开发",
+      "icon": "\uD83D\uDCBB",
+      "order": 7,
+      "featured": [
+        {
+          "name": "GitHub Copilot",
+          "icon": "\uD83D\uDC19",
+          "faviconUrl": "",
+          "description": "AI编程助手",
+          "url": "https://github.com/features/copilot",
+          "order": 1
+        },
+        {
+          "name": "Cursor",
+          "icon": "⚡",
+          "faviconUrl": "",
+          "description": "AI代码编辑器",
+          "url": "https://cursor.sh",
+          "order": 2
+        },
+        {
+          "name": "Replit",
+          "icon": "\uD83D\uDD27",
+          "faviconUrl": "",
+          "description": "在线编程",
+          "url": "https://replit.com",
+          "order": 3
+        },
+        {
+          "name": "Tabnine",
+          "icon": "\uD83E\uDD16",
+          "faviconUrl": "",
+          "description": "代码补全",
+          "url": "https://tabnine.com",
+          "order": 4
+        }
+      ],
+      "others": []
     },
     {
       "id": "sms",
       "name": "短信接码",
-      "icon": "",
-      "order": 2,
+      "icon": "\uD83D\uDCF1",
+      "order": 8,
       "featured": [
         {
-          "name": "E码云短信",
-          "icon": "Assets\\favicons\\www_eomsg_com.png",
-          "faviconUrl": "Assets\\favicons\\www_eomsg_com.png",
-          "description": "自用4年",
-          "url": "http://www.eomsg.com/appweb/signUp.html?inviter=2serye1b",
-          "order": 1
-        },
-        {
-          "name": "白鲸数据共享",
-          "icon": "\uD83D\uDDA8️",
-          "faviconUrl": null,
-          "description": "根据短信抬头接收验证码",
-          "url": "https://web.tqsms.xyz/#/register?inviter=242950",
-          "order": 2
-        }
-      ],
-      "others": [
-        {
-          "name": "Grizzly SMS",
-          "icon": "Assets\\favicons\\grizzlysms_com.png",
-          "faviconUrl": "Assets\\favicons\\grizzlysms_com.png",
-          "description": "稳定性强",
-          "url": "https://grizzlysms.com",
+          "name": "SMS-Activate",
+          "icon": "\uD83D\uDCF2",
+          "faviconUrl": "",
+          "description": "全球接码",
+          "url": "https://sms-activate.org",
           "order": 1
         },
         {
           "name": "5SIM",
-          "icon": "Assets\\favicons\\5sim_net.png",
-          "faviconUrl": "Assets\\favicons\\5sim_net.png",
-          "description": "多国号码",
+          "icon": "5️⃣",
+          "faviconUrl": "",
+          "description": "便宜接码",
           "url": "https://5sim.net",
           "order": 2
         },
         {
-          "name": "SMS-Activate",
-          "icon": "\uD83D\uDCF1",
-          "faviconUrl": "https://sms-activate.org/favicon.ico",
-          "description": "老牌平台",
-          "url": "https://sms-activate.org",
+          "name": "GetSMS",
+          "icon": "\uD83D\uDCDE",
+          "faviconUrl": "",
+          "description": "快速接码",
+          "url": "https://getsms.online",
           "order": 3
         },
         {
           "name": "SMS-Man",
           "icon": "\uD83D\uDC68",
-          "faviconUrl": "https://sms-man.com/favicon.ico",
-          "description": "价格实惠",
+          "faviconUrl": "",
+          "description": "稳定接码",
           "url": "https://sms-man.com",
           "order": 4
-        },
-        {
-          "name": "OnlineSIM",
-          "icon": "Assets\\favicons\\onlinesim_io.png",
-          "faviconUrl": "Assets\\favicons\\onlinesim_io.png",
-          "description": "支持长租",
-          "url": "https://onlinesim.io",
-          "order": 5
-        },
-        {
-          "name": "GetSMSCode",
-          "icon": "✉️",
-          "faviconUrl": "https://getsmscode.com/favicon.ico",
-          "description": "快速接码",
-          "url": "https://getsmscode.com",
-          "order": 6
-        }
-      ]
-    },
-    {
-      "id": "automation",
-      "name": "自动化与工作流",
-      "icon": "",
-      "order": 3,
-      "featured": [
-        {
-          "name": "RunningHub",
-          "icon": "Assets\\favicons\\www_runninghub_cn.png",
-          "faviconUrl": "Assets\\favicons\\www_runninghub_cn.png",
-          "description": "云端ComfyUI工作流",
-          "url": "https://www.runninghub.cn/?inviteCode=xotckcje",
-          "order": 1
-        },
-        {
-          "name": "Liblib AI",
-          "icon": "Assets\\favicons\\www_liblib_art.png",
-          "faviconUrl": "Assets\\favicons\\www_liblib_art.png",
-          "description": "模型社区",
-          "url": "https://www.liblib.art",
-          "order": 2
-        },
-        {
-          "name": "ComfyUI",
-          "icon": "\uD83D\uDD6F️",
-          "faviconUrl": null,
-          "description": "开源工作流",
-          "url": "https://comfyui.com",
-          "order": 3
         }
       ],
-      "others": [
-        {
-          "name": "Tensor.Art",
-          "icon": "Assets\\favicons\\tensor_art.png",
-          "faviconUrl": "Assets\\favicons\\tensor_art.png",
-          "description": "免费算力",
-          "url": "https://tensor.art",
-          "order": 1
-        },
-        {
-          "name": "SeaArt",
-          "icon": "Assets\\favicons\\www_seaart_ai.png",
-          "faviconUrl": "Assets\\favicons\\www_seaart_ai.png",
-          "description": "海量模型",
-          "url": "https://www.seaart.ai",
-          "order": 2
-        },
-        {
-          "name": "OpenArt",
-          "icon": "Assets\\favicons\\openart_ai.png",
-          "faviconUrl": "Assets\\favicons\\openart_ai.png",
-          "description": "批量生产",
-          "url": "https://openart.ai",
-          "order": 3
-        },
-        {
-          "name": "Civitai",
-          "icon": "Assets\\favicons\\civitai_com.png",
-          "faviconUrl": "Assets\\favicons\\civitai_com.png",
-          "description": "SD社区",
-          "url": "https://civitai.com",
-          "order": 4
-        },
-        {
-          "name": "Leonardo.AI",
-          "icon": "Assets\\favicons\\leonardo_ai.png",
-          "faviconUrl": "Assets\\favicons\\leonardo_ai.png",
-          "description": "游戏素材",
-          "url": "https://leonardo.ai",
-          "order": 5
-        }
-      ]
+      "others": []
     },
     {
       "id": "proxy",
-      "name": "代理 IP 补给站",
-      "icon": "",
-      "order": 4,
+      "name": "代理IP",
+      "icon": "\uD83C\uDF10",
+      "order": 9,
       "featured": [
         {
-          "name": "Webshare",
-          "icon": "Assets\\favicons\\www_webshare_io.png",
-          "faviconUrl": "Assets\\favicons\\www_webshare_io.png",
-          "description": "性价比高，大规模扫号首选",
-          "url": "https://www.webshare.io/?referral_code=n6mi3dp9ovym",
-          "order": 1
-        },
-        {
-          "name": "IPRoyal",
-          "icon": "Assets\\favicons\\iproyal_cn.png",
-          "faviconUrl": "Assets\\favicons\\iproyal_cn.png",
-          "description": "住宅IP纯净度高，质量保证",
-          "url": "https://iproyal.cn/?r=大橘已定",
-          "order": 2
-        }
-      ],
-      "others": [
-        {
-          "name": "Proxy-Seller",
-          "icon": "Assets\\favicons\\proxy-seller_com.png",
-          "faviconUrl": "Assets\\favicons\\proxy-seller_com.png",
-          "description": "偏僻地区",
-          "url": "https://proxy-seller.com",
-          "order": 1
-        },
-        {
           "name": "Bright Data",
-          "icon": "Assets\\favicons\\brightdata_com.png",
-          "faviconUrl": "Assets\\favicons\\brightdata_com.png",
-          "description": "企业级",
+          "icon": "\uD83D\uDD06",
+          "faviconUrl": "",
+          "description": "企业级代理",
           "url": "https://brightdata.com",
-          "order": 2
+          "order": 1
         },
         {
           "name": "Smartproxy",
-          "icon": "Assets\\favicons\\smartproxy_com.png",
-          "faviconUrl": "Assets\\favicons\\smartproxy_com.png",
-          "description": "智能轮换",
+          "icon": "\uD83E\uDDE0",
+          "faviconUrl": "",
+          "description": "住宅代理",
           "url": "https://smartproxy.com",
-          "order": 3
+          "order": 2
         },
         {
           "name": "Oxylabs",
-          "icon": "Assets\\favicons\\oxylabs_io.png",
-          "faviconUrl": "Assets\\favicons\\oxylabs_io.png",
-          "description": "高端服务",
+          "icon": "\uD83D\uDD2C",
+          "faviconUrl": "",
+          "description": "数据采集",
           "url": "https://oxylabs.io",
-          "order": 4
-        },
-        {
-          "name": "NetNut",
-          "icon": "Assets\\favicons\\netnut_io.png",
-          "faviconUrl": "Assets\\favicons\\netnut_io.png",
-          "description": "住宅代理",
-          "url": "https://netnut.io",
-          "order": 5
-        },
-        {
-          "name": "IPRoyal",
-          "icon": "Assets\\favicons\\iproyal_com.png",
-          "faviconUrl": "Assets\\favicons\\iproyal_com.png",
-          "description": "性价比高",
-          "url": "https://iproyal.com",
-          "order": 6
-        }
-      ]
-    },
-    {
-      "id": "prompts",
-      "name": "AI 提示词收藏站",
-      "icon": "",
-      "order": 5,
-      "featured": [
-        {
-          "name": "PromptHero",
-          "icon": "Assets\\favicons\\prompthero_com.png",
-          "faviconUrl": "Assets\\favicons\\prompthero_com.png",
-          "description": "全球AI提示词图书馆",
-          "url": "https://prompthero.com",
-          "order": 1
-        },
-        {
-          "name": "FlowGPT",
-          "icon": "Assets\\favicons\\flowgpt_com.png",
-          "faviconUrl": "Assets\\favicons\\flowgpt_com.png",
-          "description": "ChatGPT/Claude高级指令库",
-          "url": "https://flowgpt.com",
-          "order": 2
-        }
-      ],
-      "others": [
-        {
-          "name": "Snakeprompt",
-          "icon": "\uD83E\uDDEB",
-          "faviconUrl": null,
-          "description": "中文词库",
-          "url": "https://snakeprompt.com",
-          "order": 1
-        },
-        {
-          "name": "Lexica",
-          "icon": "Assets\\favicons\\lexica_art.png",
-          "faviconUrl": "Assets\\favicons\\lexica_art.png",
-          "description": "图像搜索",
-          "url": "https://lexica.art",
-          "order": 2
-        },
-        {
-          "name": "Civitai",
-          "icon": "Assets\\favicons\\civitai_com.png",
-          "faviconUrl": "Assets\\favicons\\civitai_com.png",
-          "description": "SD社区",
-          "url": "https://civitai.com",
           "order": 3
         },
         {
-          "name": "PromptBase",
-          "icon": "Assets\\favicons\\promptbase_com.png",
-          "faviconUrl": "Assets\\favicons\\promptbase_com.png",
-          "description": "交易市场",
-          "url": "https://promptbase.com",
+          "name": "IPRoyal",
+          "icon": "\uD83D\uDC51",
+          "faviconUrl": "",
+          "description": "性价比高",
+          "url": "https://iproyal.com",
           "order": 4
-        },
-        {
-          "name": "PromptPerfect",
-          "icon": "Assets\\favicons\\promptperfect_jina_ai.png",
-          "faviconUrl": "Assets\\favicons\\promptperfect_jina_ai.png",
-          "description": "提示词优化",
-          "url": "https://promptperfect.jina.ai",
-          "order": 5
-        },
-        {
-          "name": "PromptLayer",
-          "icon": "Assets\\favicons\\promptlayer_com.png",
-          "faviconUrl": "Assets\\favicons\\promptlayer_com.png",
-          "description": "提示词管理",
-          "url": "https://promptlayer.com",
-          "order": 6
-        },
-        {
-          "name": "Awesome ChatGPT Prompts",
-          "icon": "Assets\\favicons\\prompts_chat.png",
-          "faviconUrl": "Assets\\favicons\\prompts_chat.png",
-          "description": "精选提示词",
-          "url": "https://prompts.chat",
-          "order": 7
         }
-      ]
+      ],
+      "others": []
     }
   ]
 }
