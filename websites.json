@@ -1,6 +1,6 @@
 {
-  "version": 3,
-  "lastUpdate": "2026-02-19T06:01:50.5827124Z",
+  "version": 4,
+  "lastUpdate": "2026-02-19T06:15:08.6859599Z",
   "categories": [
     {
       "id": "hot-recommend",
@@ -18,16 +18,16 @@
         },
         {
           "name": "ChatGPT",
-          "icon": "\uD83E\uDD16",
-          "faviconUrl": "",
+          "icon": "Assets\\favicons\\chat_openai_com.png",
+          "faviconUrl": "Assets\\favicons\\chat_openai_com.png",
           "description": "AI对话",
           "url": "https://chat.openai.com",
           "order": 2
         },
         {
           "name": "Midjourney",
-          "icon": "\uD83C\uDFA8",
-          "faviconUrl": "",
+          "icon": "Assets\\favicons\\midjourney_com.png",
+          "faviconUrl": "Assets\\favicons\\midjourney_com.png",
           "description": "AI绘画",
           "url": "https://midjourney.com",
           "order": 3
