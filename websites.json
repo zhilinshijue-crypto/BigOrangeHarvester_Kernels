@@ -1,6 +1,6 @@
 {
-  "version": 4,
-  "lastUpdate": "2026-02-19T06:15:08.6859599Z",
+  "version": 5,
+  "lastUpdate": "2026-02-19T06:15:31.7123841Z",
   "categories": [
     {
       "id": "hot-recommend",
@@ -59,8 +59,8 @@
         },
         {
           "name": "Runway",
-          "icon": "\uD83C\uDF9E️",
-          "faviconUrl": "",
+          "icon": "Assets\\favicons\\runwayml_com.png",
+          "faviconUrl": "Assets\\favicons\\runwayml_com.png",
           "description": "专业视频生成",
           "url": "https://runwayml.com",
           "order": 2
