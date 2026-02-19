@@ -1,46 +1,13 @@
 {
-  "version": 6,
-  "lastUpdate": "2026-02-19T06:18:43.0840759Z",
+  "version": 7,
+  "lastUpdate": "2026-02-19T08:53:02.9629369Z",
   "categories": [
     {
       "id": "hot-recommend",
       "name": "热门推荐",
       "icon": "\uD83D\uDD25",
       "order": 1,
-      "featured": [
-        {
-          "name": "可灵 Kling",
-          "icon": "Assets\\favicons\\klingai_com.png",
-          "faviconUrl": "Assets\\favicons\\klingai_com.png",
-          "description": "国产AI视频",
-          "url": "https://klingai.com",
-          "order": 1
-        },
-        {
-          "name": "ChatGPT",
-          "icon": "Assets\\favicons\\chat_openai_com.png",
-          "faviconUrl": "Assets\\favicons\\chat_openai_com.png",
-          "description": "AI对话",
-          "url": "https://chat.openai.com",
-          "order": 2
-        },
-        {
-          "name": "Midjourney",
-          "icon": "Assets\\favicons\\midjourney_com.png",
-          "faviconUrl": "Assets\\favicons\\midjourney_com.png",
-          "description": "AI绘画",
-          "url": "https://midjourney.com",
-          "order": 3
-        },
-        {
-          "name": "Claude",
-          "icon": "\uD83D\uDCAC",
-          "faviconUrl": "",
-          "description": "AI助手",
-          "url": "https://claude.ai",
-          "order": 4
-        }
-      ],
+      "featured": [],
       "others": []
     },
     {
@@ -55,7 +22,8 @@
           "faviconUrl": "Assets\\favicons\\klingai_com.png",
           "description": "国产顶级AI视频",
           "url": "https://klingai.com",
-          "order": 1
+          "order": 1,
+          "category": null
         },
         {
           "name": "Runway",
@@ -63,15 +31,17 @@
           "faviconUrl": "Assets\\favicons\\runwayml_com.png",
           "description": "专业视频生成",
           "url": "https://runwayml.com",
-          "order": 2
+          "order": 2,
+          "category": null
         },
         {
           "name": "Pika",
-          "icon": "⚡",
-          "faviconUrl": "",
+          "icon": "\uD83D\uDCE1",
+          "faviconUrl": null,
           "description": "简单易用",
           "url": "https://pika.art",
-          "order": 3
+          "order": 3,
+          "category": null
         },
         {
           "name": "HeyGen",
@@ -79,7 +49,8 @@
           "faviconUrl": "",
           "description": "数字人视频",
           "url": "https://heygen.com",
-          "order": 4
+          "order": 4,
+          "category": null
         }
       ],
       "others": []
@@ -96,7 +67,8 @@
           "faviconUrl": "",
           "description": "OpenAI对话",
           "url": "https://chat.openai.com",
-          "order": 1
+          "order": 1,
+          "category": null
         },
         {
           "name": "Claude",
@@ -104,7 +76,8 @@
           "faviconUrl": "Assets\\favicons\\claude_ai.png",
           "description": "Anthropic助手",
           "url": "https://claude.ai",
-          "order": 2
+          "order": 2,
+          "category": null
         },
         {
           "name": "Notion AI",
@@ -112,7 +85,8 @@
           "faviconUrl": "",
           "description": "智能笔记",
           "url": "https://notion.so",
-          "order": 3
+          "order": 3,
+          "category": null
         },
         {
           "name": "Jasper",
@@ -120,7 +94,8 @@
           "faviconUrl": "",
           "description": "营销文案",
           "url": "https://jasper.ai",
-          "order": 4
+          "order": 4,
+          "category": null
         }
       ],
       "others": []
@@ -137,7 +112,8 @@
           "faviconUrl": "",
           "description": "顶级AI绘画",
           "url": "https://midjourney.com",
-          "order": 1
+          "order": 1,
+          "category": null
         },
         {
           "name": "Stable Diffusion",
@@ -145,7 +121,8 @@
           "faviconUrl": "",
           "description": "开源AI绘画",
           "url": "https://stablediffusionweb.com",
-          "order": 2
+          "order": 2,
+          "category": null
         },
         {
           "name": "DALL-E 3",
@@ -153,7 +130,8 @@
           "faviconUrl": "",
           "description": "OpenAI绘画",
           "url": "https://openai.com/dall-e-3",
-          "order": 3
+          "order": 3,
+          "category": null
         },
         {
           "name": "Leonardo AI",
@@ -161,7 +139,8 @@
           "faviconUrl": "",
           "description": "游戏素材",
           "url": "https://leonardo.ai",
-          "order": 4
+          "order": 4,
+          "category": null
         }
       ],
       "others": []
@@ -178,7 +157,8 @@
           "faviconUrl": "",
           "description": "3D设计工具",
           "url": "https://spline.design",
-          "order": 1
+          "order": 1,
+          "category": null
         },
         {
           "name": "Luma AI",
@@ -186,7 +166,8 @@
           "faviconUrl": "",
           "description": "3D扫描",
           "url": "https://lumalabs.ai",
-          "order": 2
+          "order": 2,
+          "category": null
         },
         {
           "name": "Meshy",
@@ -194,7 +175,8 @@
           "faviconUrl": "",
           "description": "文本转3D",
           "url": "https://meshy.ai",
-          "order": 3
+          "order": 3,
+          "category": null
         },
         {
           "name": "Kaedim",
@@ -202,7 +184,8 @@
           "faviconUrl": "",
           "description": "图片转3D",
           "url": "https://kaedim3d.com",
-          "order": 4
+          "order": 4,
+          "category": null
         }
       ],
       "others": []
@@ -219,7 +202,8 @@
           "faviconUrl": "",
           "description": "智能笔记",
           "url": "https://notion.so",
-          "order": 1
+          "order": 1,
+          "category": null
         },
         {
           "name": "Gamma",
@@ -227,7 +211,8 @@
           "faviconUrl": "",
           "description": "AI演示文稿",
           "url": "https://gamma.app",
-          "order": 2
+          "order": 2,
+          "category": null
         },
         {
           "name": "Beautiful.ai",
@@ -235,7 +220,8 @@
           "faviconUrl": "",
           "description": "PPT生成",
           "url": "https://beautiful.ai",
-          "order": 3
+          "order": 3,
+          "category": null
         },
         {
           "name": "Grammarly",
@@ -243,7 +229,8 @@
           "faviconUrl": "",
           "description": "语法检查",
           "url": "https://grammarly.com",
-          "order": 4
+          "order": 4,
+          "category": null
         }
       ],
       "others": []
@@ -260,7 +247,8 @@
           "faviconUrl": "",
           "description": "AI编程助手",
           "url": "https://github.com/features/copilot",
-          "order": 1
+          "order": 1,
+          "category": null
         },
         {
           "name": "Cursor",
@@ -268,7 +256,8 @@
           "faviconUrl": "",
           "description": "AI代码编辑器",
           "url": "https://cursor.sh",
-          "order": 2
+          "order": 2,
+          "category": null
         },
         {
           "name": "Replit",
@@ -276,7 +265,8 @@
           "faviconUrl": "",
           "description": "在线编程",
           "url": "https://replit.com",
-          "order": 3
+          "order": 3,
+          "category": null
         },
         {
           "name": "Tabnine",
@@ -284,7 +274,8 @@
           "faviconUrl": "",
           "description": "代码补全",
           "url": "https://tabnine.com",
-          "order": 4
+          "order": 4,
+          "category": null
         }
       ],
       "others": []
@@ -301,7 +292,8 @@
           "faviconUrl": "",
           "description": "全球接码",
           "url": "https://sms-activate.org",
-          "order": 1
+          "order": 1,
+          "category": null
         },
         {
           "name": "5SIM",
@@ -309,7 +301,8 @@
           "faviconUrl": "",
           "description": "便宜接码",
           "url": "https://5sim.net",
-          "order": 2
+          "order": 2,
+          "category": null
         },
         {
           "name": "GetSMS",
@@ -317,7 +310,8 @@
           "faviconUrl": "",
           "description": "快速接码",
           "url": "https://getsms.online",
-          "order": 3
+          "order": 3,
+          "category": null
         },
         {
           "name": "SMS-Man",
@@ -325,7 +319,8 @@
           "faviconUrl": "",
           "description": "稳定接码",
           "url": "https://sms-man.com",
-          "order": 4
+          "order": 4,
+          "category": null
         }
       ],
       "others": []
@@ -342,7 +337,8 @@
           "faviconUrl": "",
           "description": "企业级代理",
           "url": "https://brightdata.com",
-          "order": 1
+          "order": 1,
+          "category": null
         },
         {
           "name": "Smartproxy",
@@ -350,7 +346,8 @@
           "faviconUrl": "",
           "description": "住宅代理",
           "url": "https://smartproxy.com",
-          "order": 2
+          "order": 2,
+          "category": null
         },
         {
           "name": "Oxylabs",
@@ -358,7 +355,8 @@
           "faviconUrl": "",
           "description": "数据采集",
           "url": "https://oxylabs.io",
-          "order": 3
+          "order": 3,
+          "category": null
         },
         {
           "name": "IPRoyal",
@@ -366,7 +364,8 @@
           "faviconUrl": "",
           "description": "性价比高",
           "url": "https://iproyal.com",
-          "order": 4
+          "order": 4,
+          "category": null
         }
       ],
       "others": []
