@@ -1,6 +1,6 @@
 {
-  "version": 5,
-  "lastUpdate": "2026-02-19T06:15:31.7123841Z",
+  "version": 6,
+  "lastUpdate": "2026-02-19T06:18:43.0840759Z",
   "categories": [
     {
       "id": "hot-recommend",
@@ -100,8 +100,8 @@
         },
         {
           "name": "Claude",
-          "icon": "\uD83D\uDCAC",
-          "faviconUrl": "",
+          "icon": "Assets\\favicons\\claude_ai.png",
+          "faviconUrl": "Assets\\favicons\\claude_ai.png",
           "description": "Anthropic助手",
           "url": "https://claude.ai",
           "order": 2
