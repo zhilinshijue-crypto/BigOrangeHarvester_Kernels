@@ -1,6 +1,6 @@
 {
-  "version": 14,
-  "lastUpdate": "2026-02-20T13:20:01.1879028Z",
+  "version": 15,
+  "lastUpdate": "2026-02-20T13:50:34.3650906Z",
   "categories": [
     {
       "id": "hot-recommend",
@@ -106,8 +106,8 @@
           "url": "https://runwayml.com",
           "order": 14,
           "category": "AI视频创作",
-          "noticeText": null,
-          "allowCopy": false
+          "noticeText": "zhilinshijue-m1axtgRunwa",
+          "allowCopy": true
         },
         {
           "id": "559036dd-65c0-4356-b179-476a9684e34d",
