@@ -1,6 +1,6 @@
 {
-  "version": 7,
-  "lastUpdate": "2026-02-20T07:12:29.6641302Z",
+  "version": 8,
+  "lastUpdate": "2026-02-20T08:16:51.20781Z",
   "categories": [
     {
       "id": "hot-recommend",
@@ -10,7 +10,8 @@
       "featured": [],
       "others": [],
       "hotReferences": [
-        "59b2c209-5aa9-4740-92d0-332b0cdcfe03"
+        "59b2c209-5aa9-4740-92d0-332b0cdcfe03",
+        "0293f391-cd74-4c2b-a052-449213d1abc9"
       ]
     },
     {
