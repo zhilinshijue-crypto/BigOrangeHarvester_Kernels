@@ -1,24 +1,13 @@
 {
-  "version": 4,
-  "lastUpdate": "2026-02-20T05:54:11.9933125Z",
+  "version": 5,
+  "lastUpdate": "2026-02-20T07:05:03.2735738Z",
   "categories": [
     {
       "id": "hot-recommend",
       "name": "热门推荐",
       "icon": "\uD83D\uDD25",
       "order": 1,
-      "featured": [
-        {
-          "id": "f4c3c296-ee82-4a10-931b-81b480749b95",
-          "name": "堆友",
-          "icon": "Assets\\favicons\\d_design.png",
-          "faviconUrl": null,
-          "description": "AI设计生产力工具，零门槛AI绘图+多模态创作",
-          "url": "https://d.design/",
-          "order": 1,
-          "category": "AI视频创作"
-        }
-      ],
+      "featured": [],
       "others": [],
       "hotReferences": [
         "59b2c209-5aa9-4740-92d0-332b0cdcfe03"
@@ -49,7 +38,7 @@
           "description": "AI数字人视频创作平台，100+精品数字人形象",
           "url": "https://www.fengdie.com",
           "order": 4,
-          "category": null
+          "category": "AI视频创作"
         },
         {
           "id": "ff8b909b-8e1d-4fd7-8bbb-a7f8f201a641",
@@ -69,7 +58,7 @@
           "description": "多功能AI创作平台，支持AI写作、AI绘画",
           "url": "https://www.wancai.com",
           "order": 6,
-          "category": null
+          "category": "AI视频创作"
         },
         {
           "id": "2099b734-7ae7-49ef-8a9c-7081a72db0b0",
@@ -89,7 +78,7 @@
           "description": "讯飞智绘：AI视频创作平台，支持AI动画、MV",
           "url": "https://zhihui.iflytek.com",
           "order": 8,
-          "category": null
+          "category": "AI视频创作"
         },
         {
           "id": "25d6ef8c-8651-4b5f-8ee0-3364090e95ec",
@@ -634,18 +623,18 @@
         {
           "id": "e547b490-aedd-411b-99de-7c8baa2fad12",
           "name": "豆包",
-          "icon": "\uD83E\uDD16",
-          "faviconUrl": "",
+          "icon": "Assets\\favicons\\www_doubao_com.png",
+          "faviconUrl": "Assets\\favicons\\www_doubao_com.png",
           "description": "一分钟速成PPT，快人一步，一键生成",
           "url": "https://www.doubao.com",
           "order": 1,
-          "category": null
+          "category": "AI文本写作"
         },
         {
           "id": "e463ef29-88ea-44f0-a23d-3581dac02f02",
           "name": "讯飞星火",
-          "icon": "⭐",
-          "faviconUrl": "",
+          "icon": "Assets\\favicons\\xinghuo_xfyun_cn.png",
+          "faviconUrl": "Assets\\favicons\\xinghuo_xfyun_cn.png",
           "description": "科大讯飞推出的多功能AI助手",
           "url": "https://xinghuo.xfyun.cn",
           "order": 2,
@@ -654,8 +643,8 @@
         {
           "id": "77eb2d2b-f511-4d59-9627-4fcfb6c73cae",
           "name": "Flowith 2.0",
-          "icon": "\uD83C\uDF0A",
-          "faviconUrl": "",
+          "icon": "Assets\\favicons\\flowith_io.png",
+          "faviconUrl": "Assets\\favicons\\flowith_io.png",
           "description": "基于节点式交互的画布式AI创作工具",
           "url": "https://flowith.io",
           "order": 3,
@@ -664,12 +653,12 @@
         {
           "id": "a34053d7-23a1-476b-895b-9592fc3efd43",
           "name": "66论文",
-          "icon": "\uD83D\uDCC4",
-          "faviconUrl": "",
+          "icon": "Assets\\favicons\\66lunwen_com.png",
+          "faviconUrl": "Assets\\favicons\\66lunwen_com.png",
           "description": "66论文-高质量论文写作",
           "url": "https://66lunwen.com",
           "order": 4,
-          "category": null
+          "category": "AI文本写作"
         },
         {
           "id": "ae454e98-ebbd-40ea-b4fb-6429fdcba821",
