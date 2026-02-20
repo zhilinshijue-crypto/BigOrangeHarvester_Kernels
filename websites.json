@@ -1,6 +1,6 @@
 {
-  "version": 3,
-  "lastUpdate": "2026-02-20T05:49:00.4442082Z",
+  "version": 4,
+  "lastUpdate": "2026-02-20T05:54:11.9933125Z",
   "categories": [
     {
       "id": "hot-recommend",
@@ -21,7 +21,7 @@
       ],
       "others": [],
       "hotReferences": [
-        "1368069f-097d-4b1d-839c-9dae08bb04c4"
+        "59b2c209-5aa9-4740-92d0-332b0cdcfe03"
       ]
     },
     {
@@ -32,16 +32,6 @@
       "featured": [],
       "others": [
         {
-          "id": "1368069f-097d-4b1d-839c-9dae08bb04c4",
-          "name": "即梦AI",
-          "icon": "Assets\\favicons\\jimeng_jianying_com.png",
-          "faviconUrl": "Assets\\favicons\\jimeng_jianying_com.png",
-          "description": "一站式AI创作平台，免费AI图片和视频生成",
-          "url": "https://jimeng.jianying.com",
-          "order": 1,
-          "category": "AI视频创作"
-        },
-        {
           "id": "59b2c209-5aa9-4740-92d0-332b0cdcfe03",
           "name": "堆友",
           "icon": "Assets\\favicons\\d_design.png",
@@ -49,7 +39,7 @@
           "description": "AI设计生产力工具，零门槛AI绘图+多模态创作",
           "url": "https://d.design/",
           "order": 3,
-          "category": null
+          "category": "AI视频创作"
         },
         {
           "id": "0293f391-cd74-4c2b-a052-449213d1abc9",
