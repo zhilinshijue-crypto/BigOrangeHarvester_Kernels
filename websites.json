@@ -1,6 +1,6 @@
 {
-  "version": 12,
-  "lastUpdate": "2026-02-20T12:09:06.3190062Z",
+  "version": 13,
+  "lastUpdate": "2026-02-20T13:19:57.9622884Z",
   "categories": [
     {
       "id": "hot-recommend",
@@ -34,7 +34,8 @@
           "url": "https://d.design/?sharecode=xuRkTC5DDH",
           "order": 3,
           "category": "AI视频创作",
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "e7a849f5-bc33-4f9b-9f9c-75ecd01801c5",
@@ -45,7 +46,8 @@
           "url": "https://ai.kezhan365.com/inviteCode/MkTg2m",
           "order": 6,
           "category": "AI视频创作",
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "af57a17f-ae82-4f64-bf60-4099599e6758",
@@ -56,7 +58,8 @@
           "url": "https://typemovie.art/",
           "order": 8,
           "category": "AI视频创作",
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "25d6ef8c-8651-4b5f-8ee0-3364090e95ec",
@@ -67,7 +70,8 @@
           "url": "https://hailuoai.com/",
           "order": 9,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "0d11738e-1a86-49da-9039-f14823b70de7",
@@ -78,7 +82,8 @@
           "url": "https://klingai.com",
           "order": 10,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "8300f305-20d7-4de2-b15a-8f15a8dbc486",
@@ -89,7 +94,8 @@
           "url": "https://aibrm.com?code=lf8mdyk7a",
           "order": 11,
           "category": "AI视频创作",
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "3d921808-285f-4a52-82ed-d56146dfbde2",
@@ -100,7 +106,8 @@
           "url": "https://runwayml.com",
           "order": 14,
           "category": "AI视频创作",
-          "inviteCode": "zhilinshijue-m1axtgRunway"
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "559036dd-65c0-4356-b179-476a9684e34d",
@@ -111,7 +118,8 @@
           "url": "https://openai.com/sora",
           "order": 15,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "5f0d7ce5-613e-4ba4-ad11-73450f2d749c",
@@ -122,7 +130,8 @@
           "url": "https://pika.art",
           "order": 16,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "31dcc29b-5cec-4a6c-9baf-6d846e8992e8",
@@ -133,7 +142,8 @@
           "url": "https://qianwen.aliyun.com",
           "order": 17,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "25eec244-4e6c-4817-bbe0-7c3a2b2f9aa4",
@@ -144,7 +154,8 @@
           "url": "https://www.chaoji.com",
           "order": 18,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "608ceba1-71d1-4e97-8969-8634f4f85e47",
@@ -155,7 +166,8 @@
           "url": "https://deepmind.google/veo",
           "order": 19,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "d40a12cb-4940-4fbd-bdb0-e60a6597a927",
@@ -166,7 +178,8 @@
           "url": "https://www.huiwa.com",
           "order": 20,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "03d2f0c7-8ce0-4903-ba03-9ba6b8476374",
@@ -177,7 +190,8 @@
           "url": "https://tongyi.aliyun.com",
           "order": 21,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "c2ad7351-c97d-4f8e-af12-7b055a3273aa",
@@ -188,7 +202,8 @@
           "url": "https://mootion.com",
           "order": 22,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "067eb0ab-a7c4-453a-913e-089436276c49",
@@ -199,7 +214,8 @@
           "url": "https://viggle.ai",
           "order": 23,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "d74e8247-25c7-46de-bb5f-512d6a3dcdd2",
@@ -210,7 +226,8 @@
           "url": "https://haiper.ai",
           "order": 24,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "7ab86f5f-f5b6-43d3-a2a1-b2923c817924",
@@ -221,7 +238,8 @@
           "url": "https://pixverse.ai",
           "order": 25,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "902dfe1d-28fc-4bdb-a8bd-dd7c2b0b1fb5",
@@ -232,7 +250,8 @@
           "url": "https://morphstudio.com",
           "order": 26,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "6454f0b3-5cac-4d8d-8002-b187057edbf9",
@@ -243,7 +262,8 @@
           "url": "https://kreado.ai",
           "order": 27,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "311fd62d-e8bd-47be-92af-8ac46feaf120",
@@ -254,7 +274,8 @@
           "url": "https://vimeo.com",
           "order": 28,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "77ce8537-9e9e-4ddd-9584-05fd10ad08dc",
@@ -265,7 +286,8 @@
           "url": "https://keevx.com",
           "order": 29,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "9b253811-b808-4c61-b42b-e17c491ff079",
@@ -276,7 +298,8 @@
           "url": "https://video.huiwa.com",
           "order": 30,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         }
       ],
       "hotReferences": []
@@ -297,7 +320,8 @@
           "url": "https://zhizuo.iflytek.com",
           "order": 1,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "ac8fec25-3b33-46a1-9709-6e9365c266ed",
@@ -308,7 +332,8 @@
           "url": "https://soundview.ai",
           "order": 3,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "5856ed34-447e-4717-90ec-0eb8ea583228",
@@ -319,7 +344,8 @@
           "url": "https://aihaoji.com",
           "order": 4,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "198ac9ce-7b8c-4bfb-9f58-9592073ff3a8",
@@ -330,7 +356,8 @@
           "url": "https://qianyin.com",
           "order": 5,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "66b3880f-3fe7-4aa0-8d1f-857eb78a7d81",
@@ -341,7 +368,8 @@
           "url": "https://finevoice.ai",
           "order": 6,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "16669440-2624-4600-9dba-19b7cf9b5a99",
@@ -352,7 +380,8 @@
           "url": "https://qianwen.aliyun.com",
           "order": 7,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "1ceba760-10ba-4cb5-8cd7-4474be767ef4",
@@ -363,7 +392,8 @@
           "url": "https://tingwu.aliyun.com",
           "order": 8,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "5e87e144-d710-44ed-bd88-e202287eca2b",
@@ -374,7 +404,8 @@
           "url": "https://freetts.com",
           "order": 9,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "378fa215-9682-4ca0-a5fe-fd94ffd690ff",
@@ -385,7 +416,8 @@
           "url": "https://seed-tts.com",
           "order": 10,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "259c866d-7283-4a09-8de9-967bb4825b8b",
@@ -396,7 +428,8 @@
           "url": "https://tingjian.iflytek.com",
           "order": 11,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "1f9143c4-9b74-4425-8858-a822115e0592",
@@ -407,7 +440,8 @@
           "url": "https://memo.ai",
           "order": 12,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "acad047a-3e14-4337-a75a-56b104b2abe0",
@@ -418,7 +452,8 @@
           "url": "https://zeemo.ai",
           "order": 13,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "453b242b-931e-4e30-8b26-907eb25a78c9",
@@ -429,7 +464,8 @@
           "url": "https://viitor.ai",
           "order": 14,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "2447ff67-fd2e-4e1c-9617-03f2ec993ab8",
@@ -440,7 +476,8 @@
           "url": "https://finevoice.ai/audio",
           "order": 15,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "2166d6fd-f702-476a-b260-7e5d865cb3ef",
@@ -451,7 +488,8 @@
           "url": "https://fish.audio",
           "order": 16,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "32c9659e-d723-42af-9742-62ae755eec2b",
@@ -462,7 +500,8 @@
           "url": "https://finevoice.ai/clone",
           "order": 17,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "411ab53c-b65f-4ae6-badb-2c1f3868dd80",
@@ -473,7 +512,8 @@
           "url": "https://neirongbeike.com",
           "order": 18,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "1481ede5-2781-4d84-953b-5fa1152eb542",
@@ -484,7 +524,8 @@
           "url": "https://tianmu.wondershare.com",
           "order": 19,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "87c7d840-1d28-4daf-b126-fd3ae2e684a2",
@@ -495,7 +536,8 @@
           "url": "https://dubbing.com",
           "order": 20,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "40de8ed0-a7cd-4106-8ad1-8c1ae2cb2142",
@@ -506,7 +548,8 @@
           "url": "https://yinyue.ai",
           "order": 21,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "5191fe9c-f62f-49f9-abec-09e5e41dccb4",
@@ -517,7 +560,8 @@
           "url": "https://convai.com",
           "order": 22,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "1d26ead6-fe8c-464f-9157-734358d069e1",
@@ -528,7 +572,8 @@
           "url": "https://voicy.ai",
           "order": 23,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "f38e24de-8a65-4655-8cdb-d0ce0b9e7dc5",
@@ -539,7 +584,8 @@
           "url": "https://yinji.ai",
           "order": 24,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "69db4356-711b-4413-a837-e3921348ab66",
@@ -550,7 +596,8 @@
           "url": "https://miao.wondershare.com",
           "order": 25,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "158f3e54-4294-477d-94f5-24cd23f78f05",
@@ -561,7 +608,8 @@
           "url": "https://yinji.ai",
           "order": 26,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "7c7368b0-10a4-4f78-ade6-0efdc475dd62",
@@ -572,7 +620,8 @@
           "url": "https://jiandan.news",
           "order": 27,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "e22e9e5d-68b8-468a-9095-263fa18a0105",
@@ -583,7 +632,8 @@
           "url": "https://reecho.ai",
           "order": 28,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "2d465a0c-bf2e-4012-8325-76cd608fe011",
@@ -594,7 +644,8 @@
           "url": "https://qianji.baidu.com",
           "order": 29,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "26e424b1-0643-49c0-8d51-46a54e653672",
@@ -605,7 +656,8 @@
           "url": "https://filmora.wondershare.com",
           "order": 30,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         }
       ],
       "hotReferences": []
@@ -626,7 +678,8 @@
           "url": "https://www.doubao.com",
           "order": 1,
           "category": "AI文本写作",
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "e463ef29-88ea-44f0-a23d-3581dac02f02",
@@ -637,7 +690,8 @@
           "url": "https://xinghuo.xfyun.cn",
           "order": 2,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "77eb2d2b-f511-4d59-9627-4fcfb6c73cae",
@@ -648,7 +702,8 @@
           "url": "https://flowith.io",
           "order": 3,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "a34053d7-23a1-476b-895b-9592fc3efd43",
@@ -659,7 +714,8 @@
           "url": "https://66lunwen.com",
           "order": 4,
           "category": "AI文本写作",
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "ae454e98-ebbd-40ea-b4fb-6429fdcba821",
@@ -670,7 +726,8 @@
           "url": "https://wawa.ai",
           "order": 5,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "ed649689-cd54-4c25-91b7-2f0763eb26fd",
@@ -681,7 +738,8 @@
           "url": "https://huiwen.iflytek.com",
           "order": 6,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "f2dafa9d-3d7e-43f1-85f9-bb0f46ce16ee",
@@ -692,7 +750,8 @@
           "url": "https://ibiling.cn/paper",
           "order": 7,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "570ed272-cd74-4216-bec0-7a06ccc0b7a7",
@@ -703,7 +762,8 @@
           "url": "https://yuanbao.tencent.com",
           "order": 8,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "e6198a02-30e9-4657-bcff-8ba27c9f4a74",
@@ -714,7 +774,8 @@
           "url": "https://huiling.ai",
           "order": 9,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "509b52c8-7ec5-455e-ab90-b7d88171903c",
@@ -725,7 +786,8 @@
           "url": "https://boardmix.cn",
           "order": 10,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "77806b7a-3683-4acc-b3a4-7b98d5692af4",
@@ -736,7 +798,8 @@
           "url": "https://www.wancai.com",
           "order": 11,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "504eed0f-3c27-4628-8680-4df38d001be5",
@@ -747,7 +810,8 @@
           "url": "https://qiaowenshu.com",
           "order": 12,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "78682d42-d84c-41cb-b47b-691808abb3ff",
@@ -758,7 +822,8 @@
           "url": "https://www.wn-nn.com",
           "order": 13,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "cfcdadc6-fbe1-44b2-936a-52d0fd3b7c73",
@@ -769,7 +834,8 @@
           "url": "https://medpeer.cn",
           "order": 14,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "2d85a77a-f775-4f48-956c-349034477997",
@@ -780,7 +846,8 @@
           "url": "https://daily-paper.com",
           "order": 15,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "8b86fb4b-1d38-4ebb-99b6-741c6e354881",
@@ -791,7 +858,8 @@
           "url": "https://maoyan.com",
           "order": 16,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "d577e045-c9b2-4600-b1fd-a022c14f4e81",
@@ -802,7 +870,8 @@
           "url": "https://bee-polish.com",
           "order": 17,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "2318af02-98ea-442d-a009-393af0b13385",
@@ -813,7 +882,8 @@
           "url": "https://congyan.ai",
           "order": 18,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "d9a705fc-434d-4d16-8fc7-8a547617635f",
@@ -824,7 +894,8 @@
           "url": "https://fudingai.com",
           "order": 19,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "fa63fe91-6219-4074-b173-eb0f80b07f09",
@@ -835,7 +906,8 @@
           "url": "https://wenku.baidu.com",
           "order": 20,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "269285c2-3b1b-46ff-8ce2-86c026831d0e",
@@ -846,7 +918,8 @@
           "url": "https://kimi.ai",
           "order": 21,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "f83984bf-1689-4d15-acd3-0abba7d58c11",
@@ -857,7 +930,8 @@
           "url": "https://xiaoyu.ai",
           "order": 22,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "21f0b27d-ba9b-44d8-8eb7-9cd390d1a254",
@@ -868,7 +942,8 @@
           "url": "https://grammarly.com",
           "order": 23,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "ae3498cd-deb0-482d-a135-a3957a3dbe8e",
@@ -879,7 +954,8 @@
           "url": "https://quillbot.com",
           "order": 24,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "ad2066bd-71da-4b1f-8b71-7bd5624949eb",
@@ -890,7 +966,8 @@
           "url": "https://ryu.ai",
           "order": 25,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "c567a27f-1fa7-4684-befe-2084305f5dea",
@@ -901,7 +978,8 @@
           "url": "https://writingo.net",
           "order": 26,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "11ca9684-f76b-4058-b47d-b1c26f9f99f7",
@@ -912,7 +990,8 @@
           "url": "https://writesonic.com",
           "order": 27,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "b981cc39-b5f2-4c2a-9b25-ef0d7658aea7",
@@ -923,7 +1002,8 @@
           "url": "https://jasper.ai",
           "order": 28,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "3ec1e9b8-b629-4310-a70a-76c1a13e99cf",
@@ -934,7 +1014,8 @@
           "url": "https://www.writingo.net",
           "order": 29,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "70df71f2-3677-4183-8cbc-1445b64a7b4b",
@@ -945,7 +1026,8 @@
           "url": "https://xiezuocat.com",
           "order": 30,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         }
       ],
       "hotReferences": []
@@ -965,7 +1047,8 @@
           "url": "https://midjourney.com",
           "order": 1,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "83894253-c96a-4788-b64a-ef1215ef7249",
@@ -976,7 +1059,8 @@
           "url": "https://stablediffusionweb.com",
           "order": 2,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "16aa50b3-bd23-4c60-b01b-361dc763c52f",
@@ -987,7 +1071,8 @@
           "url": "https://openai.com/dall-e-3",
           "order": 3,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "d28511e5-2f04-4d2f-883f-32441aa25df0",
@@ -998,7 +1083,8 @@
           "url": "https://leonardo.ai",
           "order": 4,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         }
       ],
       "others": [],
@@ -1020,7 +1106,8 @@
           "url": "https://holopix.ai",
           "order": 1,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "51aa5212-c0a6-44a7-a2cd-ac9a1e926e32",
@@ -1031,7 +1118,8 @@
           "url": "https://leonardo.ai",
           "order": 2,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "b81736fd-6df5-4b9f-8e19-04bf642e569d",
@@ -1042,7 +1130,8 @@
           "url": "https://spline.design",
           "order": 3,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "6043931b-44d1-4ace-9570-7e8eea759d12",
@@ -1053,7 +1142,8 @@
           "url": "https://www.mozhu.ai",
           "order": 4,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "e55cab05-9a38-4739-af4b-d1cd8b6196e4",
@@ -1064,7 +1154,8 @@
           "url": "https://hunyuan.tencent.com/game",
           "order": 5,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "48721f28-fb1d-4c66-9256-3d54e832c6ec",
@@ -1075,7 +1166,8 @@
           "url": "https://hunyuan.tencent.com/3d",
           "order": 7,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "cab77792-ad90-4d16-90d4-456b7a8b42f5",
@@ -1086,7 +1178,8 @@
           "url": "https://in3d.io",
           "order": 8,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "58c268f7-09d0-42fa-bcfb-e6b73b9a6887",
@@ -1097,7 +1190,8 @@
           "url": "https://deepmotion.com",
           "order": 9,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "42d0ed6f-036f-4fee-91c6-8778f3a15b8e",
@@ -1108,7 +1202,8 @@
           "url": "https://visualizeai.pro",
           "order": 10,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "b6cfa48d-e163-4f82-818e-f8aadd9c096f",
@@ -1119,7 +1214,8 @@
           "url": "https://tripo.ai",
           "order": 11,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "2cb40d05-098d-4e2b-bb5b-320c85ca32df",
@@ -1130,7 +1226,8 @@
           "url": "https://aiuni.ai",
           "order": 12,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "e84c7a46-75c6-414d-bf7b-f876f7c8d703",
@@ -1141,7 +1238,8 @@
           "url": "https://mootion.com",
           "order": 13,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "57059478-98c7-4c95-aa3c-8452ab53a0bd",
@@ -1152,7 +1250,8 @@
           "url": "https://viggle.ai",
           "order": 14,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "613c5363-c184-41c5-8916-383f99a5ceb5",
@@ -1163,7 +1262,8 @@
           "url": "https://neo.adobe.com",
           "order": 15,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "b15e637b-d4e1-45ef-b034-81f6c53826fa",
@@ -1174,7 +1274,8 @@
           "url": "https://meshy.ai",
           "order": 16,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "0ab2d3d9-7319-42db-9acd-1d0a0510106c",
@@ -1185,7 +1286,8 @@
           "url": "https://skybox.blockadelabs.com",
           "order": 17,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "1b2d5baf-c40c-41fa-8484-e6923a9e5a82",
@@ -1196,7 +1298,8 @@
           "url": "https://prometheanai.com",
           "order": 18,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "8c4397fd-64a1-4674-aa1d-158a71cb97d2",
@@ -1207,7 +1310,8 @@
           "url": "https://kaedim3d.com",
           "order": 19,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "c628bf86-d855-4434-9bba-6513278c8517",
@@ -1218,7 +1322,8 @@
           "url": "https://roomgpt.io",
           "order": 20,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "4dfc83a9-f824-4f5a-ba09-5476a2f9138f",
@@ -1229,7 +1334,8 @@
           "url": "https://interiorai.com",
           "order": 21,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "4295e558-9e2a-4034-b734-6cd4fdf7ccff",
@@ -1240,7 +1346,8 @@
           "url": "https://marble.ai",
           "order": 22,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "fbeea46f-11aa-4c73-aba1-63d313a03308",
@@ -1251,7 +1358,8 @@
           "url": "https://style3d.com",
           "order": 23,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "7e5e2bda-a5fe-4faa-826c-07076f9a7793",
@@ -1262,7 +1370,8 @@
           "url": "https://zaowuyun.com",
           "order": 24,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "5530e3b5-142f-4b9c-92b2-874eff57ed4e",
@@ -1273,7 +1382,8 @@
           "url": "https://hyper3d.ai",
           "order": 25,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "1701fd79-8356-4389-8171-fabaa36167d5",
@@ -1284,7 +1394,8 @@
           "url": "https://masterpiecestudio.com",
           "order": 26,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "40942846-b9e8-4a2a-9c52-bae13e2c74bf",
@@ -1295,7 +1406,8 @@
           "url": "https://dbim.com",
           "order": 27,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "6f81f5d6-9f4f-4cdd-9f70-47f862fcf4b7",
@@ -1306,7 +1418,8 @@
           "url": "https://hitem3d.com",
           "order": 28,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "566aad83-22c2-41de-b953-551d0d7c9735",
@@ -1317,7 +1430,8 @@
           "url": "https://dreamhouse.ai",
           "order": 29,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "1df2056a-4900-413f-a60c-eff148ae72c8",
@@ -1328,7 +1442,8 @@
           "url": "https://immersity.ai",
           "order": 30,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         }
       ],
       "hotReferences": []
@@ -1349,7 +1464,8 @@
           "url": "https://www.aippt.cn",
           "order": 1,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "7e05a8c1-3965-4f26-8b33-8eaaff739752",
@@ -1360,7 +1476,8 @@
           "url": "https://flowith.io",
           "order": 2,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "f782627c-6a28-4c62-b000-60f968637026",
@@ -1371,7 +1488,8 @@
           "url": "https://xinghuo.xfyun.cn",
           "order": 3,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "a6aacf18-a2dd-4afc-8f37-9fbef61e642d",
@@ -1382,7 +1500,8 @@
           "url": "https://www.coze.cn",
           "order": 4,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "9295191d-51a1-4b54-9ff0-c966ed955e72",
@@ -1393,7 +1512,8 @@
           "url": "https://www.islide.cc",
           "order": 5,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "eeff812f-d69b-4ed6-88d5-800055b6cb54",
@@ -1404,7 +1524,8 @@
           "url": "https://chatexcel.com",
           "order": 6,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "fc63e907-3433-4158-aa19-b21fba3f4375",
@@ -1415,7 +1536,8 @@
           "url": "https://keqi.ai",
           "order": 7,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "a26c34d7-4172-44a9-868f-2d2a0d0997bb",
@@ -1426,7 +1548,8 @@
           "url": "https://agent.xfyun.cn",
           "order": 8,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "a190f306-e26c-4556-8717-be6078bd98b2",
@@ -1437,7 +1560,8 @@
           "url": "https://raccoon.sensetime.com",
           "order": 9,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "d31febca-935f-4d30-a7b5-8337ab7a743d",
@@ -1448,7 +1572,8 @@
           "url": "https://yuanbao.tencent.com",
           "order": 10,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "f0111e5f-becd-45a9-89ae-1606513e223b",
@@ -1459,7 +1584,8 @@
           "url": "https://aibiao.com",
           "order": 11,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "98b37317-7fb6-4c97-b80f-0de0f7864d87",
@@ -1470,7 +1596,8 @@
           "url": "https://fudingppt.com",
           "order": 12,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "d05b9dc2-da86-4e2c-9db1-551adff26ccf",
@@ -1481,7 +1608,8 @@
           "url": "https://www.wn-nn.com",
           "order": 13,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "c693d65f-d383-402b-90c5-8bbbd6188aa8",
@@ -1492,7 +1620,8 @@
           "url": "https://boardmix.cn",
           "order": 14,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "ace8b95d-27dc-4689-a866-61b1b4843a38",
@@ -1503,7 +1632,8 @@
           "url": "https://wenku.baidu.com",
           "order": 15,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "674063be-1d1c-4c2b-8e89-fa9d7d8da1a0",
@@ -1514,7 +1644,8 @@
           "url": "https://bigeppt.com",
           "order": 16,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "af0391eb-4a62-48af-9e82-2ea2972e3f3f",
@@ -1525,7 +1656,8 @@
           "url": "https://zhadanaippt.com",
           "order": 17,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "3c5157ae-27f1-468c-a9a5-157a9a0efc1a",
@@ -1536,7 +1668,8 @@
           "url": "https://chatdoc.com",
           "order": 18,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "4522f497-cb02-43aa-b165-17a35e3eda3d",
@@ -1547,7 +1680,8 @@
           "url": "https://dokie.ai",
           "order": 19,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "d7e7b8de-4de0-4727-a149-15a5bbbb05de",
@@ -1558,7 +1692,8 @@
           "url": "https://xiaoliuxiong.com",
           "order": 20,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "9878d772-f2de-43b4-9471-517af3300b9b",
@@ -1569,7 +1704,8 @@
           "url": "https://tome.app",
           "order": 21,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "48326351-86e1-4433-985a-4f734645e7f1",
@@ -1580,7 +1716,8 @@
           "url": "https://gamma.app",
           "order": 22,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "253deaa4-4469-4dc3-a921-338dbf0d774c",
@@ -1591,7 +1728,8 @@
           "url": "https://kimi.ai",
           "order": 23,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "258e8e3b-6520-454b-9dc9-2a24f678f31c",
@@ -1602,7 +1740,8 @@
           "url": "https://glimmerai.tech",
           "order": 24,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "91fc8def-23c0-4298-b6f7-be78e16ccc72",
@@ -1613,7 +1752,8 @@
           "url": "https://whimsical.com",
           "order": 25,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "2462f038-6871-423d-bd91-9a1c2d0f3219",
@@ -1624,7 +1764,8 @@
           "url": "https://www.aippt.cn/templates",
           "order": 26,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "65d6b7da-9f78-4375-8acc-f23629beaf9f",
@@ -1635,7 +1776,8 @@
           "url": "https://ibiling.cn",
           "order": 27,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "d633cf9c-6434-43c8-b801-8159829f6936",
@@ -1646,7 +1788,8 @@
           "url": "https://www.feishu.cn",
           "order": 28,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "d68756a6-bf21-4c73-b85e-4308e6a677eb",
@@ -1657,7 +1800,8 @@
           "url": "https://dingdang.ai",
           "order": 29,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "683ad972-24db-42f3-91ac-285ee34bb490",
@@ -1668,7 +1812,8 @@
           "url": "https://qianwen.aliyun.com",
           "order": 30,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         }
       ],
       "hotReferences": []
@@ -1689,7 +1834,8 @@
           "url": "https://tree.ai",
           "order": 1,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "39925e5e-89be-4c7d-a81f-eb8364fb484f",
@@ -1700,7 +1846,8 @@
           "url": "https://miaozai.baidu.com",
           "order": 2,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "73b52607-fbb6-474b-b140-83dae3bbec05",
@@ -1711,7 +1858,8 @@
           "url": "https://mashangfei.com",
           "order": 4,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "dc5fc26a-b2e5-4f34-9470-69d659211613",
@@ -1722,7 +1870,8 @@
           "url": "https://www.coze.cn/coding",
           "order": 5,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "e9a1dda6-a5a6-46e4-9f6a-43abcaf91757",
@@ -1733,7 +1882,8 @@
           "url": "https://aiping.com",
           "order": 6,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "1cfbd789-7631-4e15-826e-c27d155ee36f",
@@ -1744,7 +1894,8 @@
           "url": "https://yuanbao.tencent.com",
           "order": 7,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "a7828a97-b567-46f3-a83d-2503ad149843",
@@ -1755,7 +1906,8 @@
           "url": "https://cursor.sh",
           "order": 8,
           "category": "AI编程开发",
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "e2ecc33c-e6c3-485a-8e63-3b5c1aa2c37c",
@@ -1766,7 +1918,8 @@
           "url": "https://tree.cn",
           "order": 9,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "5e14f2a2-f882-45cc-bd7b-6f3ed463d554",
@@ -1777,7 +1930,8 @@
           "url": "https://xiaowan.com",
           "order": 10,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "b6fac2f3-cc02-4e40-8c9a-392b8fd40a82",
@@ -1788,7 +1942,8 @@
           "url": "https://raccoon.sensetime.com/code",
           "order": 11,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "c8926127-609d-44a7-9bf1-d5e9da7f4666",
@@ -1799,7 +1954,8 @@
           "url": "https://v0.dev",
           "order": 12,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "890d37d0-605f-4cd6-bc2c-da509dea09c1",
@@ -1810,7 +1966,8 @@
           "url": "https://co.dev",
           "order": 13,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "7faf8c18-eeb8-4c82-ac1b-f2e636530c0d",
@@ -1821,7 +1978,8 @@
           "url": "https://youware.com",
           "order": 14,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "35d8600d-e53b-46ce-872b-64747b0e7454",
@@ -1832,7 +1990,8 @@
           "url": "https://lovable.dev",
           "order": 15,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "f190663e-9dc8-42a2-866c-6556b9dc1f63",
@@ -1843,7 +2002,8 @@
           "url": "https://whatthediff.ai",
           "order": 16,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "addd780b-1d39-4312-9979-41ba4032d0fe",
@@ -1854,7 +2014,8 @@
           "url": "https://codewp.ai",
           "order": 17,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "1c309696-a939-4ccb-9ec9-93167594167c",
@@ -1865,7 +2026,8 @@
           "url": "https://figstack.com",
           "order": 18,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "2b1568e0-6fc9-431f-892b-7589f07efff5",
@@ -1876,7 +2038,8 @@
           "url": "https://bolt.new",
           "order": 19,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "b109653b-c6bd-4fed-b886-f927105c52a6",
@@ -1887,7 +2050,8 @@
           "url": "https://devin.ai",
           "order": 20,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "9eaad668-f90d-4f2f-adb8-e7581f6e9aae",
@@ -1898,7 +2062,8 @@
           "url": "https://replit.com/agent",
           "order": 21,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "f2fbe5cc-9869-413a-8899-5d0bb2f7ffb2",
@@ -1909,7 +2074,8 @@
           "url": "https://github.com/features/copilot",
           "order": 22,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "6ad50d40-ae58-4c55-ba69-18d0043cfafc",
@@ -1920,7 +2086,8 @@
           "url": "https://tabnine.com",
           "order": 23,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "5a00036b-77fe-48f8-bccb-08566d84cd61",
@@ -1931,7 +2098,8 @@
           "url": "https://catpaw.meituan.com",
           "order": 24,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "8daf7e55-efaf-4f2a-bf13-b57a3162f21b",
@@ -1942,7 +2110,8 @@
           "url": "https://appbuilder.baidu.com",
           "order": 25,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "5185663f-bc21-4dc1-a8e5-9d396e5783b2",
@@ -1953,7 +2122,8 @@
           "url": "https://windsurf.com",
           "order": 26,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "c39f88ec-176b-4960-87c9-83eea984b2ec",
@@ -1964,7 +2134,8 @@
           "url": "https://medo.baidu.com",
           "order": 27,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "4f87fa83-10d8-4650-9b17-1093bbde5be8",
@@ -1975,7 +2146,8 @@
           "url": "https://mgx.ai",
           "order": 28,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "fd2c7f15-808c-4488-b604-26fafcee333f",
@@ -1986,7 +2158,8 @@
           "url": "https://tongyi.aliyun.com/lingma",
           "order": 29,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "8eb911aa-5fe7-4373-ade1-0b5b135c0fb2",
@@ -1997,7 +2170,8 @@
           "url": "https://tongyi.aliyun.com/lingma/family",
           "order": 30,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         }
       ],
       "hotReferences": []
@@ -2017,7 +2191,8 @@
           "url": "https://sms-activate.org",
           "order": 1,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "5a15c824-07c4-4047-bc06-ffd179c15090",
@@ -2028,7 +2203,8 @@
           "url": "https://5sim.net",
           "order": 2,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "11acaedc-5c88-4355-90cc-d89ee701f0b2",
@@ -2039,7 +2215,8 @@
           "url": "https://sms-man.com",
           "order": 4,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         }
       ],
       "others": [],
@@ -2060,7 +2237,8 @@
           "url": "https://brightdata.com",
           "order": 1,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "944a4315-de90-4470-8b11-083ef57c5d56",
@@ -2071,7 +2249,8 @@
           "url": "https://smartproxy.com",
           "order": 2,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "3560771b-6b31-4ea4-8466-186e559832a9",
@@ -2082,7 +2261,8 @@
           "url": "https://oxylabs.io",
           "order": 3,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         },
         {
           "id": "f3c7f06e-bc0b-463b-ad64-a0b6e46e1bdc",
@@ -2093,7 +2273,8 @@
           "url": "https://iproyal.com",
           "order": 4,
           "category": null,
-          "inviteCode": null
+          "noticeText": null,
+          "allowCopy": false
         }
       ],
       "others": [],
