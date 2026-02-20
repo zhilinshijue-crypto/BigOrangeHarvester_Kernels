@@ -1,6 +1,6 @@
 {
-  "version": 3,
-  "lastUpdate": "2026-02-20T15:31:30.6765904Z",
+  "version": 1,
+  "lastUpdate": "2026-02-19T10:00:00Z",
   "categories": [
     {
       "id": "hot-recommend",
@@ -24,8 +24,8 @@
         {
           "id": "jimeng",
           "name": "即梦AI",
-          "icon": "Assets\\favicons\\jimeng_jianying_com.png",
-          "faviconUrl": "Assets\\favicons\\jimeng_jianying_com.png",
+          "icon": "\uD83C\uDFAC",
+          "faviconUrl": "",
           "description": "一站式AI创作平台，免费AI图片和视频生成",
           "url": "https://jimeng.jianying.com",
           "order": 1,
@@ -70,7 +70,7 @@
           "allowCopy": false
         },
         {
-          "id": "a333eda4-c9ed-4c45-99bc-a4d1c9ee931b",
+          "id": "658593dc-80e1-40b6-bd0b-1b5119ad131d",
           "name": "魔珠星云",
           "icon": "\uD83C\uDFA5",
           "faviconUrl": "",
@@ -82,7 +82,7 @@
           "allowCopy": false
         },
         {
-          "id": "0ba677fb-970b-410e-9b6a-773fe371f60d",
+          "id": "3c35c234-f174-4843-93d5-a2ac6b6038e5",
           "name": "万彩AI",
           "icon": "\uD83C\uDFA8",
           "faviconUrl": "",
@@ -94,7 +94,7 @@
           "allowCopy": false
         },
         {
-          "id": "c5596144-91a9-44fd-8959-ed5e08351cf7",
+          "id": "9e1cb5d3-1d18-4d5c-8c81-5c5f4b7ea056",
           "name": "有言",
           "icon": "\uD83D\uDCAC",
           "faviconUrl": "",
@@ -106,7 +106,7 @@
           "allowCopy": false
         },
         {
-          "id": "7409dab5-4163-4d25-a21a-773952dd85f4",
+          "id": "bbd24839-03b9-4ee8-a44c-7357611c64e5",
           "name": "讯飞智绘",
           "icon": "\uD83C\uDFAC",
           "faviconUrl": "",
@@ -118,7 +118,7 @@
           "allowCopy": false
         },
         {
-          "id": "2c2b00ee-6d80-4bf9-83de-6dd6216f971b",
+          "id": "15d6e8d6-f5f0-4cb1-8db8-3ddf5f2aae55",
           "name": "海螺视频",
           "icon": "\uD83D\uDC1A",
           "faviconUrl": "",
@@ -130,7 +130,7 @@
           "allowCopy": false
         },
         {
-          "id": "65cdf300-fdac-49d8-9291-34e17133bdb1",
+          "id": "1fe785bf-f364-4393-9255-5fd9493d0fcb",
           "name": "可灵AI",
           "icon": "✨",
           "faviconUrl": "",
@@ -142,7 +142,7 @@
           "allowCopy": false
         },
         {
-          "id": "326febcf-2b8f-4a67-be36-26bda7c41fbb",
+          "id": "0314d2a4-519f-42b0-a3fe-a477a58630a8",
           "name": "白日梦AI",
           "icon": "☁️",
           "faviconUrl": "",
@@ -154,7 +154,7 @@
           "allowCopy": false
         },
         {
-          "id": "e6e5b458-b98b-47fa-8241-d42feef0a546",
+          "id": "e8fd79b0-9308-4cb6-b94a-26669c916ba6",
           "name": "LTX Studio",
           "icon": "\uD83C\uDFAC",
           "faviconUrl": "",
@@ -166,7 +166,7 @@
           "allowCopy": false
         },
         {
-          "id": "91c18e26-28ce-486c-80f7-ef00bec1d63d",
+          "id": "4b6e42b4-c821-4e12-9d98-77854a397015",
           "name": "Stable Video",
           "icon": "\uD83C\uDFA5",
           "faviconUrl": "",
@@ -178,7 +178,7 @@
           "allowCopy": false
         },
         {
-          "id": "a5277ae8-1bda-4c8d-8bca-46a25c383a8f",
+          "id": "9665497c-4413-450a-bbda-5a6568fa0403",
           "name": "Runway",
           "icon": "\uD83C\uDF9E️",
           "faviconUrl": "",
@@ -190,7 +190,7 @@
           "allowCopy": false
         },
         {
-          "id": "e4d44d24-919d-4f2c-a509-12c693e657e6",
+          "id": "05cb3eae-b6e0-4826-bf79-62866041ae4c",
           "name": "Sora",
           "icon": "\uD83C\uDF1F",
           "faviconUrl": "",
@@ -202,7 +202,7 @@
           "allowCopy": false
         },
         {
-          "id": "13b175bf-6bf9-4c75-83aa-aef5be9eb1ba",
+          "id": "7ef9d8ec-0260-420b-8851-460aad3c1190",
           "name": "Pika",
           "icon": "⚡",
           "faviconUrl": "",
@@ -214,7 +214,7 @@
           "allowCopy": false
         },
         {
-          "id": "929e25ed-f066-420b-96cc-9852c073cccc",
+          "id": "cd33205d-5fe2-4750-893e-78284641d377",
           "name": "千问",
           "icon": "\uD83D\uDCAD",
           "faviconUrl": "",
@@ -226,7 +226,7 @@
           "allowCopy": false
         },
         {
-          "id": "e545ab70-23eb-42e9-828a-26340fc0d080",
+          "id": "02391f2b-6aa8-431a-a5b1-9ebee74b0902",
           "name": "潮际好莱AI视频",
           "icon": "\uD83C\uDFAC",
           "faviconUrl": "",
@@ -238,7 +238,7 @@
           "allowCopy": false
         },
         {
-          "id": "ffcf34d3-b87e-4801-9b4a-d2474c1a477b",
+          "id": "0de57eda-e6a0-46f5-9a0e-627b721b1ab6",
           "name": "Veo",
           "icon": "\uD83C\uDFA5",
           "faviconUrl": "",
@@ -250,7 +250,7 @@
           "allowCopy": false
         },
         {
-          "id": "875715f9-aa4a-46a5-9022-7b2ff0f5f4c7",
+          "id": "624f4a4d-8673-4069-ae29-5c74b792f629",
           "name": "绘蛙-多图成片",
           "icon": "\uD83D\uDC38",
           "faviconUrl": "",
@@ -262,7 +262,7 @@
           "allowCopy": false
         },
         {
-          "id": "82eb32a7-e6aa-4c9a-80bb-86a48123f976",
+          "id": "a0f29d29-e818-49aa-b477-2dd7ca3b2634",
           "name": "通义视频",
           "icon": "\uD83D\uDCF9",
           "faviconUrl": "",
@@ -274,7 +274,7 @@
           "allowCopy": false
         },
         {
-          "id": "1563fd69-763b-4f86-b718-30267e692d30",
+          "id": "de530a89-c593-460a-bdac-15eef8a6984f",
           "name": "Mootion",
           "icon": "\uD83C\uDFAC",
           "faviconUrl": "",
@@ -286,7 +286,7 @@
           "allowCopy": false
         },
         {
-          "id": "5fa4c2d1-2c8b-496e-b1bb-85a37e05dc86",
+          "id": "c71d2f31-394b-402e-ab44-ceb27efe3e99",
           "name": "Viggle AI",
           "icon": "\uD83D\uDC83",
           "faviconUrl": "",
@@ -298,7 +298,7 @@
           "allowCopy": false
         },
         {
-          "id": "650a7a8a-530a-49e7-819a-c3253bd24c02",
+          "id": "79ab60ac-375c-4f04-8424-712edf1ca0ce",
           "name": "Haiper",
           "icon": "\uD83C\uDFA5",
           "faviconUrl": "",
@@ -310,7 +310,7 @@
           "allowCopy": false
         },
         {
-          "id": "9e5cd9c1-f363-443a-95c8-be5744a977f7",
+          "id": "5c83566c-192b-460f-9e66-537d10a60d74",
           "name": "PixVerse",
           "icon": "✨",
           "faviconUrl": "",
@@ -322,7 +322,7 @@
           "allowCopy": false
         },
         {
-          "id": "965fc765-7cce-4e8f-a5e2-ed9c4e115cc4",
+          "id": "7982ae44-34e9-4719-906e-daf0995010ce",
           "name": "Morph Studio",
           "icon": "\uD83C\uDFAC",
           "faviconUrl": "",
@@ -334,7 +334,7 @@
           "allowCopy": false
         },
         {
-          "id": "32f70f36-f87e-40ca-a8e0-58529ac99ebd",
+          "id": "e0c8908f-8094-484d-becf-d14006bf96ed",
           "name": "Kreado AI",
           "icon": "\uD83C\uDFA5",
           "faviconUrl": "",
@@ -346,7 +346,7 @@
           "allowCopy": false
         },
         {
-          "id": "50843e8c-d337-4199-8e60-58e176314d13",
+          "id": "eb1467c2-2a91-48f9-8737-21216aa45e50",
           "name": "Vimeo",
           "icon": "\uD83D\uDCF9",
           "faviconUrl": "",
@@ -358,7 +358,7 @@
           "allowCopy": false
         },
         {
-          "id": "b03de4a0-f691-4420-a9a2-7e6d14a86008",
+          "id": "1d6fb78f-c2fe-4ec5-9563-774de3da1a19",
           "name": "Keevx",
           "icon": "\uD83C\uDFAC",
           "faviconUrl": "",
@@ -370,7 +370,7 @@
           "allowCopy": false
         },
         {
-          "id": "293e9bb3-5db7-443e-9d70-dd2679d421f9",
+          "id": "b0cf4f7d-4ce1-416f-866d-301638d85cfa",
           "name": "绘蛙AI视频",
           "icon": "\uD83D\uDC38",
           "faviconUrl": "",
@@ -391,7 +391,7 @@
       "order": 3,
       "websites": [
         {
-          "id": "64a12754-4454-43c2-b22d-29819089ac7a",
+          "id": "499e935a-6d52-45ff-8cff-5966980434d0",
           "name": "讯飞智作",
           "icon": "\uD83C\uDF99️",
           "faviconUrl": "",
@@ -403,7 +403,7 @@
           "allowCopy": false
         },
         {
-          "id": "0f5e82e7-d1d6-4420-afb5-558d61bdaad1",
+          "id": "708984b4-bdad-41cb-a548-6a9c20fa4f08",
           "name": "魔珠星云",
           "icon": "☁️",
           "faviconUrl": "",
@@ -415,7 +415,7 @@
           "allowCopy": false
         },
         {
-          "id": "88e737a8-96a6-405e-befb-282d3e383222",
+          "id": "099b640d-a852-438b-bd7f-dede809669fe",
           "name": "SoundView",
           "icon": "\uD83C\uDFA7",
           "faviconUrl": "",
@@ -427,7 +427,7 @@
           "allowCopy": false
         },
         {
-          "id": "6959103b-a31c-425b-8fa1-2918ec4895ac",
+          "id": "028ec688-e552-4aca-b2ef-44956f3b4263",
           "name": "AI好记",
           "icon": "\uD83D\uDCDD",
           "faviconUrl": "",
@@ -439,7 +439,7 @@
           "allowCopy": false
         },
         {
-          "id": "fea1b129-f8b2-4507-982c-e4a48d0c9d38",
+          "id": "fe4e522b-a676-4c66-850a-f3ea76756377",
           "name": "千音速语",
           "icon": "⚡",
           "faviconUrl": "",
@@ -451,7 +451,7 @@
           "allowCopy": false
         },
         {
-          "id": "cecc200c-3438-40a4-97c1-549dd842b4f8",
+          "id": "3104403c-4b9a-4cbc-835a-b37f7757654c",
           "name": "FineVoice",
           "icon": "\uD83C\uDFA4",
           "faviconUrl": "",
@@ -463,7 +463,7 @@
           "allowCopy": false
         },
         {
-          "id": "8d8c45df-046f-4d58-8fde-14c8bedb34a5",
+          "id": "d040dd3c-248f-4950-8177-c485868c0a8e",
           "name": "千问",
           "icon": "\uD83D\uDCAD",
           "faviconUrl": "",
@@ -475,7 +475,7 @@
           "allowCopy": false
         },
         {
-          "id": "b7969e8e-be50-4983-b3f6-3e6399ec58b7",
+          "id": "f593d7c2-0683-4747-a204-93898d2c735b",
           "name": "通义听悟",
           "icon": "\uD83D\uDC42",
           "faviconUrl": "",
@@ -487,7 +487,7 @@
           "allowCopy": false
         },
         {
-          "id": "0f57f384-33b6-45f9-b937-e95e966ff755",
+          "id": "dffe8e47-64a1-468a-8ae1-2eceb09e6d77",
           "name": "FreeTTS",
           "icon": "\uD83D\uDD0A",
           "faviconUrl": "",
@@ -499,7 +499,7 @@
           "allowCopy": false
         },
         {
-          "id": "eddeeca2-ab07-4cc0-81a1-d4ad8aee39e5",
+          "id": "0c9438dd-1aa2-4077-9cc5-dcb058010f2e",
           "name": "Seed-TTS",
           "icon": "\uD83C\uDF31",
           "faviconUrl": "",
@@ -511,7 +511,7 @@
           "allowCopy": false
         },
         {
-          "id": "39993bc6-a8de-48c7-a98f-8c24c6bbbf87",
+          "id": "866f2c1a-921f-4e54-b8b9-c66b3d21d2d6",
           "name": "讯飞听见",
           "icon": "\uD83D\uDC42",
           "faviconUrl": "",
@@ -523,7 +523,7 @@
           "allowCopy": false
         },
         {
-          "id": "07b33910-fd04-40f1-a521-d4427936137b",
+          "id": "509cc154-7c25-4679-adef-129024c962e5",
           "name": "Memo AI",
           "icon": "\uD83D\uDCDD",
           "faviconUrl": "",
@@ -535,7 +535,7 @@
           "allowCopy": false
         },
         {
-          "id": "1f23621a-5329-46fe-81ce-d75fed2d0f3a",
+          "id": "4cb1ed12-8fcb-4ca5-849a-d95327e49c15",
           "name": "Zeemo AI",
           "icon": "\uD83C\uDFAC",
           "faviconUrl": "",
@@ -547,7 +547,7 @@
           "allowCopy": false
         },
         {
-          "id": "1a182782-2e06-48ba-bbc4-bcfa680a75af",
+          "id": "c3178f2c-3a16-475f-a7df-8b0be207adb2",
           "name": "ViiTor AI",
           "icon": "\uD83C\uDFB5",
           "faviconUrl": "",
@@ -559,7 +559,7 @@
           "allowCopy": false
         },
         {
-          "id": "91621406-e83a-4e49-82b2-6f42c3a6f575",
+          "id": "ab549059-9c70-46b3-bd16-00165538a651",
           "name": "FineVoice AI Audio Generator",
           "icon": "\uD83C\uDF99️",
           "faviconUrl": "",
@@ -571,7 +571,7 @@
           "allowCopy": false
         },
         {
-          "id": "309656bf-2460-4622-ba2d-9e20d92f0930",
+          "id": "47fb2322-283a-4d2d-9a40-72da5289fe7d",
           "name": "Fish Audio",
           "icon": "\uD83D\uDC1F",
           "faviconUrl": "",
@@ -583,7 +583,7 @@
           "allowCopy": false
         },
         {
-          "id": "7884e2dc-22d5-402d-8d3e-3a4baf858396",
+          "id": "19a6fbaf-f9fa-40b9-a0a6-ad500408bc6c",
           "name": "FineVoice语音克隆",
           "icon": "\uD83C\uDFA4",
           "faviconUrl": "",
@@ -595,7 +595,7 @@
           "allowCopy": false
         },
         {
-          "id": "9465899c-93c6-4dd1-8cc8-b445ce5ec245",
+          "id": "bf049628-fd7c-4d59-8643-d28f4eea977e",
           "name": "内容贝壳",
           "icon": "\uD83D\uDC1A",
           "faviconUrl": "",
@@ -607,7 +607,7 @@
           "allowCopy": false
         },
         {
-          "id": "6a76034f-6aa5-4064-96cb-0fde1bb7517d",
+          "id": "c1b8c46c-8154-4e55-8791-082fbc26308a",
           "name": "万兴天幕AI",
           "icon": "\uD83C\uDFAC",
           "faviconUrl": "",
@@ -619,7 +619,7 @@
           "allowCopy": false
         },
         {
-          "id": "ea58ff61-3e7a-416d-a357-215f79eb9c61",
+          "id": "464df9e6-49dc-4287-908d-1b93d45591a7",
           "name": "Dubbing×语音云配",
           "icon": "\uD83C\uDF99️",
           "faviconUrl": "",
@@ -631,7 +631,7 @@
           "allowCopy": false
         },
         {
-          "id": "0d784edb-dd0a-402e-a40d-3cb4910e7b76",
+          "id": "ae8299b6-c9de-4e40-89f3-caee0ba99f39",
           "name": "音跃",
           "icon": "\uD83C\uDFB5",
           "faviconUrl": "",
@@ -643,7 +643,7 @@
           "allowCopy": false
         },
         {
-          "id": "f66a5ff8-b3e3-4f11-8cd3-9f153ed8d2a7",
+          "id": "7fb23fdb-8f2d-43ea-9450-298d842872a9",
           "name": "Convai Technologies Inc.",
           "icon": "\uD83E\uDD16",
           "faviconUrl": "",
@@ -655,7 +655,7 @@
           "allowCopy": false
         },
         {
-          "id": "d2133cf6-9f0d-4ba2-9ad0-2e7e98b48408",
+          "id": "c6c22f01-617f-42c1-9fef-153579c7a5d2",
           "name": "Voicy",
           "icon": "\uD83C\uDFA4",
           "faviconUrl": "",
@@ -667,7 +667,7 @@
           "allowCopy": false
         },
         {
-          "id": "054e6995-91a1-4f8a-a290-2142689e8e10",
+          "id": "e6990618-4fad-4e1d-aada-5a9c048981e5",
           "name": "音记",
           "icon": "\uD83D\uDCDD",
           "faviconUrl": "",
@@ -679,7 +679,7 @@
           "allowCopy": false
         },
         {
-          "id": "2859ca2b-e1e7-4710-9b64-2d371a515f9e",
+          "id": "7753b5ca-28b9-4226-9b59-ac74fe5d6612",
           "name": "万兴喵影",
           "icon": "\uD83C\uDFAC",
           "faviconUrl": "",
@@ -691,7 +691,7 @@
           "allowCopy": false
         },
         {
-          "id": "39c6ad46-ab72-4f43-8076-983ecf6080a8",
+          "id": "6f886700-e5ea-49f3-8078-c81b79f2cfa5",
           "name": "音记AI",
           "icon": "\uD83C\uDF99️",
           "faviconUrl": "",
@@ -703,7 +703,7 @@
           "allowCopy": false
         },
         {
-          "id": "d19fac1c-e50c-4244-acf4-f5f141d439b6",
+          "id": "b9141330-aed9-4d29-919a-01341440be23",
           "name": "简单新闻",
           "icon": "\uD83D\uDCF0",
           "faviconUrl": "",
@@ -715,7 +715,7 @@
           "allowCopy": false
         },
         {
-          "id": "6bef25f8-1f24-49f1-97ae-d4123b7b3566",
+          "id": "c9291d67-a1b5-46a7-87d0-422466fe36dd",
           "name": "Reecho音声",
           "icon": "\uD83C\uDFB5",
           "faviconUrl": "",
@@ -727,7 +727,7 @@
           "allowCopy": false
         },
         {
-          "id": "d4af3a82-1161-46e1-b585-59f89cfe19f0",
+          "id": "77e43af1-1cd5-4292-8d58-950cfb7344d3",
           "name": "简单前记",
           "icon": "\uD83D\uDCDD",
           "faviconUrl": "",
@@ -739,7 +739,7 @@
           "allowCopy": false
         },
         {
-          "id": "eaae8531-7514-48bf-8b01-ac2f474fb246",
+          "id": "8518a6ce-ee91-4b1b-a462-52cf42aa662f",
           "name": "万兴喵影",
           "icon": "\uD83C\uDFAC",
           "faviconUrl": "",
@@ -760,7 +760,7 @@
       "order": 3,
       "websites": [
         {
-          "id": "834f22b8-f5f4-4500-85a6-58a51aa0d99d",
+          "id": "48d970fc-8788-41e0-862f-7f6703afa72b",
           "name": "豆包",
           "icon": "\uD83E\uDD16",
           "faviconUrl": "",
@@ -772,7 +772,7 @@
           "allowCopy": false
         },
         {
-          "id": "59497ce3-3d60-4de1-85a0-0aaff635743c",
+          "id": "4b0adee8-efff-4dd3-a107-b9566b2f5958",
           "name": "讯飞星火",
           "icon": "⭐",
           "faviconUrl": "",
@@ -784,7 +784,7 @@
           "allowCopy": false
         },
         {
-          "id": "7bfd48ec-8998-475c-88a0-e76300893c87",
+          "id": "9a2e2cf8-a4cd-48df-a15b-6dd85e70e567",
           "name": "Flowith 2.0",
           "icon": "\uD83C\uDF0A",
           "faviconUrl": "",
@@ -796,7 +796,7 @@
           "allowCopy": false
         },
         {
-          "id": "e8365b1f-ba59-4725-82f8-96289eba9abc",
+          "id": "468d88a7-7319-4bff-96bd-190bb4fdc060",
           "name": "66论文",
           "icon": "\uD83D\uDCC4",
           "faviconUrl": "",
@@ -808,7 +808,7 @@
           "allowCopy": false
         },
         {
-          "id": "e0f39fc1-025f-4908-bfb3-ed46f5311508",
+          "id": "2a72b96e-2d89-42e9-a4e3-d669bd4bc265",
           "name": "蛙蛙写作",
           "icon": "\uD83D\uDC38",
           "faviconUrl": "",
@@ -820,7 +820,7 @@
           "allowCopy": false
         },
         {
-          "id": "790b8e7b-c2c8-4532-a08e-8b8af1cd7ed0",
+          "id": "28d10f69-5b27-40a6-8ab3-b2b5842aa3be",
           "name": "讯飞绘文",
           "icon": "✍️",
           "faviconUrl": "",
@@ -832,7 +832,7 @@
           "allowCopy": false
         },
         {
-          "id": "c4025905-aabb-4028-ae2b-99fe5b328655",
+          "id": "8d88600d-33dd-4625-aa68-f87eb826b2f5",
           "name": "笔灵AI论文写作",
           "icon": "\uD83D\uDD8A️",
           "faviconUrl": "",
@@ -844,7 +844,7 @@
           "allowCopy": false
         },
         {
-          "id": "763bf0ce-a615-4489-89c8-bbf4598f1380",
+          "id": "c589326e-f38a-4ead-9f7f-577df7487566",
           "name": "腾讯元宝电脑版",
           "icon": "\uD83D\uDC8E",
           "faviconUrl": "",
@@ -856,7 +856,7 @@
           "allowCopy": false
         },
         {
-          "id": "e1f48d7a-8bbb-4d96-84f3-34a130f01724",
+          "id": "48c6011d-d418-4a98-9e2c-3fe59ab35c80",
           "name": "慧灵AI论文",
           "icon": "\uD83D\uDCDD",
           "faviconUrl": "",
@@ -868,7 +868,7 @@
           "allowCopy": false
         },
         {
-          "id": "e03375bd-a514-4876-a419-e49791f71e67",
+          "id": "a745c7c0-e2b3-4a3e-adca-3c336fdda8d9",
           "name": "boardmix博思白板",
           "icon": "\uD83D\uDCCB",
           "faviconUrl": "",
@@ -880,7 +880,7 @@
           "allowCopy": false
         },
         {
-          "id": "336f5e41-ac57-4b8c-9d11-2d0c19bc0400",
+          "id": "6d0d0bde-dcd2-4331-bead-778bed7b0786",
           "name": "万彩AI",
           "icon": "\uD83C\uDFA8",
           "faviconUrl": "",
@@ -892,7 +892,7 @@
           "allowCopy": false
         },
         {
-          "id": "e5b2a532-1146-4673-834d-f8805eb95cc2",
+          "id": "3da79e48-0912-4fa6-a1b6-016ad709d20c",
           "name": "巧文书",
           "icon": "\uD83D\uDCD6",
           "faviconUrl": "",
@@ -904,7 +904,7 @@
           "allowCopy": false
         },
         {
-          "id": "14e8bb53-9ed9-449d-b313-a0ce41acd6f0",
+          "id": "1c26e8a0-a0da-4226-84c0-03e6399453cc",
           "name": "万能小Nn",
           "icon": "\uD83E\uDD16",
           "faviconUrl": "",
@@ -916,7 +916,7 @@
           "allowCopy": false
         },
         {
-          "id": "91f15347-7a72-417b-bb93-54339c6d3765",
+          "id": "56a71655-6fb4-457b-889b-0be697109897",
           "name": "MedPeer文生会",
           "icon": "\uD83C\uDFE5",
           "faviconUrl": "",
@@ -928,7 +928,7 @@
           "allowCopy": false
         },
         {
-          "id": "f2619088-1521-4246-b80e-ac1d77615f52",
+          "id": "6fac9cef-b5f0-406b-878c-596054c29ef2",
           "name": "每日自动文论文作者",
           "icon": "\uD83D\uDCF0",
           "faviconUrl": "",
@@ -940,7 +940,7 @@
           "allowCopy": false
         },
         {
-          "id": "90d13b2f-c26f-4be8-8d7f-9e8c1b1f933d",
+          "id": "317cbf73-6b17-4da1-9d68-26f9366a2007",
           "name": "猫眼课堂宝",
           "icon": "\uD83D\uDC31",
           "faviconUrl": "",
@@ -952,7 +952,7 @@
           "allowCopy": false
         },
         {
-          "id": "48c6a400-dd1b-4cec-8eb4-6d9c7f0440e0",
+          "id": "60a38bba-58d2-46d8-b8d9-68dca87f9288",
           "name": "小蜜蜂英文润色器",
           "icon": "\uD83D\uDC1D",
           "faviconUrl": "",
@@ -964,7 +964,7 @@
           "allowCopy": false
         },
         {
-          "id": "efdcc934-04b3-4d9c-b136-452f3937bee1",
+          "id": "23238c2c-5f80-44e4-84ae-1c92ae6e583c",
           "name": "从言学术",
           "icon": "\uD83C\uDF93",
           "faviconUrl": "",
@@ -976,7 +976,7 @@
           "allowCopy": false
         },
         {
-          "id": "4aac8acd-ff2b-4ad6-b17b-bc563c7fcbe3",
+          "id": "5cf08aae-75b2-451f-9061-cda997150c68",
           "name": "福定AI文案",
           "icon": "✍️",
           "faviconUrl": "",
@@ -988,7 +988,7 @@
           "allowCopy": false
         },
         {
-          "id": "84be37f9-d7b1-4544-bd0a-07bd23993723",
+          "id": "57f7f2f6-66b8-4c22-896f-8a79d0229787",
           "name": "百度文库AI",
           "icon": "\uD83D\uDCDA",
           "faviconUrl": "",
@@ -1000,7 +1000,7 @@
           "allowCopy": false
         },
         {
-          "id": "43567f92-bb63-4ed6-a844-d083f035d1cc",
+          "id": "3d42e4a8-5a42-4946-b1ed-ad47fecb794a",
           "name": "Kimi.ai",
           "icon": "\uD83E\uDD16",
           "faviconUrl": "",
@@ -1012,7 +1012,7 @@
           "allowCopy": false
         },
         {
-          "id": "c46bda42-2dfc-470c-94af-5ada0b8fc373",
+          "id": "059b0bb7-6d06-4d36-a57a-9c588ce66913",
           "name": "小鱼AI写作",
           "icon": "\uD83D\uDC1F",
           "faviconUrl": "",
@@ -1024,7 +1024,7 @@
           "allowCopy": false
         },
         {
-          "id": "ec58c043-d0d0-4c0e-bc61-bab15ca702f3",
+          "id": "e7e64082-5278-4cf8-b8e0-00b170fe7347",
           "name": "Grammarly",
           "icon": "✅",
           "faviconUrl": "",
@@ -1036,7 +1036,7 @@
           "allowCopy": false
         },
         {
-          "id": "83966126-15b1-4094-92f0-9070c14f7de5",
+          "id": "eb9c20e3-27d1-4f9e-955f-7a56cbdd0674",
           "name": "Quillbot",
           "icon": "\uD83D\uDD8B️",
           "faviconUrl": "",
@@ -1048,7 +1048,7 @@
           "allowCopy": false
         },
         {
-          "id": "07ce06c5-7917-40c5-b73d-6fc63a3975bf",
+          "id": "a5cafc27-da60-49cd-9983-c69c96df2ac3",
           "name": "Ryu写作助手",
           "icon": "✍️",
           "faviconUrl": "",
@@ -1060,7 +1060,7 @@
           "allowCopy": false
         },
         {
-          "id": "534b4dd4-ae4c-4024-a51a-3a803b85a314",
+          "id": "74c23687-6b43-4426-b5d8-917528c77d1b",
           "name": "火山写作",
           "icon": "\uD83C\uDF0B",
           "faviconUrl": "",
@@ -1072,7 +1072,7 @@
           "allowCopy": false
         },
         {
-          "id": "25b2ff02-04fa-4b04-9ce8-a6f00585ce1f",
+          "id": "29eedc04-5636-44e4-b3cd-f11bfc473e17",
           "name": "Writesonic",
           "icon": "\uD83C\uDFB5",
           "faviconUrl": "",
@@ -1084,7 +1084,7 @@
           "allowCopy": false
         },
         {
-          "id": "42f461c6-f58c-45c4-8fd1-788b27ec3035",
+          "id": "f4b76ddc-994e-454f-bc73-7e7d08c3571b",
           "name": "Jasper",
           "icon": "\uD83D\uDC8E",
           "faviconUrl": "",
@@ -1096,7 +1096,7 @@
           "allowCopy": false
         },
         {
-          "id": "6621ce92-89ee-4fc0-a182-daabe00e43ac",
+          "id": "434aba6b-29cb-42e8-a073-7b22611ce9b2",
           "name": "火山写作",
           "icon": "\uD83C\uDF0B",
           "faviconUrl": "",
@@ -1108,7 +1108,7 @@
           "allowCopy": false
         },
         {
-          "id": "c33bb00e-fd2f-4226-8daf-482c0191b468",
+          "id": "33da0e08-e154-4743-a840-d099bf8bd61b",
           "name": "秘塔写作猫",
           "icon": "\uD83D\uDC31",
           "faviconUrl": "",
@@ -1137,7 +1137,7 @@
       "order": 5,
       "websites": [
         {
-          "id": "ee33b942-d898-43d5-9bd6-2aed743f55d5",
+          "id": "20719cf0-9724-4d47-97f2-fe68de7a4255",
           "name": "HoloPix AI",
           "icon": "\uD83C\uDFB2",
           "faviconUrl": "",
@@ -1149,7 +1149,7 @@
           "allowCopy": false
         },
         {
-          "id": "82dd1f32-d63c-433d-825b-075dc99d3222",
+          "id": "80f3616b-cfc6-450a-937b-9a71e4742906",
           "name": "Leonardo.ai",
           "icon": "\uD83C\uDFA8",
           "faviconUrl": "",
@@ -1161,7 +1161,7 @@
           "allowCopy": false
         },
         {
-          "id": "5938f3fb-7ac3-4b1c-8faf-258b80e1bc67",
+          "id": "68ab41ac-59ea-4fef-b0ba-0ec35020d33f",
           "name": "Spline",
           "icon": "\uD83C\uDF00",
           "faviconUrl": "",
@@ -1173,7 +1173,7 @@
           "allowCopy": false
         },
         {
-          "id": "62b54233-9f7e-43ae-a91f-389cfa26cd79",
+          "id": "8430b053-eac3-42af-b49b-3ab40a54e7cd",
           "name": "魔珠星云",
           "icon": "☁️",
           "faviconUrl": "",
@@ -1185,7 +1185,7 @@
           "allowCopy": false
         },
         {
-          "id": "dd324c1d-e3e2-4858-8c39-221907c6efa3",
+          "id": "6a9ad7d8-edfa-4f09-9cf6-2a5c4bd4e1de",
           "name": "混元游戏",
           "icon": "\uD83C\uDFAE",
           "faviconUrl": "",
@@ -1197,7 +1197,7 @@
           "allowCopy": false
         },
         {
-          "id": "bda30e45-388e-4f48-ba04-5143925a530b",
+          "id": "6689825a-d672-4d99-9418-ddf64508971c",
           "name": "有言",
           "icon": "\uD83D\uDCAC",
           "faviconUrl": "",
@@ -1209,7 +1209,7 @@
           "allowCopy": false
         },
         {
-          "id": "b9088d99-b22d-4487-9f02-6009e3dcd94e",
+          "id": "162c836c-c597-40a1-960d-dbe1f9ce8b6d",
           "name": "腾讯混元3D",
           "icon": "\uD83C\uDFB2",
           "faviconUrl": "",
@@ -1221,7 +1221,7 @@
           "allowCopy": false
         },
         {
-          "id": "abbadc1c-f176-47eb-94b7-9e94f1690de9",
+          "id": "137616f0-0832-4077-9cf5-e7804f3f58ab",
           "name": "In3D",
           "icon": "\uD83C\uDFAD",
           "faviconUrl": "",
@@ -1233,7 +1233,7 @@
           "allowCopy": false
         },
         {
-          "id": "2896263f-73ba-45d3-8c7b-a22a417081d5",
+          "id": "e83d0f6f-b30c-4ee4-a6a5-96b57ff6ac3f",
           "name": "DeepMotion",
           "icon": "\uD83C\uDFC3",
           "faviconUrl": "",
@@ -1245,7 +1245,7 @@
           "allowCopy": false
         },
         {
-          "id": "7c595149-d9d7-4be0-9767-ad0f5e5f46b1",
+          "id": "bd198cc8-1e7e-44c9-9c82-4c2e831d4fdf",
           "name": "VisualizeAI",
           "icon": "\uD83D\uDC41️",
           "faviconUrl": "",
@@ -1257,7 +1257,7 @@
           "allowCopy": false
         },
         {
-          "id": "82291a55-480b-425b-8807-949a4d42c69d",
+          "id": "8719aad2-c966-4a4e-bfa1-d88a068a16e4",
           "name": "Tripo AI",
           "icon": "\uD83C\uDFB2",
           "faviconUrl": "",
@@ -1269,7 +1269,7 @@
           "allowCopy": false
         },
         {
-          "id": "4337342f-6702-4677-9838-232994c98096",
+          "id": "6ad49a67-cc2c-4d5d-983b-1fd96a1c8bed",
           "name": "Aiuni AI",
           "icon": "\uD83E\uDD16",
           "faviconUrl": "",
@@ -1281,7 +1281,7 @@
           "allowCopy": false
         },
         {
-          "id": "e64e81f0-0cb8-4e45-8f46-77828060f9e0",
+          "id": "809ef287-d02d-45ad-a12c-cecdf9475329",
           "name": "Mootion",
           "icon": "\uD83C\uDFAC",
           "faviconUrl": "",
@@ -1293,7 +1293,7 @@
           "allowCopy": false
         },
         {
-          "id": "374b1f5f-f28f-4748-b3df-401322e2e5d9",
+          "id": "7ed4a561-2e83-463b-ab3a-641ebd050243",
           "name": "Viggle AI",
           "icon": "\uD83D\uDC83",
           "faviconUrl": "",
@@ -1305,7 +1305,7 @@
           "allowCopy": false
         },
         {
-          "id": "eca4860f-75af-49cf-b66b-bcbcd5e42116",
+          "id": "73f4cbc3-43a8-4a7d-a731-ac748d77a6c9",
           "name": "Project Neo",
           "icon": "\uD83C\uDFAF",
           "faviconUrl": "",
@@ -1317,7 +1317,7 @@
           "allowCopy": false
         },
         {
-          "id": "6bbb2397-3fc6-48b2-84a5-b14bf0d311de",
+          "id": "601c788d-aaf4-466e-9315-ec94786fb20b",
           "name": "Meshy",
           "icon": "\uD83D\uDDFF",
           "faviconUrl": "",
@@ -1329,7 +1329,7 @@
           "allowCopy": false
         },
         {
-          "id": "fee81a95-cc6d-4952-9a3d-afb5d38139f9",
+          "id": "a56a46fe-6e2a-4bdf-8401-b1e137375235",
           "name": "Skybox AI",
           "icon": "\uD83D\uDCE6",
           "faviconUrl": "",
@@ -1341,7 +1341,7 @@
           "allowCopy": false
         },
         {
-          "id": "c8ab287a-99dc-449e-8ad3-9c58b3823d98",
+          "id": "dcc6c9c2-601d-4893-9da3-bd3b6428e867",
           "name": "Promethean AI",
           "icon": "\uD83D\uDD25",
           "faviconUrl": "",
@@ -1353,7 +1353,7 @@
           "allowCopy": false
         },
         {
-          "id": "022218da-0728-44fd-a461-e5e3b79d522f",
+          "id": "1be3d894-32df-4c21-ad59-45aaaa52dd82",
           "name": "KAEDIM",
           "icon": "\uD83C\uDFAF",
           "faviconUrl": "",
@@ -1365,7 +1365,7 @@
           "allowCopy": false
         },
         {
-          "id": "5d3fdd04-d324-486a-a9b6-b0ff4f81bc6a",
+          "id": "89009c79-2650-4ba5-a56b-1f175a583bc0",
           "name": "RoomGPT",
           "icon": "\uD83C\uDFE0",
           "faviconUrl": "",
@@ -1377,7 +1377,7 @@
           "allowCopy": false
         },
         {
-          "id": "747538b9-d14d-4226-8446-59971e48c432",
+          "id": "36c19977-082c-4d43-8f1b-b58992bdbeb0",
           "name": "Interior AI",
           "icon": "\uD83C\uDFE1",
           "faviconUrl": "",
@@ -1389,7 +1389,7 @@
           "allowCopy": false
         },
         {
-          "id": "8323d4c7-5ad6-4958-8c75-c3a1330c6794",
+          "id": "e79f555b-78bb-4b7f-9d4b-7e2989167a39",
           "name": "Marble",
           "icon": "⚪",
           "faviconUrl": "",
@@ -1401,7 +1401,7 @@
           "allowCopy": false
         },
         {
-          "id": "9bd7f5ac-8e16-4d3e-b747-137fe9b7de9f",
+          "id": "20296efd-93e6-448b-af17-ceee1c86d55b",
           "name": "Style3D",
           "icon": "\uD83D\uDC57",
           "faviconUrl": "",
@@ -1413,7 +1413,7 @@
           "allowCopy": false
         },
         {
-          "id": "34c2452d-ec46-4dc3-b30c-be2bff11a5b5",
+          "id": "28e34a40-f69c-46bc-9e93-1cc4a38b8f2b",
           "name": "造物云室内设计",
           "icon": "\uD83C\uDFE0",
           "faviconUrl": "",
@@ -1425,7 +1425,7 @@
           "allowCopy": false
         },
         {
-          "id": "b290c968-1731-4075-ae03-9fdc33d6df53",
+          "id": "4e17368c-c1cf-4304-bd08-322fe8fdf41f",
           "name": "Hyper3D",
           "icon": "\uD83C\uDFB2",
           "faviconUrl": "",
@@ -1437,7 +1437,7 @@
           "allowCopy": false
         },
         {
-          "id": "1ac83c34-9b0d-410b-9aa4-fe083ccf5694",
+          "id": "49e501b8-41f6-445a-985f-5ebd610ce1da",
           "name": "Masterpiece Studio",
           "icon": "\uD83C\uDFA8",
           "faviconUrl": "",
@@ -1449,7 +1449,7 @@
           "allowCopy": false
         },
         {
-          "id": "56f9a3de-731c-4046-aa04-bd6079c06eaa",
+          "id": "a28fb00a-e211-4629-a055-b4a3bbd802e0",
           "name": "DBiM",
           "icon": "\uD83C\uDFD7️",
           "faviconUrl": "",
@@ -1461,7 +1461,7 @@
           "allowCopy": false
         },
         {
-          "id": "8ea5462e-eb26-40b4-925f-444934167b16",
+          "id": "0bd511cd-4fb5-49dc-9804-e8b365c942ea",
           "name": "Hitem3D",
           "icon": "\uD83C\uDFAF",
           "faviconUrl": "",
@@ -1473,7 +1473,7 @@
           "allowCopy": false
         },
         {
-          "id": "8fbcb461-7553-403a-a6af-8dad83013b59",
+          "id": "3416fe31-c7e7-4f7d-8723-d3d468759857",
           "name": "Dreamhouse AI",
           "icon": "\uD83C\uDFE1",
           "faviconUrl": "",
@@ -1485,7 +1485,7 @@
           "allowCopy": false
         },
         {
-          "id": "e2711efb-dfb1-4f95-b8d2-2a977d945390",
+          "id": "b89921dc-e9fc-4566-9ed3-8eb3a4b0e83e",
           "name": "immersity AI",
           "icon": "\uD83C\uDF10",
           "faviconUrl": "",
@@ -1506,7 +1506,7 @@
       "order": 6,
       "websites": [
         {
-          "id": "7fad9cb9-cb27-4f77-b995-e320d2fd772d",
+          "id": "6c0cf1e4-5d4c-4334-a7e2-b73fea7bd6b4",
           "name": "AiPPT",
           "icon": "\uD83D\uDCCA",
           "faviconUrl": "",
@@ -1518,7 +1518,7 @@
           "allowCopy": false
         },
         {
-          "id": "ea487922-1ff4-4f1f-8a9c-678536141bc8",
+          "id": "27eaac34-a8fc-4367-84fa-672a36c0351b",
           "name": "Flowith 2.0",
           "icon": "\uD83C\uDF0A",
           "faviconUrl": "",
@@ -1530,7 +1530,7 @@
           "allowCopy": false
         },
         {
-          "id": "667c0d22-4a11-45a7-8f7a-997d11e9b40f",
+          "id": "274f46bd-c870-4b9f-b37f-6cef5b6590bb",
           "name": "星辰Agent",
           "icon": "⭐",
           "faviconUrl": "",
@@ -1542,7 +1542,7 @@
           "allowCopy": false
         },
         {
-          "id": "f8f0f844-4e63-42e1-b4ca-b4489ddce070",
+          "id": "7ead7d41-d890-4ecd-af92-530bb39d88aa",
           "name": "扣子Coze",
           "icon": "\uD83E\uDD16",
           "faviconUrl": "",
@@ -1554,7 +1554,7 @@
           "allowCopy": false
         },
         {
-          "id": "f843e484-19a7-4ad0-af52-e9731417b4ea",
+          "id": "21a288a8-99ad-4007-877a-0ffd9f8f6997",
           "name": "iSlide AiPPT",
           "icon": "\uD83D\uDCCA",
           "faviconUrl": "",
@@ -1566,7 +1566,7 @@
           "allowCopy": false
         },
         {
-          "id": "489fec20-ee21-4736-a278-50670d8bc12b",
+          "id": "6345c02b-73e2-4c7b-bdaa-582bc4e0a32f",
           "name": "ChatExcel",
           "icon": "\uD83D\uDCC8",
           "faviconUrl": "",
@@ -1578,7 +1578,7 @@
           "allowCopy": false
         },
         {
-          "id": "afbdbffa-699f-4208-adf6-a94086c7e4de",
+          "id": "b0fe460a-0835-404d-b549-c59fc2c7143d",
           "name": "可器AI",
           "icon": "\uD83D\uDD27",
           "faviconUrl": "",
@@ -1590,7 +1590,7 @@
           "allowCopy": false
         },
         {
-          "id": "08d3a730-4625-44e3-9a38-7905bd5696cd",
+          "id": "5993bd2a-ffbe-4f4c-81f5-95110285147d",
           "name": "星辰Agent",
           "icon": "⭐",
           "faviconUrl": "",
@@ -1602,7 +1602,7 @@
           "allowCopy": false
         },
         {
-          "id": "2dd55a03-d389-4967-8007-c6c2daac385e",
+          "id": "03b099bb-3122-42a6-9ba0-601a598232a2",
           "name": "办公小浣熊",
           "icon": "\uD83E\uDD9D",
           "faviconUrl": "",
@@ -1614,7 +1614,7 @@
           "allowCopy": false
         },
         {
-          "id": "437fa524-2d68-4e8b-963f-dfaf0044e4c1",
+          "id": "750245e4-d30b-4bc4-965c-deed897b2781",
           "name": "腾讯元宝电脑版",
           "icon": "\uD83D\uDC8E",
           "faviconUrl": "",
@@ -1626,7 +1626,7 @@
           "allowCopy": false
         },
         {
-          "id": "3c728cf3-5f57-4e5e-9ff0-160a893d869c",
+          "id": "33af6dd5-7b26-4a18-9abf-b67eec66d35b",
           "name": "AiBiao.com",
           "icon": "\uD83D\uDCCA",
           "faviconUrl": "",
@@ -1638,7 +1638,7 @@
           "allowCopy": false
         },
         {
-          "id": "a4fecaa1-7f34-4bfa-bc9b-d72db0d60d73",
+          "id": "4b02f496-fddc-472a-b64a-9b3a6a9911e8",
           "name": "福定PPT",
           "icon": "\uD83D\uDCCA",
           "faviconUrl": "",
@@ -1650,7 +1650,7 @@
           "allowCopy": false
         },
         {
-          "id": "dae05171-86de-457c-a6a5-45ab6c6cf6cd",
+          "id": "4cd8f6f2-cbd9-43b8-ae1e-c7591114cd58",
           "name": "万能小Nn",
           "icon": "\uD83E\uDD16",
           "faviconUrl": "",
@@ -1662,7 +1662,7 @@
           "allowCopy": false
         },
         {
-          "id": "13c78c8f-d9d6-4c5a-8b08-d4951b2c0f3a",
+          "id": "dc84133e-80a2-44da-b014-6d0a37fc5809",
           "name": "boardmix博思白板",
           "icon": "\uD83D\uDCCB",
           "faviconUrl": "",
@@ -1674,7 +1674,7 @@
           "allowCopy": false
         },
         {
-          "id": "1971dcf6-b0d8-4c2d-bf30-b280058e9c61",
+          "id": "0793aba1-fbe2-43fb-a858-e152a1f66f50",
           "name": "百度文库AI",
           "icon": "\uD83D\uDCDA",
           "faviconUrl": "",
@@ -1686,7 +1686,7 @@
           "allowCopy": false
         },
         {
-          "id": "cf3a4283-6e2a-44cb-8e22-fd87cc3d5f28",
+          "id": "8d09e1c4-d043-483b-90ed-a71022f0bd44",
           "name": "比格AIPPT",
           "icon": "\uD83D\uDCCA",
           "faviconUrl": "",
@@ -1698,7 +1698,7 @@
           "allowCopy": false
         },
         {
-          "id": "742c8959-4dc9-4de4-8235-2dafc63fb1e3",
+          "id": "69dd2fbb-abd9-4246-858b-46e4450398a0",
           "name": "炸弹AIPPT",
           "icon": "\uD83D\uDCA3",
           "faviconUrl": "",
@@ -1710,7 +1710,7 @@
           "allowCopy": false
         },
         {
-          "id": "a0aff41b-b242-4797-b945-8b22bd4f5efc",
+          "id": "c3db9c8e-d7ae-4520-a1b0-896a481958c7",
           "name": "ChatDOC",
           "icon": "\uD83D\uDCC4",
           "faviconUrl": "",
@@ -1722,7 +1722,7 @@
           "allowCopy": false
         },
         {
-          "id": "10bd9d27-1107-4e1b-b764-8dee9a68b106",
+          "id": "68937b97-dd1b-4f59-b3ae-80f45217b2be",
           "name": "Dokie AI",
           "icon": "\uD83D\uDCDD",
           "faviconUrl": "",
@@ -1734,7 +1734,7 @@
           "allowCopy": false
         },
         {
-          "id": "a997c826-4ee5-48e7-be25-b0f326d885d8",
+          "id": "97976759-67cf-4409-b00a-bd4dbd7aa552",
           "name": "小流熊家族",
           "icon": "\uD83D\uDC3B",
           "faviconUrl": "",
@@ -1746,7 +1746,7 @@
           "allowCopy": false
         },
         {
-          "id": "2fb0fc87-bc16-4738-99f4-0bff8818d844",
+          "id": "2af4be2d-cd83-45aa-bdf8-3de944f32383",
           "name": "Tome",
           "icon": "\uD83D\uDCD6",
           "faviconUrl": "",
@@ -1758,7 +1758,7 @@
           "allowCopy": false
         },
         {
-          "id": "73e95be2-5b15-4a52-869d-717a3d26a041",
+          "id": "141f59e5-8638-4633-b7a4-f373bbe526e0",
           "name": "Gamma.app",
           "icon": "\uD83D\uDCCA",
           "faviconUrl": "",
@@ -1770,7 +1770,7 @@
           "allowCopy": false
         },
         {
-          "id": "eb1cc730-8b5e-43bf-a164-24648d85b524",
+          "id": "ca54143c-c593-44cb-b2b8-7d42c653f62c",
           "name": "Kimi.ai",
           "icon": "\uD83E\uDD16",
           "faviconUrl": "",
@@ -1782,7 +1782,7 @@
           "allowCopy": false
         },
         {
-          "id": "881f02e2-12dd-405b-bee6-f38c9b18adf6",
+          "id": "0629117b-6712-461c-9f91-b371b1a481ac",
           "name": "Glimmer Ai",
           "icon": "✨",
           "faviconUrl": "",
@@ -1794,7 +1794,7 @@
           "allowCopy": false
         },
         {
-          "id": "927dc358-b598-43dc-8cef-7391fc63ed4f",
+          "id": "2830101e-6d90-4863-a7bd-3f0e5b12e0d7",
           "name": "Whimsical",
           "icon": "\uD83C\uDFA8",
           "faviconUrl": "",
@@ -1806,7 +1806,7 @@
           "allowCopy": false
         },
         {
-          "id": "6b739282-1919-4157-b891-c4664817f2f1",
+          "id": "dd24a5c2-2625-4e2c-abe9-8e960c837cf0",
           "name": "AiPPT模板广场",
           "icon": "\uD83D\uDCCA",
           "faviconUrl": "",
@@ -1818,7 +1818,7 @@
           "allowCopy": false
         },
         {
-          "id": "d0bd2a53-a564-4d78-b934-06b56e35b3d5",
+          "id": "424e84a2-d1ab-470a-851a-29678fa863f2",
           "name": "笔灵AI智能PPT",
           "icon": "\uD83D\uDD8A️",
           "faviconUrl": "",
@@ -1830,7 +1830,7 @@
           "allowCopy": false
         },
         {
-          "id": "0691a150-1a00-4d6a-a116-3ba4da8ad36e",
+          "id": "7795d9b0-5f06-417c-b609-7e178a6b6f12",
           "name": "飞书多维表格",
           "icon": "\uD83D\uDCCA",
           "faviconUrl": "",
@@ -1842,7 +1842,7 @@
           "allowCopy": false
         },
         {
-          "id": "14db6eaa-1edf-4046-826a-12d3bd1b7eb8",
+          "id": "e0a9193a-f36b-415e-9e57-97bf7d91e25c",
           "name": "叮当AI写作",
           "icon": "✍️",
           "faviconUrl": "",
@@ -1854,7 +1854,7 @@
           "allowCopy": false
         },
         {
-          "id": "9ee669d6-a3f6-4525-8488-8712019f0ba3",
+          "id": "9737e333-0ae0-4585-9723-1e8d2f31d6c9",
           "name": "通义千问",
           "icon": "\uD83D\uDCAD",
           "faviconUrl": "",
@@ -1875,7 +1875,7 @@
       "order": 7,
       "websites": [
         {
-          "id": "a6fce6e9-4edc-46c5-84ca-33fa825162e0",
+          "id": "5120e2a8-ab59-40a5-b4ac-631c9795ecef",
           "name": "Tree编程",
           "icon": "\uD83C\uDF33",
           "faviconUrl": "",
@@ -1887,7 +1887,7 @@
           "allowCopy": false
         },
         {
-          "id": "84852dde-1c31-4237-a12a-aa7e9aea459e",
+          "id": "77aba561-a8eb-4577-825d-5718038a3f95",
           "name": "秒哉",
           "icon": "⚡",
           "faviconUrl": "",
@@ -1899,7 +1899,7 @@
           "allowCopy": false
         },
         {
-          "id": "1cf79195-c7cf-406a-9f85-99c2590b54e8",
+          "id": "93155883-678e-42c6-8b89-5812b5b4ff19",
           "name": "豆包AI编程",
           "icon": "\uD83E\uDD16",
           "faviconUrl": "",
@@ -1911,7 +1911,7 @@
           "allowCopy": false
         },
         {
-          "id": "ad4caeb7-2fa6-448d-9965-93fab252bf82",
+          "id": "91226a2f-6fbd-4b9f-8c71-285ce8f8a5a5",
           "name": "码上飞",
           "icon": "\uD83D\uDE80",
           "faviconUrl": "",
@@ -1923,7 +1923,7 @@
           "allowCopy": false
         },
         {
-          "id": "56c83f17-0360-4395-a894-1daf664f3a3f",
+          "id": "8a785125-17c8-4ae0-85e3-6cc31a9dcc2a",
           "name": "扣子编程",
           "icon": "\uD83D\uDD27",
           "faviconUrl": "",
@@ -1935,7 +1935,7 @@
           "allowCopy": false
         },
         {
-          "id": "9761e91b-6260-42ec-8774-5b4798089015",
+          "id": "1fcb94d4-d53c-412c-842d-fced205f4753",
           "name": "AI Ping",
           "icon": "\uD83C\uDFD3",
           "faviconUrl": "",
@@ -1947,7 +1947,7 @@
           "allowCopy": false
         },
         {
-          "id": "f1840120-9c44-4c6a-9352-82113210cd72",
+          "id": "bfb266a6-d8a4-46bd-9571-737e02fc9f89",
           "name": "腾讯元宝电脑版",
           "icon": "\uD83D\uDC8E",
           "faviconUrl": "",
@@ -1959,7 +1959,7 @@
           "allowCopy": false
         },
         {
-          "id": "1598bf07-58fe-4c3e-bc8b-fece9dd5dead",
+          "id": "5a446fd1-309b-4ab7-910b-a76488e6969d",
           "name": "Cursor",
           "icon": "⚡",
           "faviconUrl": "",
@@ -1971,7 +1971,7 @@
           "allowCopy": false
         },
         {
-          "id": "15b3c825-23aa-45c9-894f-3905704b03e7",
+          "id": "13417f5d-fd3e-4cd4-9dc4-d6df052038b0",
           "name": "Tree国内版",
           "icon": "\uD83C\uDF33",
           "faviconUrl": "",
@@ -1983,7 +1983,7 @@
           "allowCopy": false
         },
         {
-          "id": "20a6110a-1102-4269-9712-85942d465dba",
+          "id": "df87f1e9-55ab-4b3b-bb6d-12d7e7fe7ad0",
           "name": "小完熊家族",
           "icon": "\uD83D\uDC3B",
           "faviconUrl": "",
@@ -1995,7 +1995,7 @@
           "allowCopy": false
         },
         {
-          "id": "3a5e1321-10ab-426b-b142-9a235de96851",
+          "id": "f29586b7-45fd-4bb4-bbbf-023f588e6649",
           "name": "代码小浣熊",
           "icon": "\uD83E\uDD9D",
           "faviconUrl": "",
@@ -2007,7 +2007,7 @@
           "allowCopy": false
         },
         {
-          "id": "096b07a1-c284-49fe-852f-a3b1cb1df0c5",
+          "id": "90b76c1b-11b1-4179-9059-29f93aa1f0e0",
           "name": "v0.dev",
           "icon": "\uD83C\uDFA8",
           "faviconUrl": "",
@@ -2019,7 +2019,7 @@
           "allowCopy": false
         },
         {
-          "id": "43895b26-57b3-4c97-a6fd-cfe2e4e75382",
+          "id": "6e9cc840-da5f-4f1b-aaba-52b20daa2e75",
           "name": "Co.dev",
           "icon": "\uD83D\uDCBB",
           "faviconUrl": "",
@@ -2031,7 +2031,7 @@
           "allowCopy": false
         },
         {
-          "id": "e8f598c7-466c-4478-869e-8baa736fd7c9",
+          "id": "58914902-d85c-4b76-9cdb-540f611a59df",
           "name": "YouWare",
           "icon": "\uD83D\uDD27",
           "faviconUrl": "",
@@ -2043,7 +2043,7 @@
           "allowCopy": false
         },
         {
-          "id": "2bcfcdf9-6d25-4191-8f14-35708201fb8c",
+          "id": "8feae26c-0ff1-4352-ba31-1f4059b7e104",
           "name": "Lovable",
           "icon": "❤️",
           "faviconUrl": "",
@@ -2055,7 +2055,7 @@
           "allowCopy": false
         },
         {
-          "id": "473565fb-f39d-4d92-88c3-5ddf17de916a",
+          "id": "a826ef64-d9b3-45bf-bd62-686154d9a85b",
           "name": "What the Diff",
           "icon": "\uD83D\uDD0D",
           "faviconUrl": "",
@@ -2067,7 +2067,7 @@
           "allowCopy": false
         },
         {
-          "id": "4903e3c0-5232-491e-bb99-d65372671497",
+          "id": "6c489e18-8c91-4348-ae02-e83f21f7a23e",
           "name": "CodeWP",
           "icon": "\uD83C\uDF10",
           "faviconUrl": "",
@@ -2079,7 +2079,7 @@
           "allowCopy": false
         },
         {
-          "id": "b9f3c9f6-d34a-4ad0-9aa5-a7244d505298",
+          "id": "ab17e2dd-050e-4f3a-8213-331bc4046f2b",
           "name": "Figstack",
           "icon": "\uD83D\uDCDA",
           "faviconUrl": "",
@@ -2091,7 +2091,7 @@
           "allowCopy": false
         },
         {
-          "id": "f242686a-3af9-48da-806a-87c56e808a93",
+          "id": "9c42bc25-7754-4e2d-9d79-5b54a14f52bb",
           "name": "Bolt.new",
           "icon": "⚡",
           "faviconUrl": "",
@@ -2103,7 +2103,7 @@
           "allowCopy": false
         },
         {
-          "id": "ecfc381d-659d-4afe-a7d5-804c0e943efb",
+          "id": "8e0478be-cc17-49b9-babc-315cdb339414",
           "name": "Devin",
           "icon": "\uD83E\uDD16",
           "faviconUrl": "",
@@ -2115,7 +2115,7 @@
           "allowCopy": false
         },
         {
-          "id": "5d36a6d1-319b-42fb-b196-dbdf3615a635",
+          "id": "b2d29496-cb35-42fc-a2fe-3a113f3bab32",
           "name": "Replit Agent",
           "icon": "\uD83D\uDD27",
           "faviconUrl": "",
@@ -2127,7 +2127,7 @@
           "allowCopy": false
         },
         {
-          "id": "59509371-1452-450b-975b-6fd7239db450",
+          "id": "d02b0d86-a223-47fa-9c06-4e9d0ac46e21",
           "name": "GitHub Copilot",
           "icon": "\uD83D\uDC19",
           "faviconUrl": "",
@@ -2139,7 +2139,7 @@
           "allowCopy": false
         },
         {
-          "id": "388846d3-2bd4-4c82-a46e-e028831bf2c5",
+          "id": "ce2753bc-e56a-461c-a265-88bd1f50f983",
           "name": "Tabnine",
           "icon": "\uD83E\uDD16",
           "faviconUrl": "",
@@ -2151,7 +2151,7 @@
           "allowCopy": false
         },
         {
-          "id": "15759fa1-d875-42a7-8158-735c246b7a6c",
+          "id": "4e6504d8-fb4f-4847-b3cd-15d0dd18b775",
           "name": "Meituan CatPaw",
           "icon": "\uD83D\uDC3E",
           "faviconUrl": "",
@@ -2163,7 +2163,7 @@
           "allowCopy": false
         },
         {
-          "id": "5c400fc2-d786-4225-9955-3d288c5223c1",
+          "id": "b3f2ac88-b57c-48f0-a16e-14f673ef6d58",
           "name": "千帆AppBuilder",
           "icon": "\uD83D\uDE80",
           "faviconUrl": "",
@@ -2175,7 +2175,7 @@
           "allowCopy": false
         },
         {
-          "id": "cd518779-885a-47cd-95a0-df4e06d45a56",
+          "id": "a1883ebe-dffe-445c-9d55-235967cb41c3",
           "name": "Windsurf",
           "icon": "\uD83C\uDFC4",
           "faviconUrl": "",
@@ -2187,7 +2187,7 @@
           "allowCopy": false
         },
         {
-          "id": "53a08ee5-a46d-476b-b0fd-86e30976566c",
+          "id": "043c5243-5b32-40a8-9152-4cf6b9d9c250",
           "name": "MeDo",
           "icon": "☁️",
           "faviconUrl": "",
@@ -2199,7 +2199,7 @@
           "allowCopy": false
         },
         {
-          "id": "e3d00c13-4b63-4736-86ff-fa777d906970",
+          "id": "1bcb1269-22be-46e7-bf32-f05461e50867",
           "name": "MGX",
           "icon": "\uD83D\uDD27",
           "faviconUrl": "",
@@ -2211,7 +2211,7 @@
           "allowCopy": false
         },
         {
-          "id": "6943af2b-0612-4820-97ec-cb8fd34cfcae",
+          "id": "fd6b9e7b-f91f-4da6-9a7d-1c740ac117a1",
           "name": "通义灵码",
           "icon": "\uD83D\uDCAD",
           "faviconUrl": "",
@@ -2223,7 +2223,7 @@
           "allowCopy": false
         },
         {
-          "id": "f4cce73b-ac0a-44ad-a806-062182d9580c",
+          "id": "fad8af51-64a0-4131-8700-95c03cd8d0ed",
           "name": "通义灵码家族",
           "icon": "\uD83D\uDCAD",
           "faviconUrl": "",
