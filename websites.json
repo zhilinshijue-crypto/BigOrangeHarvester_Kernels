@@ -1,6 +1,6 @@
 {
-  "version": 8,
-  "lastUpdate": "2026-02-20T08:16:51.20781Z",
+  "version": 9,
+  "lastUpdate": "2026-02-20T10:09:13.4508219Z",
   "categories": [
     {
       "id": "hot-recommend",
@@ -11,7 +11,9 @@
       "others": [],
       "hotReferences": [
         "59b2c209-5aa9-4740-92d0-332b0cdcfe03",
-        "0293f391-cd74-4c2b-a052-449213d1abc9"
+        "e547b490-aedd-411b-99de-7c8baa2fad12",
+        "e7a849f5-bc33-4f9b-9f9c-75ecd01801c5",
+        "8300f305-20d7-4de2-b15a-8f15a8dbc486"
       ]
     },
     {
@@ -26,76 +28,46 @@
           "name": "堆友",
           "icon": "Assets\\favicons\\d_design.png",
           "faviconUrl": "Assets\\favicons\\d_design.png",
-          "description": "AI设计生产力工具，零门槛AI绘图+多模态创作",
-          "url": "https://d.design/",
+          "description": "AI设计生产力工具：零门槛AI绘画+多种电商设计神器",
+          "url": "https://d.design/?sharecode=xuRkTC5DDH",
           "order": 3,
           "category": "AI视频创作"
         },
         {
-          "id": "0293f391-cd74-4c2b-a052-449213d1abc9",
-          "name": "蜂镝",
-          "icon": "\uD83C\uDFAC",
-          "faviconUrl": "",
-          "description": "AI数字人视频创作平台，100+精品数字人形象",
-          "url": "https://www.fengdie.com",
-          "order": 4,
-          "category": "AI视频创作"
-        },
-        {
-          "id": "ff8b909b-8e1d-4fd7-8bbb-a7f8f201a641",
-          "name": "魔珠星云",
-          "icon": "\uD83C\uDFA5",
-          "faviconUrl": "",
-          "description": "无需高端GPU，一键解锁磁盘实况/二次元多风格",
-          "url": "https://www.mozhu.ai",
-          "order": 5,
-          "category": null
-        },
-        {
           "id": "e7a849f5-bc33-4f9b-9f9c-75ecd01801c5",
           "name": "万彩AI",
-          "icon": "\uD83C\uDFA8",
-          "faviconUrl": "",
-          "description": "多功能AI创作平台，支持AI写作、AI绘画",
-          "url": "https://www.wancai.com",
+          "icon": "Assets\\favicons\\ai_kezhan365_com.png",
+          "faviconUrl": "Assets\\favicons\\ai_kezhan365_com.png",
+          "description": "多功能AI创作工具合集，支持AI写作、AI换脸、AI数字人等",
+          "url": "https://ai.kezhan365.com/inviteCode/MkTg2m",
           "order": 6,
           "category": "AI视频创作"
         },
         {
-          "id": "2099b734-7ae7-49ef-8a9c-7081a72db0b0",
-          "name": "有言",
-          "icon": "\uD83D\uDCAC",
-          "faviconUrl": "",
-          "description": "有言是一个一站式AI视频创作平台的数字人生成",
-          "url": "https://www.youyan.ai",
-          "order": 7,
-          "category": null
-        },
-        {
           "id": "af57a17f-ae82-4f64-bf60-4099599e6758",
-          "name": "讯飞智绘",
-          "icon": "\uD83C\uDFAC",
-          "faviconUrl": "",
-          "description": "讯飞智绘：AI视频创作平台，支持AI动画、MV",
-          "url": "https://zhihui.iflytek.com",
+          "name": "讯飞绘镜",
+          "icon": "Assets\\favicons\\typemovie_art.png",
+          "faviconUrl": "Assets\\favicons\\typemovie_art.png",
+          "description": "讯飞智绘：AI视频创作平台，支持AI动画、MV创作",
+          "url": "https://typemovie.art/",
           "order": 8,
           "category": "AI视频创作"
         },
         {
           "id": "25d6ef8c-8651-4b5f-8ee0-3364090e95ec",
           "name": "海螺视频",
-          "icon": "\uD83D\uDC1A",
-          "faviconUrl": "",
-          "description": "海螺AI推出的AI视频生成工具，可以生成高质量",
-          "url": "https://hailuo.ai",
+          "icon": "Assets\\favicons\\hailuoai_com.png",
+          "faviconUrl": "Assets\\favicons\\hailuoai_com.png",
+          "description": "海螺AI推出的AI视频生成工具，可以生成高质量的视频内容。",
+          "url": "https://hailuoai.com/",
           "order": 9,
           "category": null
         },
         {
           "id": "0d11738e-1a86-49da-9039-f14823b70de7",
           "name": "可灵AI",
-          "icon": "✨",
-          "faviconUrl": "",
+          "icon": "Assets\\favicons\\klingai_com.png",
+          "faviconUrl": "Assets\\favicons\\klingai_com.png",
           "description": "可灵AI：新一代AI创意生产力平台",
           "url": "https://klingai.com",
           "order": 10,
@@ -104,39 +76,19 @@
         {
           "id": "8300f305-20d7-4de2-b15a-8f15a8dbc486",
           "name": "白日梦AI",
-          "icon": "☁️",
-          "faviconUrl": "",
+          "icon": "Assets\\favicons\\aibrm_com.png",
+          "faviconUrl": "Assets\\favicons\\aibrm_com.png",
           "description": "白日梦AI是一款全新的文生视频类AIGC创作平台",
-          "url": "https://bairimeng.ai",
+          "url": "https://aibrm.com?code=lf8mdyk7a",
           "order": 11,
-          "category": null
-        },
-        {
-          "id": "7fc02864-73c8-4c5d-aec6-8a2c7ab5c264",
-          "name": "LTX Studio",
-          "icon": "\uD83C\uDFAC",
-          "faviconUrl": "",
-          "description": "Lightricks推出的生成式AI视频创作平台，可以从",
-          "url": "https://ltx.studio",
-          "order": 12,
-          "category": null
-        },
-        {
-          "id": "f8f2faa9-e081-41a5-8acd-4e73cccd74e2",
-          "name": "Stable Video",
-          "icon": "\uD83C\uDFA5",
-          "faviconUrl": "",
-          "description": "Stability AI 发布的开源视频模型，用于字幕生成",
-          "url": "https://www.stablevideo.com",
-          "order": 13,
-          "category": null
+          "category": "AI视频创作"
         },
         {
           "id": "3d921808-285f-4a52-82ed-d56146dfbde2",
           "name": "Runway",
-          "icon": "\uD83C\uDF9E️",
-          "faviconUrl": "",
-          "description": "Runway是一个AI创意生成平台，支持AI视频生成",
+          "icon": "Assets\\favicons\\runwayml_com.png",
+          "faviconUrl": "Assets\\favicons\\runwayml_com.png",
+          "description": "注册填写邀请码或者1000积分：zhilinshijue-m1axtgRunway（是一个AI创意生成平台，支持AI视频生成",
           "url": "https://runwayml.com",
           "order": 14,
           "category": null
