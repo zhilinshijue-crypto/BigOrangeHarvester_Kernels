@@ -1,6 +1,6 @@
 {
-  "version": 9,
-  "lastUpdate": "2026-02-20T10:09:13.4508219Z",
+  "version": 10,
+  "lastUpdate": "2026-02-20T10:34:14.8619221Z",
   "categories": [
     {
       "id": "hot-recommend",
@@ -13,7 +13,8 @@
         "59b2c209-5aa9-4740-92d0-332b0cdcfe03",
         "e547b490-aedd-411b-99de-7c8baa2fad12",
         "e7a849f5-bc33-4f9b-9f9c-75ecd01801c5",
-        "8300f305-20d7-4de2-b15a-8f15a8dbc486"
+        "8300f305-20d7-4de2-b15a-8f15a8dbc486",
+        "3d921808-285f-4a52-82ed-d56146dfbde2"
       ]
     },
     {
@@ -91,7 +92,7 @@
           "description": "注册填写邀请码或者1000积分：zhilinshijue-m1axtgRunway（是一个AI创意生成平台，支持AI视频生成",
           "url": "https://runwayml.com",
           "order": 14,
-          "category": null
+          "category": "AI视频创作"
         },
         {
           "id": "559036dd-65c0-4356-b179-476a9684e34d",
