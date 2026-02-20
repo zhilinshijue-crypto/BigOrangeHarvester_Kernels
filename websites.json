@@ -1,21 +1,18 @@
 {
-  "version": 15,
-  "lastUpdate": "2026-02-20T13:50:34.3650906Z",
+  "version": 2,
+  "lastUpdate": "2026-02-20T15:29:10.0597842Z",
   "categories": [
     {
       "id": "hot-recommend",
       "name": "热门推荐",
       "icon": "\uD83D\uDD25",
       "order": 1,
-      "featured": [],
-      "others": [],
+      "websites": [],
       "hotReferences": [
-        "59b2c209-5aa9-4740-92d0-332b0cdcfe03",
-        "e547b490-aedd-411b-99de-7c8baa2fad12",
-        "e7a849f5-bc33-4f9b-9f9c-75ecd01801c5",
-        "8300f305-20d7-4de2-b15a-8f15a8dbc486",
-        "3d921808-285f-4a52-82ed-d56146dfbde2",
-        "a7828a97-b567-46f3-a83d-2503ad149843"
+        "jimeng",
+        "liblib",
+        "tuiyou",
+        "fengdie"
       ]
     },
     {
@@ -23,61 +20,120 @@
       "name": "AI视频创作",
       "icon": "\uD83C\uDFAC",
       "order": 2,
-      "featured": [],
-      "others": [
+      "websites": [
         {
-          "id": "59b2c209-5aa9-4740-92d0-332b0cdcfe03",
-          "name": "堆友",
-          "icon": "Assets\\favicons\\d_design.png",
-          "faviconUrl": "Assets\\favicons\\d_design.png",
-          "description": "AI设计生产力工具：零门槛AI绘画+多种电商设计神器",
-          "url": "https://d.design/?sharecode=xuRkTC5DDH",
+          "id": "jimeng",
+          "name": "即梦AI",
+          "icon": "Assets\\favicons\\jimeng_jianying_com.png",
+          "faviconUrl": "Assets\\favicons\\jimeng_jianying_com.png",
+          "description": "一站式AI创作平台，免费AI图片和视频生成",
+          "url": "https://jimeng.jianying.com",
+          "order": 1,
+          "category": "AI视频创作",
+          "noticeText": null,
+          "allowCopy": false
+        },
+        {
+          "id": "liblib",
+          "name": "LibLibAI",
+          "icon": "\uD83C\uDFA5",
+          "faviconUrl": "",
+          "description": "国内领先的AI视频平台，以图生视频，视频编辑",
+          "url": "https://www.liblib.art",
+          "order": 2,
+          "category": "AI视频创作",
+          "noticeText": null,
+          "allowCopy": false
+        },
+        {
+          "id": "tuiyou",
+          "name": "推友",
+          "icon": "\uD83C\uDF9E️",
+          "faviconUrl": "",
+          "description": "AI设计生产力工具，零门槛AI绘图+多模态创作",
+          "url": "https://www.tuiyou.com",
           "order": 3,
           "category": "AI视频创作",
           "noticeText": null,
           "allowCopy": false
         },
         {
-          "id": "e7a849f5-bc33-4f9b-9f9c-75ecd01801c5",
+          "id": "fengdie",
+          "name": "蜂镝",
+          "icon": "\uD83C\uDFAC",
+          "faviconUrl": "",
+          "description": "AI数字人视频创作平台，100+精品数字人形象",
+          "url": "https://www.fengdie.com",
+          "order": 4,
+          "category": "AI视频创作",
+          "noticeText": null,
+          "allowCopy": false
+        },
+        {
+          "id": "a333eda4-c9ed-4c45-99bc-a4d1c9ee931b",
+          "name": "魔珠星云",
+          "icon": "\uD83C\uDFA5",
+          "faviconUrl": "",
+          "description": "无需高端GPU，一键解锁磁盘实况/二次元多风格",
+          "url": "https://www.mozhu.ai",
+          "order": 5,
+          "category": null,
+          "noticeText": null,
+          "allowCopy": false
+        },
+        {
+          "id": "0ba677fb-970b-410e-9b6a-773fe371f60d",
           "name": "万彩AI",
-          "icon": "Assets\\favicons\\ai_kezhan365_com.png",
-          "faviconUrl": "Assets\\favicons\\ai_kezhan365_com.png",
-          "description": "多功能AI创作工具合集，支持AI写作、AI换脸、AI数字人等",
-          "url": "https://ai.kezhan365.com/inviteCode/MkTg2m",
+          "icon": "\uD83C\uDFA8",
+          "faviconUrl": "",
+          "description": "多功能AI创作平台，支持AI写作、AI绘画",
+          "url": "https://www.wancai.com",
           "order": 6,
-          "category": "AI视频创作",
+          "category": null,
           "noticeText": null,
           "allowCopy": false
         },
         {
-          "id": "af57a17f-ae82-4f64-bf60-4099599e6758",
-          "name": "讯飞绘镜",
-          "icon": "Assets\\favicons\\typemovie_art.png",
-          "faviconUrl": "Assets\\favicons\\typemovie_art.png",
-          "description": "讯飞智绘：AI视频创作平台，支持AI动画、MV创作",
-          "url": "https://typemovie.art/",
+          "id": "c5596144-91a9-44fd-8959-ed5e08351cf7",
+          "name": "有言",
+          "icon": "\uD83D\uDCAC",
+          "faviconUrl": "",
+          "description": "有言是一个一站式AI视频创作平台的数字人生成",
+          "url": "https://www.youyan.ai",
+          "order": 7,
+          "category": null,
+          "noticeText": null,
+          "allowCopy": false
+        },
+        {
+          "id": "7409dab5-4163-4d25-a21a-773952dd85f4",
+          "name": "讯飞智绘",
+          "icon": "\uD83C\uDFAC",
+          "faviconUrl": "",
+          "description": "讯飞智绘：AI视频创作平台，支持AI动画、MV",
+          "url": "https://zhihui.iflytek.com",
           "order": 8,
-          "category": "AI视频创作",
+          "category": null,
           "noticeText": null,
           "allowCopy": false
         },
         {
-          "id": "25d6ef8c-8651-4b5f-8ee0-3364090e95ec",
+          "id": "2c2b00ee-6d80-4bf9-83de-6dd6216f971b",
           "name": "海螺视频",
-          "icon": "Assets\\favicons\\hailuoai_com.png",
-          "faviconUrl": "Assets\\favicons\\hailuoai_com.png",
-          "description": "海螺AI推出的AI视频生成工具，可以生成高质量的视频内容。",
-          "url": "https://hailuoai.com/",
+          "icon": "\uD83D\uDC1A",
+          "faviconUrl": "",
+          "description": "海螺AI推出的AI视频生成工具，可以生成高质量",
+          "url": "https://hailuo.ai",
           "order": 9,
           "category": null,
           "noticeText": null,
           "allowCopy": false
         },
         {
-          "id": "0d11738e-1a86-49da-9039-f14823b70de7",
+          "id": "65cdf300-fdac-49d8-9291-34e17133bdb1",
           "name": "可灵AI",
-          "icon": "Assets\\favicons\\klingai_com.png",
-          "faviconUrl": "Assets\\favicons\\klingai_com.png",
+          "icon": "✨",
+          "faviconUrl": "",
           "description": "可灵AI：新一代AI创意生产力平台",
           "url": "https://klingai.com",
           "order": 10,
@@ -86,34 +142,58 @@
           "allowCopy": false
         },
         {
-          "id": "8300f305-20d7-4de2-b15a-8f15a8dbc486",
+          "id": "326febcf-2b8f-4a67-be36-26bda7c41fbb",
           "name": "白日梦AI",
-          "icon": "Assets\\favicons\\aibrm_com.png",
-          "faviconUrl": "Assets\\favicons\\aibrm_com.png",
+          "icon": "☁️",
+          "faviconUrl": "",
           "description": "白日梦AI是一款全新的文生视频类AIGC创作平台",
-          "url": "https://aibrm.com?code=lf8mdyk7a",
+          "url": "https://bairimeng.ai",
           "order": 11,
-          "category": "AI视频创作",
+          "category": null,
           "noticeText": null,
           "allowCopy": false
         },
         {
-          "id": "3d921808-285f-4a52-82ed-d56146dfbde2",
-          "name": "Runway",
-          "icon": "Assets\\favicons\\runwayml_com.png",
-          "faviconUrl": "Assets\\favicons\\runwayml_com.png",
-          "description": "注册填写邀请码获得1000积分：zhilinshijue-m1axtgRunway（是一个AI创意生成平台，支持AI视频生成",
-          "url": "https://runwayml.com",
-          "order": 14,
-          "category": "AI视频创作",
-          "noticeText": "zhilinshijue-m1axtgRunwa",
-          "allowCopy": true
+          "id": "e6e5b458-b98b-47fa-8241-d42feef0a546",
+          "name": "LTX Studio",
+          "icon": "\uD83C\uDFAC",
+          "faviconUrl": "",
+          "description": "Lightricks推出的生成式AI视频创作平台，可以从",
+          "url": "https://ltx.studio",
+          "order": 12,
+          "category": null,
+          "noticeText": null,
+          "allowCopy": false
         },
         {
-          "id": "559036dd-65c0-4356-b179-476a9684e34d",
+          "id": "91c18e26-28ce-486c-80f7-ef00bec1d63d",
+          "name": "Stable Video",
+          "icon": "\uD83C\uDFA5",
+          "faviconUrl": "",
+          "description": "Stability AI 发布的开源视频模型，用于字幕生成",
+          "url": "https://www.stablevideo.com",
+          "order": 13,
+          "category": null,
+          "noticeText": null,
+          "allowCopy": false
+        },
+        {
+          "id": "a5277ae8-1bda-4c8d-8bca-46a25c383a8f",
+          "name": "Runway",
+          "icon": "\uD83C\uDF9E️",
+          "faviconUrl": "",
+          "description": "Runway是一个AI创意生成平台，支持AI视频生成",
+          "url": "https://runwayml.com",
+          "order": 14,
+          "category": null,
+          "noticeText": null,
+          "allowCopy": false
+        },
+        {
+          "id": "e4d44d24-919d-4f2c-a509-12c693e657e6",
           "name": "Sora",
-          "icon": "Assets\\favicons\\openai_com.png",
-          "faviconUrl": "Assets\\favicons\\openai_com.png",
+          "icon": "\uD83C\uDF1F",
+          "faviconUrl": "",
           "description": "Sora是OpenAI发布的一种文生视频AI模型，能够",
           "url": "https://openai.com/sora",
           "order": 15,
@@ -122,10 +202,10 @@
           "allowCopy": false
         },
         {
-          "id": "5f0d7ce5-613e-4ba4-ad11-73450f2d749c",
+          "id": "13b175bf-6bf9-4c75-83aa-aef5be9eb1ba",
           "name": "Pika",
-          "icon": "Assets\\favicons\\pika_art.png",
-          "faviconUrl": "Assets\\favicons\\pika_art.png",
+          "icon": "⚡",
+          "faviconUrl": "",
           "description": "Pika.art是一个AI视频的创作平台",
           "url": "https://pika.art",
           "order": 16,
@@ -134,10 +214,10 @@
           "allowCopy": false
         },
         {
-          "id": "31dcc29b-5cec-4a6c-9baf-6d846e8992e8",
+          "id": "929e25ed-f066-420b-96cc-9852c073cccc",
           "name": "千问",
-          "icon": "Assets\\favicons\\qianwen_aliyun_com.png",
-          "faviconUrl": "Assets\\favicons\\qianwen_aliyun_com.png",
+          "icon": "\uD83D\uDCAD",
+          "faviconUrl": "",
           "description": "阿里巴巴出品的AI助手",
           "url": "https://qianwen.aliyun.com",
           "order": 17,
@@ -146,10 +226,10 @@
           "allowCopy": false
         },
         {
-          "id": "25eec244-4e6c-4817-bbe0-7c3a2b2f9aa4",
+          "id": "e545ab70-23eb-42e9-828a-26340fc0d080",
           "name": "潮际好莱AI视频",
-          "icon": "Assets\\favicons\\www_chaoji_com.png",
-          "faviconUrl": "Assets\\favicons\\www_chaoji_com.png",
+          "icon": "\uD83C\uDFAC",
+          "faviconUrl": "",
           "description": "潮际好莱AI视频制作工具",
           "url": "https://www.chaoji.com",
           "order": 18,
@@ -158,7 +238,7 @@
           "allowCopy": false
         },
         {
-          "id": "608ceba1-71d1-4e97-8969-8634f4f85e47",
+          "id": "ffcf34d3-b87e-4801-9b4a-d2474c1a477b",
           "name": "Veo",
           "icon": "\uD83C\uDFA5",
           "faviconUrl": "",
@@ -170,10 +250,10 @@
           "allowCopy": false
         },
         {
-          "id": "d40a12cb-4940-4fbd-bdb0-e60a6597a927",
+          "id": "875715f9-aa4a-46a5-9022-7b2ff0f5f4c7",
           "name": "绘蛙-多图成片",
           "icon": "\uD83D\uDC38",
-          "faviconUrl": null,
+          "faviconUrl": "",
           "description": "绘蛙推出的AI视频生成工具",
           "url": "https://www.huiwa.com",
           "order": 20,
@@ -182,10 +262,10 @@
           "allowCopy": false
         },
         {
-          "id": "03d2f0c7-8ce0-4903-ba03-9ba6b8476374",
+          "id": "82eb32a7-e6aa-4c9a-80bb-86a48123f976",
           "name": "通义视频",
-          "icon": "Assets\\favicons\\tongyi_aliyun_com.png",
-          "faviconUrl": "Assets\\favicons\\tongyi_aliyun_com.png",
+          "icon": "\uD83D\uDCF9",
+          "faviconUrl": "",
           "description": "通义万能的AI视频生成工具",
           "url": "https://tongyi.aliyun.com",
           "order": 21,
@@ -194,10 +274,10 @@
           "allowCopy": false
         },
         {
-          "id": "c2ad7351-c97d-4f8e-af12-7b055a3273aa",
+          "id": "1563fd69-763b-4f86-b718-30267e692d30",
           "name": "Mootion",
-          "icon": "Assets\\favicons\\mootion_com.png",
-          "faviconUrl": "Assets\\favicons\\mootion_com.png",
+          "icon": "\uD83C\uDFAC",
+          "faviconUrl": "",
           "description": "Mootion是一个革命性的3D动画创作平台，利",
           "url": "https://mootion.com",
           "order": 22,
@@ -206,10 +286,10 @@
           "allowCopy": false
         },
         {
-          "id": "067eb0ab-a7c4-453a-913e-089436276c49",
+          "id": "5fa4c2d1-2c8b-496e-b1bb-85a37e05dc86",
           "name": "Viggle AI",
-          "icon": "Assets\\favicons\\viggle_ai.png",
-          "faviconUrl": "Assets\\favicons\\viggle_ai.png",
+          "icon": "\uD83D\uDC83",
+          "faviconUrl": "",
           "description": "Viggle AI是一个强大的3D动画生成平台，可",
           "url": "https://viggle.ai",
           "order": 23,
@@ -218,7 +298,7 @@
           "allowCopy": false
         },
         {
-          "id": "d74e8247-25c7-46de-bb5f-512d6a3dcdd2",
+          "id": "650a7a8a-530a-49e7-819a-c3253bd24c02",
           "name": "Haiper",
           "icon": "\uD83C\uDFA5",
           "faviconUrl": "",
@@ -230,7 +310,7 @@
           "allowCopy": false
         },
         {
-          "id": "7ab86f5f-f5b6-43d3-a2a1-b2923c817924",
+          "id": "9e5cd9c1-f363-443a-95c8-be5744a977f7",
           "name": "PixVerse",
           "icon": "✨",
           "faviconUrl": "",
@@ -242,7 +322,7 @@
           "allowCopy": false
         },
         {
-          "id": "902dfe1d-28fc-4bdb-a8bd-dd7c2b0b1fb5",
+          "id": "965fc765-7cce-4e8f-a5e2-ed9c4e115cc4",
           "name": "Morph Studio",
           "icon": "\uD83C\uDFAC",
           "faviconUrl": "",
@@ -254,7 +334,7 @@
           "allowCopy": false
         },
         {
-          "id": "6454f0b3-5cac-4d8d-8002-b187057edbf9",
+          "id": "32f70f36-f87e-40ca-a8e0-58529ac99ebd",
           "name": "Kreado AI",
           "icon": "\uD83C\uDFA5",
           "faviconUrl": "",
@@ -266,7 +346,7 @@
           "allowCopy": false
         },
         {
-          "id": "311fd62d-e8bd-47be-92af-8ac46feaf120",
+          "id": "50843e8c-d337-4199-8e60-58e176314d13",
           "name": "Vimeo",
           "icon": "\uD83D\uDCF9",
           "faviconUrl": "",
@@ -278,7 +358,7 @@
           "allowCopy": false
         },
         {
-          "id": "77ce8537-9e9e-4ddd-9584-05fd10ad08dc",
+          "id": "b03de4a0-f691-4420-a9a2-7e6d14a86008",
           "name": "Keevx",
           "icon": "\uD83C\uDFAC",
           "faviconUrl": "",
@@ -290,7 +370,7 @@
           "allowCopy": false
         },
         {
-          "id": "9b253811-b808-4c61-b42b-e17c491ff079",
+          "id": "293e9bb3-5db7-443e-9d70-dd2679d421f9",
           "name": "绘蛙AI视频",
           "icon": "\uD83D\uDC38",
           "faviconUrl": "",
@@ -309,13 +389,12 @@
       "name": "AI音频制作",
       "icon": "\uD83C\uDFB5",
       "order": 3,
-      "featured": [],
-      "others": [
+      "websites": [
         {
-          "id": "33d2d16e-4027-4e6c-a70c-67efb3969d18",
+          "id": "64a12754-4454-43c2-b22d-29819089ac7a",
           "name": "讯飞智作",
           "icon": "\uD83C\uDF99️",
-          "faviconUrl": null,
+          "faviconUrl": "",
           "description": "科大讯飞旗下AI音视频创作平台",
           "url": "https://zhizuo.iflytek.com",
           "order": 1,
@@ -324,7 +403,19 @@
           "allowCopy": false
         },
         {
-          "id": "ac8fec25-3b33-46a1-9709-6e9365c266ed",
+          "id": "0f5e82e7-d1d6-4420-afb5-558d61bdaad1",
+          "name": "魔珠星云",
+          "icon": "☁️",
+          "faviconUrl": "",
+          "description": "无需高端GPU，一键解锁磁盘实况/二次元多风格",
+          "url": "https://www.mozhu.ai",
+          "order": 2,
+          "category": null,
+          "noticeText": null,
+          "allowCopy": false
+        },
+        {
+          "id": "88e737a8-96a6-405e-befb-282d3e383222",
           "name": "SoundView",
           "icon": "\uD83C\uDFA7",
           "faviconUrl": "",
@@ -336,7 +427,7 @@
           "allowCopy": false
         },
         {
-          "id": "5856ed34-447e-4717-90ec-0eb8ea583228",
+          "id": "6959103b-a31c-425b-8fa1-2918ec4895ac",
           "name": "AI好记",
           "icon": "\uD83D\uDCDD",
           "faviconUrl": "",
@@ -348,7 +439,7 @@
           "allowCopy": false
         },
         {
-          "id": "198ac9ce-7b8c-4bfb-9f58-9592073ff3a8",
+          "id": "fea1b129-f8b2-4507-982c-e4a48d0c9d38",
           "name": "千音速语",
           "icon": "⚡",
           "faviconUrl": "",
@@ -360,7 +451,7 @@
           "allowCopy": false
         },
         {
-          "id": "66b3880f-3fe7-4aa0-8d1f-857eb78a7d81",
+          "id": "cecc200c-3438-40a4-97c1-549dd842b4f8",
           "name": "FineVoice",
           "icon": "\uD83C\uDFA4",
           "faviconUrl": "",
@@ -372,7 +463,7 @@
           "allowCopy": false
         },
         {
-          "id": "16669440-2624-4600-9dba-19b7cf9b5a99",
+          "id": "8d8c45df-046f-4d58-8fde-14c8bedb34a5",
           "name": "千问",
           "icon": "\uD83D\uDCAD",
           "faviconUrl": "",
@@ -384,7 +475,7 @@
           "allowCopy": false
         },
         {
-          "id": "1ceba760-10ba-4cb5-8cd7-4474be767ef4",
+          "id": "b7969e8e-be50-4983-b3f6-3e6399ec58b7",
           "name": "通义听悟",
           "icon": "\uD83D\uDC42",
           "faviconUrl": "",
@@ -396,7 +487,7 @@
           "allowCopy": false
         },
         {
-          "id": "5e87e144-d710-44ed-bd88-e202287eca2b",
+          "id": "0f57f384-33b6-45f9-b937-e95e966ff755",
           "name": "FreeTTS",
           "icon": "\uD83D\uDD0A",
           "faviconUrl": "",
@@ -408,7 +499,7 @@
           "allowCopy": false
         },
         {
-          "id": "378fa215-9682-4ca0-a5fe-fd94ffd690ff",
+          "id": "eddeeca2-ab07-4cc0-81a1-d4ad8aee39e5",
           "name": "Seed-TTS",
           "icon": "\uD83C\uDF31",
           "faviconUrl": "",
@@ -420,7 +511,7 @@
           "allowCopy": false
         },
         {
-          "id": "259c866d-7283-4a09-8de9-967bb4825b8b",
+          "id": "39993bc6-a8de-48c7-a98f-8c24c6bbbf87",
           "name": "讯飞听见",
           "icon": "\uD83D\uDC42",
           "faviconUrl": "",
@@ -432,7 +523,7 @@
           "allowCopy": false
         },
         {
-          "id": "1f9143c4-9b74-4425-8858-a822115e0592",
+          "id": "07b33910-fd04-40f1-a521-d4427936137b",
           "name": "Memo AI",
           "icon": "\uD83D\uDCDD",
           "faviconUrl": "",
@@ -444,7 +535,7 @@
           "allowCopy": false
         },
         {
-          "id": "acad047a-3e14-4337-a75a-56b104b2abe0",
+          "id": "1f23621a-5329-46fe-81ce-d75fed2d0f3a",
           "name": "Zeemo AI",
           "icon": "\uD83C\uDFAC",
           "faviconUrl": "",
@@ -456,7 +547,7 @@
           "allowCopy": false
         },
         {
-          "id": "453b242b-931e-4e30-8b26-907eb25a78c9",
+          "id": "1a182782-2e06-48ba-bbc4-bcfa680a75af",
           "name": "ViiTor AI",
           "icon": "\uD83C\uDFB5",
           "faviconUrl": "",
@@ -468,7 +559,7 @@
           "allowCopy": false
         },
         {
-          "id": "2447ff67-fd2e-4e1c-9617-03f2ec993ab8",
+          "id": "91621406-e83a-4e49-82b2-6f42c3a6f575",
           "name": "FineVoice AI Audio Generator",
           "icon": "\uD83C\uDF99️",
           "faviconUrl": "",
@@ -480,7 +571,7 @@
           "allowCopy": false
         },
         {
-          "id": "2166d6fd-f702-476a-b260-7e5d865cb3ef",
+          "id": "309656bf-2460-4622-ba2d-9e20d92f0930",
           "name": "Fish Audio",
           "icon": "\uD83D\uDC1F",
           "faviconUrl": "",
@@ -492,7 +583,7 @@
           "allowCopy": false
         },
         {
-          "id": "32c9659e-d723-42af-9742-62ae755eec2b",
+          "id": "7884e2dc-22d5-402d-8d3e-3a4baf858396",
           "name": "FineVoice语音克隆",
           "icon": "\uD83C\uDFA4",
           "faviconUrl": "",
@@ -504,7 +595,7 @@
           "allowCopy": false
         },
         {
-          "id": "411ab53c-b65f-4ae6-badb-2c1f3868dd80",
+          "id": "9465899c-93c6-4dd1-8cc8-b445ce5ec245",
           "name": "内容贝壳",
           "icon": "\uD83D\uDC1A",
           "faviconUrl": "",
@@ -516,7 +607,7 @@
           "allowCopy": false
         },
         {
-          "id": "1481ede5-2781-4d84-953b-5fa1152eb542",
+          "id": "6a76034f-6aa5-4064-96cb-0fde1bb7517d",
           "name": "万兴天幕AI",
           "icon": "\uD83C\uDFAC",
           "faviconUrl": "",
@@ -528,7 +619,7 @@
           "allowCopy": false
         },
         {
-          "id": "87c7d840-1d28-4daf-b126-fd3ae2e684a2",
+          "id": "ea58ff61-3e7a-416d-a357-215f79eb9c61",
           "name": "Dubbing×语音云配",
           "icon": "\uD83C\uDF99️",
           "faviconUrl": "",
@@ -540,7 +631,7 @@
           "allowCopy": false
         },
         {
-          "id": "40de8ed0-a7cd-4106-8ad1-8c1ae2cb2142",
+          "id": "0d784edb-dd0a-402e-a40d-3cb4910e7b76",
           "name": "音跃",
           "icon": "\uD83C\uDFB5",
           "faviconUrl": "",
@@ -552,7 +643,7 @@
           "allowCopy": false
         },
         {
-          "id": "5191fe9c-f62f-49f9-abec-09e5e41dccb4",
+          "id": "f66a5ff8-b3e3-4f11-8cd3-9f153ed8d2a7",
           "name": "Convai Technologies Inc.",
           "icon": "\uD83E\uDD16",
           "faviconUrl": "",
@@ -564,7 +655,7 @@
           "allowCopy": false
         },
         {
-          "id": "1d26ead6-fe8c-464f-9157-734358d069e1",
+          "id": "d2133cf6-9f0d-4ba2-9ad0-2e7e98b48408",
           "name": "Voicy",
           "icon": "\uD83C\uDFA4",
           "faviconUrl": "",
@@ -576,7 +667,7 @@
           "allowCopy": false
         },
         {
-          "id": "f38e24de-8a65-4655-8cdb-d0ce0b9e7dc5",
+          "id": "054e6995-91a1-4f8a-a290-2142689e8e10",
           "name": "音记",
           "icon": "\uD83D\uDCDD",
           "faviconUrl": "",
@@ -588,7 +679,7 @@
           "allowCopy": false
         },
         {
-          "id": "69db4356-711b-4413-a837-e3921348ab66",
+          "id": "2859ca2b-e1e7-4710-9b64-2d371a515f9e",
           "name": "万兴喵影",
           "icon": "\uD83C\uDFAC",
           "faviconUrl": "",
@@ -600,7 +691,7 @@
           "allowCopy": false
         },
         {
-          "id": "158f3e54-4294-477d-94f5-24cd23f78f05",
+          "id": "39c6ad46-ab72-4f43-8076-983ecf6080a8",
           "name": "音记AI",
           "icon": "\uD83C\uDF99️",
           "faviconUrl": "",
@@ -612,7 +703,7 @@
           "allowCopy": false
         },
         {
-          "id": "7c7368b0-10a4-4f78-ade6-0efdc475dd62",
+          "id": "d19fac1c-e50c-4244-acf4-f5f141d439b6",
           "name": "简单新闻",
           "icon": "\uD83D\uDCF0",
           "faviconUrl": "",
@@ -624,7 +715,7 @@
           "allowCopy": false
         },
         {
-          "id": "e22e9e5d-68b8-468a-9095-263fa18a0105",
+          "id": "6bef25f8-1f24-49f1-97ae-d4123b7b3566",
           "name": "Reecho音声",
           "icon": "\uD83C\uDFB5",
           "faviconUrl": "",
@@ -636,7 +727,7 @@
           "allowCopy": false
         },
         {
-          "id": "2d465a0c-bf2e-4012-8325-76cd608fe011",
+          "id": "d4af3a82-1161-46e1-b585-59f89cfe19f0",
           "name": "简单前记",
           "icon": "\uD83D\uDCDD",
           "faviconUrl": "",
@@ -648,7 +739,7 @@
           "allowCopy": false
         },
         {
-          "id": "26e424b1-0643-49c0-8d51-46a54e653672",
+          "id": "eaae8531-7514-48bf-8b01-ac2f474fb246",
           "name": "万兴喵影",
           "icon": "\uD83C\uDFAC",
           "faviconUrl": "",
@@ -667,25 +758,24 @@
       "name": "AI文本写作",
       "icon": "✍️",
       "order": 3,
-      "featured": [],
-      "others": [
+      "websites": [
         {
-          "id": "e547b490-aedd-411b-99de-7c8baa2fad12",
+          "id": "834f22b8-f5f4-4500-85a6-58a51aa0d99d",
           "name": "豆包",
-          "icon": "Assets\\favicons\\www_doubao_com.png",
-          "faviconUrl": "Assets\\favicons\\www_doubao_com.png",
+          "icon": "\uD83E\uDD16",
+          "faviconUrl": "",
           "description": "一分钟速成PPT，快人一步，一键生成",
           "url": "https://www.doubao.com",
           "order": 1,
-          "category": "AI文本写作",
+          "category": null,
           "noticeText": null,
           "allowCopy": false
         },
         {
-          "id": "e463ef29-88ea-44f0-a23d-3581dac02f02",
+          "id": "59497ce3-3d60-4de1-85a0-0aaff635743c",
           "name": "讯飞星火",
-          "icon": "Assets\\favicons\\xinghuo_xfyun_cn.png",
-          "faviconUrl": "Assets\\favicons\\xinghuo_xfyun_cn.png",
+          "icon": "⭐",
+          "faviconUrl": "",
           "description": "科大讯飞推出的多功能AI助手",
           "url": "https://xinghuo.xfyun.cn",
           "order": 2,
@@ -694,10 +784,10 @@
           "allowCopy": false
         },
         {
-          "id": "77eb2d2b-f511-4d59-9627-4fcfb6c73cae",
+          "id": "7bfd48ec-8998-475c-88a0-e76300893c87",
           "name": "Flowith 2.0",
-          "icon": "Assets\\favicons\\flowith_io.png",
-          "faviconUrl": "Assets\\favicons\\flowith_io.png",
+          "icon": "\uD83C\uDF0A",
+          "faviconUrl": "",
           "description": "基于节点式交互的画布式AI创作工具",
           "url": "https://flowith.io",
           "order": 3,
@@ -706,19 +796,19 @@
           "allowCopy": false
         },
         {
-          "id": "a34053d7-23a1-476b-895b-9592fc3efd43",
+          "id": "e8365b1f-ba59-4725-82f8-96289eba9abc",
           "name": "66论文",
-          "icon": "Assets\\favicons\\66lunwen_com.png",
-          "faviconUrl": "Assets\\favicons\\66lunwen_com.png",
+          "icon": "\uD83D\uDCC4",
+          "faviconUrl": "",
           "description": "66论文-高质量论文写作",
           "url": "https://66lunwen.com",
           "order": 4,
-          "category": "AI文本写作",
+          "category": null,
           "noticeText": null,
           "allowCopy": false
         },
         {
-          "id": "ae454e98-ebbd-40ea-b4fb-6429fdcba821",
+          "id": "e0f39fc1-025f-4908-bfb3-ed46f5311508",
           "name": "蛙蛙写作",
           "icon": "\uD83D\uDC38",
           "faviconUrl": "",
@@ -730,7 +820,7 @@
           "allowCopy": false
         },
         {
-          "id": "ed649689-cd54-4c25-91b7-2f0763eb26fd",
+          "id": "790b8e7b-c2c8-4532-a08e-8b8af1cd7ed0",
           "name": "讯飞绘文",
           "icon": "✍️",
           "faviconUrl": "",
@@ -742,7 +832,7 @@
           "allowCopy": false
         },
         {
-          "id": "f2dafa9d-3d7e-43f1-85f9-bb0f46ce16ee",
+          "id": "c4025905-aabb-4028-ae2b-99fe5b328655",
           "name": "笔灵AI论文写作",
           "icon": "\uD83D\uDD8A️",
           "faviconUrl": "",
@@ -754,7 +844,7 @@
           "allowCopy": false
         },
         {
-          "id": "570ed272-cd74-4216-bec0-7a06ccc0b7a7",
+          "id": "763bf0ce-a615-4489-89c8-bbf4598f1380",
           "name": "腾讯元宝电脑版",
           "icon": "\uD83D\uDC8E",
           "faviconUrl": "",
@@ -766,10 +856,10 @@
           "allowCopy": false
         },
         {
-          "id": "e6198a02-30e9-4657-bcff-8ba27c9f4a74",
+          "id": "e1f48d7a-8bbb-4d96-84f3-34a130f01724",
           "name": "慧灵AI论文",
           "icon": "\uD83D\uDCDD",
-          "faviconUrl": null,
+          "faviconUrl": "",
           "description": "慧灵AI论文写作助手",
           "url": "https://huiling.ai",
           "order": 9,
@@ -778,7 +868,7 @@
           "allowCopy": false
         },
         {
-          "id": "509b52c8-7ec5-455e-ab90-b7d88171903c",
+          "id": "e03375bd-a514-4876-a419-e49791f71e67",
           "name": "boardmix博思白板",
           "icon": "\uD83D\uDCCB",
           "faviconUrl": "",
@@ -790,7 +880,7 @@
           "allowCopy": false
         },
         {
-          "id": "77806b7a-3683-4acc-b3a4-7b98d5692af4",
+          "id": "336f5e41-ac57-4b8c-9d11-2d0c19bc0400",
           "name": "万彩AI",
           "icon": "\uD83C\uDFA8",
           "faviconUrl": "",
@@ -802,7 +892,7 @@
           "allowCopy": false
         },
         {
-          "id": "504eed0f-3c27-4628-8680-4df38d001be5",
+          "id": "e5b2a532-1146-4673-834d-f8805eb95cc2",
           "name": "巧文书",
           "icon": "\uD83D\uDCD6",
           "faviconUrl": "",
@@ -814,7 +904,7 @@
           "allowCopy": false
         },
         {
-          "id": "78682d42-d84c-41cb-b47b-691808abb3ff",
+          "id": "14e8bb53-9ed9-449d-b313-a0ce41acd6f0",
           "name": "万能小Nn",
           "icon": "\uD83E\uDD16",
           "faviconUrl": "",
@@ -826,7 +916,7 @@
           "allowCopy": false
         },
         {
-          "id": "cfcdadc6-fbe1-44b2-936a-52d0fd3b7c73",
+          "id": "91f15347-7a72-417b-bb93-54339c6d3765",
           "name": "MedPeer文生会",
           "icon": "\uD83C\uDFE5",
           "faviconUrl": "",
@@ -838,7 +928,7 @@
           "allowCopy": false
         },
         {
-          "id": "2d85a77a-f775-4f48-956c-349034477997",
+          "id": "f2619088-1521-4246-b80e-ac1d77615f52",
           "name": "每日自动文论文作者",
           "icon": "\uD83D\uDCF0",
           "faviconUrl": "",
@@ -850,7 +940,7 @@
           "allowCopy": false
         },
         {
-          "id": "8b86fb4b-1d38-4ebb-99b6-741c6e354881",
+          "id": "90d13b2f-c26f-4be8-8d7f-9e8c1b1f933d",
           "name": "猫眼课堂宝",
           "icon": "\uD83D\uDC31",
           "faviconUrl": "",
@@ -862,7 +952,7 @@
           "allowCopy": false
         },
         {
-          "id": "d577e045-c9b2-4600-b1fd-a022c14f4e81",
+          "id": "48c6a400-dd1b-4cec-8eb4-6d9c7f0440e0",
           "name": "小蜜蜂英文润色器",
           "icon": "\uD83D\uDC1D",
           "faviconUrl": "",
@@ -874,7 +964,7 @@
           "allowCopy": false
         },
         {
-          "id": "2318af02-98ea-442d-a009-393af0b13385",
+          "id": "efdcc934-04b3-4d9c-b136-452f3937bee1",
           "name": "从言学术",
           "icon": "\uD83C\uDF93",
           "faviconUrl": "",
@@ -886,7 +976,7 @@
           "allowCopy": false
         },
         {
-          "id": "d9a705fc-434d-4d16-8fc7-8a547617635f",
+          "id": "4aac8acd-ff2b-4ad6-b17b-bc563c7fcbe3",
           "name": "福定AI文案",
           "icon": "✍️",
           "faviconUrl": "",
@@ -898,7 +988,7 @@
           "allowCopy": false
         },
         {
-          "id": "fa63fe91-6219-4074-b173-eb0f80b07f09",
+          "id": "84be37f9-d7b1-4544-bd0a-07bd23993723",
           "name": "百度文库AI",
           "icon": "\uD83D\uDCDA",
           "faviconUrl": "",
@@ -910,7 +1000,7 @@
           "allowCopy": false
         },
         {
-          "id": "269285c2-3b1b-46ff-8ce2-86c026831d0e",
+          "id": "43567f92-bb63-4ed6-a844-d083f035d1cc",
           "name": "Kimi.ai",
           "icon": "\uD83E\uDD16",
           "faviconUrl": "",
@@ -922,7 +1012,7 @@
           "allowCopy": false
         },
         {
-          "id": "f83984bf-1689-4d15-acd3-0abba7d58c11",
+          "id": "c46bda42-2dfc-470c-94af-5ada0b8fc373",
           "name": "小鱼AI写作",
           "icon": "\uD83D\uDC1F",
           "faviconUrl": "",
@@ -934,7 +1024,7 @@
           "allowCopy": false
         },
         {
-          "id": "21f0b27d-ba9b-44d8-8eb7-9cd390d1a254",
+          "id": "ec58c043-d0d0-4c0e-bc61-bab15ca702f3",
           "name": "Grammarly",
           "icon": "✅",
           "faviconUrl": "",
@@ -946,7 +1036,7 @@
           "allowCopy": false
         },
         {
-          "id": "ae3498cd-deb0-482d-a135-a3957a3dbe8e",
+          "id": "83966126-15b1-4094-92f0-9070c14f7de5",
           "name": "Quillbot",
           "icon": "\uD83D\uDD8B️",
           "faviconUrl": "",
@@ -958,7 +1048,7 @@
           "allowCopy": false
         },
         {
-          "id": "ad2066bd-71da-4b1f-8b71-7bd5624949eb",
+          "id": "07ce06c5-7917-40c5-b73d-6fc63a3975bf",
           "name": "Ryu写作助手",
           "icon": "✍️",
           "faviconUrl": "",
@@ -970,7 +1060,7 @@
           "allowCopy": false
         },
         {
-          "id": "c567a27f-1fa7-4684-befe-2084305f5dea",
+          "id": "534b4dd4-ae4c-4024-a51a-3a803b85a314",
           "name": "火山写作",
           "icon": "\uD83C\uDF0B",
           "faviconUrl": "",
@@ -982,7 +1072,7 @@
           "allowCopy": false
         },
         {
-          "id": "11ca9684-f76b-4058-b47d-b1c26f9f99f7",
+          "id": "25b2ff02-04fa-4b04-9ce8-a6f00585ce1f",
           "name": "Writesonic",
           "icon": "\uD83C\uDFB5",
           "faviconUrl": "",
@@ -994,7 +1084,7 @@
           "allowCopy": false
         },
         {
-          "id": "b981cc39-b5f2-4c2a-9b25-ef0d7658aea7",
+          "id": "42f461c6-f58c-45c4-8fd1-788b27ec3035",
           "name": "Jasper",
           "icon": "\uD83D\uDC8E",
           "faviconUrl": "",
@@ -1006,7 +1096,7 @@
           "allowCopy": false
         },
         {
-          "id": "3ec1e9b8-b629-4310-a70a-76c1a13e99cf",
+          "id": "6621ce92-89ee-4fc0-a182-daabe00e43ac",
           "name": "火山写作",
           "icon": "\uD83C\uDF0B",
           "faviconUrl": "",
@@ -1018,7 +1108,7 @@
           "allowCopy": false
         },
         {
-          "id": "70df71f2-3677-4183-8cbc-1445b64a7b4b",
+          "id": "c33bb00e-fd2f-4226-8daf-482c0191b468",
           "name": "秘塔写作猫",
           "icon": "\uD83D\uDC31",
           "faviconUrl": "",
@@ -1037,57 +1127,7 @@
       "name": "AI绘图制作",
       "icon": "\uD83C\uDFA8",
       "order": 4,
-      "featured": [
-        {
-          "id": "a9b3f17e-ffb1-4989-8d9c-96e5614b6aa8",
-          "name": "Midjourney",
-          "icon": "Assets\\favicons\\midjourney_com.png",
-          "faviconUrl": "Assets\\favicons\\midjourney_com.png",
-          "description": "顶级AI绘画",
-          "url": "https://midjourney.com",
-          "order": 1,
-          "category": null,
-          "noticeText": null,
-          "allowCopy": false
-        },
-        {
-          "id": "83894253-c96a-4788-b64a-ef1215ef7249",
-          "name": "Stable Diffusion",
-          "icon": "Assets\\favicons\\stablediffusionweb_com.png",
-          "faviconUrl": "Assets\\favicons\\stablediffusionweb_com.png",
-          "description": "开源AI绘画",
-          "url": "https://stablediffusionweb.com",
-          "order": 2,
-          "category": null,
-          "noticeText": null,
-          "allowCopy": false
-        },
-        {
-          "id": "16aa50b3-bd23-4c60-b01b-361dc763c52f",
-          "name": "DALL-E 3",
-          "icon": "Assets\\favicons\\openai_com.png",
-          "faviconUrl": "Assets\\favicons\\openai_com.png",
-          "description": "OpenAI绘画",
-          "url": "https://openai.com/dall-e-3",
-          "order": 3,
-          "category": null,
-          "noticeText": null,
-          "allowCopy": false
-        },
-        {
-          "id": "d28511e5-2f04-4d2f-883f-32441aa25df0",
-          "name": "Leonardo AI",
-          "icon": "Assets\\favicons\\leonardo_ai.png",
-          "faviconUrl": "Assets\\favicons\\leonardo_ai.png",
-          "description": "游戏素材",
-          "url": "https://leonardo.ai",
-          "order": 4,
-          "category": null,
-          "noticeText": null,
-          "allowCopy": false
-        }
-      ],
-      "others": [],
+      "websites": [],
       "hotReferences": []
     },
     {
@@ -1095,13 +1135,12 @@
       "name": "AI 3D建模",
       "icon": "\uD83E\uDDCA",
       "order": 5,
-      "featured": [],
-      "others": [
+      "websites": [
         {
-          "id": "78b332ee-eebf-4bc7-8592-d0faa774ef79",
+          "id": "ee33b942-d898-43d5-9bd6-2aed743f55d5",
           "name": "HoloPix AI",
           "icon": "\uD83C\uDFB2",
-          "faviconUrl": null,
+          "faviconUrl": "",
           "description": "HoloPix AI 创作平台，游戏动漫设计的创意助",
           "url": "https://holopix.ai",
           "order": 1,
@@ -1110,10 +1149,10 @@
           "allowCopy": false
         },
         {
-          "id": "51aa5212-c0a6-44a7-a2cd-ac9a1e926e32",
+          "id": "82dd1f32-d63c-433d-825b-075dc99d3222",
           "name": "Leonardo.ai",
-          "icon": "Assets\\favicons\\leonardo_ai.png",
-          "faviconUrl": "Assets\\favicons\\leonardo_ai.png",
+          "icon": "\uD83C\uDFA8",
+          "faviconUrl": "",
           "description": "一个免费的AI绘图生成平台，数字主视频游戏",
           "url": "https://leonardo.ai",
           "order": 2,
@@ -1122,10 +1161,10 @@
           "allowCopy": false
         },
         {
-          "id": "b81736fd-6df5-4b9f-8e19-04bf642e569d",
+          "id": "5938f3fb-7ac3-4b1c-8faf-258b80e1bc67",
           "name": "Spline",
-          "icon": "Assets\\favicons\\spline_design.png",
-          "faviconUrl": "Assets\\favicons\\spline_design.png",
+          "icon": "\uD83C\uDF00",
+          "faviconUrl": "",
           "description": "3D设计工具，协作平台",
           "url": "https://spline.design",
           "order": 3,
@@ -1134,10 +1173,10 @@
           "allowCopy": false
         },
         {
-          "id": "6043931b-44d1-4ace-9570-7e8eea759d12",
+          "id": "62b54233-9f7e-43ae-a91f-389cfa26cd79",
           "name": "魔珠星云",
           "icon": "☁️",
-          "faviconUrl": null,
+          "faviconUrl": "",
           "description": "无需高端GPU，一键解锁磁盘实况/二次元多风格",
           "url": "https://www.mozhu.ai",
           "order": 4,
@@ -1146,10 +1185,10 @@
           "allowCopy": false
         },
         {
-          "id": "e55cab05-9a38-4739-af4b-d1cd8b6196e4",
+          "id": "dd324c1d-e3e2-4858-8c39-221907c6efa3",
           "name": "混元游戏",
-          "icon": "Assets\\favicons\\hunyuan_tencent_com.png",
-          "faviconUrl": "Assets\\favicons\\hunyuan_tencent_com.png",
+          "icon": "\uD83C\uDFAE",
+          "faviconUrl": "",
           "description": "腾讯混元推出的工业级AIGC游戏引擎生产平台",
           "url": "https://hunyuan.tencent.com/game",
           "order": 5,
@@ -1158,10 +1197,22 @@
           "allowCopy": false
         },
         {
-          "id": "48721f28-fb1d-4c66-9256-3d54e832c6ec",
+          "id": "bda30e45-388e-4f48-ba04-5143925a530b",
+          "name": "有言",
+          "icon": "\uD83D\uDCAC",
+          "faviconUrl": "",
+          "description": "有言是一个一站式AI视频创作平台的数字人生成",
+          "url": "https://www.youyan.ai",
+          "order": 6,
+          "category": null,
+          "noticeText": null,
+          "allowCopy": false
+        },
+        {
+          "id": "b9088d99-b22d-4487-9f02-6009e3dcd94e",
           "name": "腾讯混元3D",
-          "icon": "Assets\\favicons\\hunyuan_tencent_com.png",
-          "faviconUrl": "Assets\\favicons\\hunyuan_tencent_com.png",
+          "icon": "\uD83C\uDFB2",
+          "faviconUrl": "",
           "description": "腾讯混元推出一站式3D内容创作平台",
           "url": "https://hunyuan.tencent.com/3d",
           "order": 7,
@@ -1170,10 +1221,10 @@
           "allowCopy": false
         },
         {
-          "id": "cab77792-ad90-4d16-90d4-456b7a8b42f5",
+          "id": "abbadc1c-f176-47eb-94b7-9e94f1690de9",
           "name": "In3D",
-          "icon": "Assets\\favicons\\in3d_io.png",
-          "faviconUrl": "Assets\\favicons\\in3d_io.png",
+          "icon": "\uD83C\uDFAD",
+          "faviconUrl": "",
           "description": "把真人变成化身，创建逼真且可定义的虚拟",
           "url": "https://in3d.io",
           "order": 8,
@@ -1182,10 +1233,10 @@
           "allowCopy": false
         },
         {
-          "id": "58c268f7-09d0-42fa-bcfb-e6b73b9a6887",
+          "id": "2896263f-73ba-45d3-8c7b-a22a417081d5",
           "name": "DeepMotion",
-          "icon": "Assets\\favicons\\deepmotion_com.png",
-          "faviconUrl": "Assets\\favicons\\deepmotion_com.png",
+          "icon": "\uD83C\uDFC3",
+          "faviconUrl": "",
           "description": "DeepMotion致力于使用AI的动作捕捉和实时3D",
           "url": "https://deepmotion.com",
           "order": 9,
@@ -1194,10 +1245,10 @@
           "allowCopy": false
         },
         {
-          "id": "42d0ed6f-036f-4fee-91c6-8778f3a15b8e",
+          "id": "7c595149-d9d7-4be0-9767-ad0f5e5f46b1",
           "name": "VisualizeAI",
-          "icon": "Assets\\favicons\\visualizeai_pro.png",
-          "faviconUrl": "Assets\\favicons\\visualizeai_pro.png",
+          "icon": "\uD83D\uDC41️",
+          "faviconUrl": "",
           "description": "用AI把你的想法全部成现实",
           "url": "https://visualizeai.pro",
           "order": 10,
@@ -1206,10 +1257,10 @@
           "allowCopy": false
         },
         {
-          "id": "b6cfa48d-e163-4f82-818e-f8aadd9c096f",
+          "id": "82291a55-480b-425b-8807-949a4d42c69d",
           "name": "Tripo AI",
-          "icon": "Assets\\favicons\\tripo_ai.png",
-          "faviconUrl": "Assets\\favicons\\tripo_ai.png",
+          "icon": "\uD83C\uDFB2",
+          "faviconUrl": "",
           "description": "AI驱动的3D建模平台",
           "url": "https://tripo.ai",
           "order": 11,
@@ -1218,7 +1269,7 @@
           "allowCopy": false
         },
         {
-          "id": "2cb40d05-098d-4e2b-bb5b-320c85ca32df",
+          "id": "4337342f-6702-4677-9838-232994c98096",
           "name": "Aiuni AI",
           "icon": "\uD83E\uDD16",
           "faviconUrl": "",
@@ -1230,7 +1281,7 @@
           "allowCopy": false
         },
         {
-          "id": "e84c7a46-75c6-414d-bf7b-f876f7c8d703",
+          "id": "e64e81f0-0cb8-4e45-8f46-77828060f9e0",
           "name": "Mootion",
           "icon": "\uD83C\uDFAC",
           "faviconUrl": "",
@@ -1242,7 +1293,7 @@
           "allowCopy": false
         },
         {
-          "id": "57059478-98c7-4c95-aa3c-8452ab53a0bd",
+          "id": "374b1f5f-f28f-4748-b3df-401322e2e5d9",
           "name": "Viggle AI",
           "icon": "\uD83D\uDC83",
           "faviconUrl": "",
@@ -1254,7 +1305,7 @@
           "allowCopy": false
         },
         {
-          "id": "613c5363-c184-41c5-8916-383f99a5ceb5",
+          "id": "eca4860f-75af-49cf-b66b-bcbcd5e42116",
           "name": "Project Neo",
           "icon": "\uD83C\uDFAF",
           "faviconUrl": "",
@@ -1266,7 +1317,7 @@
           "allowCopy": false
         },
         {
-          "id": "b15e637b-d4e1-45ef-b034-81f6c53826fa",
+          "id": "6bbb2397-3fc6-48b2-84a5-b14bf0d311de",
           "name": "Meshy",
           "icon": "\uD83D\uDDFF",
           "faviconUrl": "",
@@ -1278,7 +1329,7 @@
           "allowCopy": false
         },
         {
-          "id": "0ab2d3d9-7319-42db-9acd-1d0a0510106c",
+          "id": "fee81a95-cc6d-4952-9a3d-afb5d38139f9",
           "name": "Skybox AI",
           "icon": "\uD83D\uDCE6",
           "faviconUrl": "",
@@ -1290,7 +1341,7 @@
           "allowCopy": false
         },
         {
-          "id": "1b2d5baf-c40c-41fa-8484-e6923a9e5a82",
+          "id": "c8ab287a-99dc-449e-8ad3-9c58b3823d98",
           "name": "Promethean AI",
           "icon": "\uD83D\uDD25",
           "faviconUrl": "",
@@ -1302,7 +1353,7 @@
           "allowCopy": false
         },
         {
-          "id": "8c4397fd-64a1-4674-aa1d-158a71cb97d2",
+          "id": "022218da-0728-44fd-a461-e5e3b79d522f",
           "name": "KAEDIM",
           "icon": "\uD83C\uDFAF",
           "faviconUrl": "",
@@ -1314,7 +1365,7 @@
           "allowCopy": false
         },
         {
-          "id": "c628bf86-d855-4434-9bba-6513278c8517",
+          "id": "5d3fdd04-d324-486a-a9b6-b0ff4f81bc6a",
           "name": "RoomGPT",
           "icon": "\uD83C\uDFE0",
           "faviconUrl": "",
@@ -1326,7 +1377,7 @@
           "allowCopy": false
         },
         {
-          "id": "4dfc83a9-f824-4f5a-ba09-5476a2f9138f",
+          "id": "747538b9-d14d-4226-8446-59971e48c432",
           "name": "Interior AI",
           "icon": "\uD83C\uDFE1",
           "faviconUrl": "",
@@ -1338,7 +1389,7 @@
           "allowCopy": false
         },
         {
-          "id": "4295e558-9e2a-4034-b734-6cd4fdf7ccff",
+          "id": "8323d4c7-5ad6-4958-8c75-c3a1330c6794",
           "name": "Marble",
           "icon": "⚪",
           "faviconUrl": "",
@@ -1350,7 +1401,7 @@
           "allowCopy": false
         },
         {
-          "id": "fbeea46f-11aa-4c73-aba1-63d313a03308",
+          "id": "9bd7f5ac-8e16-4d3e-b747-137fe9b7de9f",
           "name": "Style3D",
           "icon": "\uD83D\uDC57",
           "faviconUrl": "",
@@ -1362,7 +1413,7 @@
           "allowCopy": false
         },
         {
-          "id": "7e5e2bda-a5fe-4faa-826c-07076f9a7793",
+          "id": "34c2452d-ec46-4dc3-b30c-be2bff11a5b5",
           "name": "造物云室内设计",
           "icon": "\uD83C\uDFE0",
           "faviconUrl": "",
@@ -1374,7 +1425,7 @@
           "allowCopy": false
         },
         {
-          "id": "5530e3b5-142f-4b9c-92b2-874eff57ed4e",
+          "id": "b290c968-1731-4075-ae03-9fdc33d6df53",
           "name": "Hyper3D",
           "icon": "\uD83C\uDFB2",
           "faviconUrl": "",
@@ -1386,7 +1437,7 @@
           "allowCopy": false
         },
         {
-          "id": "1701fd79-8356-4389-8171-fabaa36167d5",
+          "id": "1ac83c34-9b0d-410b-9aa4-fe083ccf5694",
           "name": "Masterpiece Studio",
           "icon": "\uD83C\uDFA8",
           "faviconUrl": "",
@@ -1398,7 +1449,7 @@
           "allowCopy": false
         },
         {
-          "id": "40942846-b9e8-4a2a-9c52-bae13e2c74bf",
+          "id": "56f9a3de-731c-4046-aa04-bd6079c06eaa",
           "name": "DBiM",
           "icon": "\uD83C\uDFD7️",
           "faviconUrl": "",
@@ -1410,7 +1461,7 @@
           "allowCopy": false
         },
         {
-          "id": "6f81f5d6-9f4f-4cdd-9f70-47f862fcf4b7",
+          "id": "8ea5462e-eb26-40b4-925f-444934167b16",
           "name": "Hitem3D",
           "icon": "\uD83C\uDFAF",
           "faviconUrl": "",
@@ -1422,7 +1473,7 @@
           "allowCopy": false
         },
         {
-          "id": "566aad83-22c2-41de-b953-551d0d7c9735",
+          "id": "8fbcb461-7553-403a-a6af-8dad83013b59",
           "name": "Dreamhouse AI",
           "icon": "\uD83C\uDFE1",
           "faviconUrl": "",
@@ -1434,7 +1485,7 @@
           "allowCopy": false
         },
         {
-          "id": "1df2056a-4900-413f-a60c-eff148ae72c8",
+          "id": "e2711efb-dfb1-4f95-b8d2-2a977d945390",
           "name": "immersity AI",
           "icon": "\uD83C\uDF10",
           "faviconUrl": "",
@@ -1453,13 +1504,12 @@
       "name": "AI办公学习",
       "icon": "\uD83D\uDCDA",
       "order": 6,
-      "featured": [],
-      "others": [
+      "websites": [
         {
-          "id": "7c8cd702-98da-4ba0-a754-12aecaf08138",
+          "id": "7fad9cb9-cb27-4f77-b995-e320d2fd772d",
           "name": "AiPPT",
-          "icon": "Assets\\favicons\\www_aippt_cn.png",
-          "faviconUrl": "Assets\\favicons\\www_aippt_cn.png",
+          "icon": "\uD83D\uDCCA",
+          "faviconUrl": "",
           "description": "AI一键生成PPT，输入主题，3分钟制作PPT",
           "url": "https://www.aippt.cn",
           "order": 1,
@@ -1468,10 +1518,10 @@
           "allowCopy": false
         },
         {
-          "id": "7e05a8c1-3965-4f26-8b33-8eaaff739752",
+          "id": "ea487922-1ff4-4f1f-8a9c-678536141bc8",
           "name": "Flowith 2.0",
-          "icon": "Assets\\favicons\\flowith_io.png",
-          "faviconUrl": "Assets\\favicons\\flowith_io.png",
+          "icon": "\uD83C\uDF0A",
+          "faviconUrl": "",
           "description": "基于节点式交互的画布式AI创作工具",
           "url": "https://flowith.io",
           "order": 2,
@@ -1480,10 +1530,10 @@
           "allowCopy": false
         },
         {
-          "id": "f782627c-6a28-4c62-b000-60f968637026",
+          "id": "667c0d22-4a11-45a7-8f7a-997d11e9b40f",
           "name": "星辰Agent",
-          "icon": "Assets\\favicons\\xinghuo_xfyun_cn.png",
-          "faviconUrl": "Assets\\favicons\\xinghuo_xfyun_cn.png",
+          "icon": "⭐",
+          "faviconUrl": "",
           "description": "科大讯飞推出的智能Agent开发平台，助力开发",
           "url": "https://xinghuo.xfyun.cn",
           "order": 3,
@@ -1492,10 +1542,10 @@
           "allowCopy": false
         },
         {
-          "id": "a6aacf18-a2dd-4afc-8f37-9fbef61e642d",
+          "id": "f8f0f844-4e63-42e1-b4ca-b4489ddce070",
           "name": "扣子Coze",
-          "icon": "Assets\\favicons\\www_coze_cn.png",
-          "faviconUrl": "Assets\\favicons\\www_coze_cn.png",
+          "icon": "\uD83E\uDD16",
+          "faviconUrl": "",
           "description": "扣子AI，易用的AI",
           "url": "https://www.coze.cn",
           "order": 4,
@@ -1504,7 +1554,7 @@
           "allowCopy": false
         },
         {
-          "id": "9295191d-51a1-4b54-9ff0-c966ed955e72",
+          "id": "f843e484-19a7-4ad0-af52-e9731417b4ea",
           "name": "iSlide AiPPT",
           "icon": "\uD83D\uDCCA",
           "faviconUrl": "",
@@ -1516,7 +1566,7 @@
           "allowCopy": false
         },
         {
-          "id": "eeff812f-d69b-4ed6-88d5-800055b6cb54",
+          "id": "489fec20-ee21-4736-a278-50670d8bc12b",
           "name": "ChatExcel",
           "icon": "\uD83D\uDCC8",
           "faviconUrl": "",
@@ -1528,7 +1578,7 @@
           "allowCopy": false
         },
         {
-          "id": "fc63e907-3433-4158-aa19-b21fba3f4375",
+          "id": "afbdbffa-699f-4208-adf6-a94086c7e4de",
           "name": "可器AI",
           "icon": "\uD83D\uDD27",
           "faviconUrl": "",
@@ -1540,7 +1590,7 @@
           "allowCopy": false
         },
         {
-          "id": "a26c34d7-4172-44a9-868f-2d2a0d0997bb",
+          "id": "08d3a730-4625-44e3-9a38-7905bd5696cd",
           "name": "星辰Agent",
           "icon": "⭐",
           "faviconUrl": "",
@@ -1552,7 +1602,7 @@
           "allowCopy": false
         },
         {
-          "id": "a190f306-e26c-4556-8717-be6078bd98b2",
+          "id": "2dd55a03-d389-4967-8007-c6c2daac385e",
           "name": "办公小浣熊",
           "icon": "\uD83E\uDD9D",
           "faviconUrl": "",
@@ -1564,7 +1614,7 @@
           "allowCopy": false
         },
         {
-          "id": "d31febca-935f-4d30-a7b5-8337ab7a743d",
+          "id": "437fa524-2d68-4e8b-963f-dfaf0044e4c1",
           "name": "腾讯元宝电脑版",
           "icon": "\uD83D\uDC8E",
           "faviconUrl": "",
@@ -1576,10 +1626,10 @@
           "allowCopy": false
         },
         {
-          "id": "f0111e5f-becd-45a9-89ae-1606513e223b",
+          "id": "3c728cf3-5f57-4e5e-9ff0-160a893d869c",
           "name": "AiBiao.com",
-          "icon": "Assets\\favicons\\aibiao_com.png",
-          "faviconUrl": "Assets\\favicons\\aibiao_com.png",
+          "icon": "\uD83D\uDCCA",
+          "faviconUrl": "",
           "description": "一键生成专业报告，只需输入人工智能，即可",
           "url": "https://aibiao.com",
           "order": 11,
@@ -1588,10 +1638,10 @@
           "allowCopy": false
         },
         {
-          "id": "98b37317-7fb6-4c97-b80f-0de0f7864d87",
+          "id": "a4fecaa1-7f34-4bfa-bc9b-d72db0d60d73",
           "name": "福定PPT",
           "icon": "\uD83D\uDCCA",
-          "faviconUrl": null,
+          "faviconUrl": "",
           "description": "福定PPT智能在线演示",
           "url": "https://fudingppt.com",
           "order": 12,
@@ -1600,10 +1650,10 @@
           "allowCopy": false
         },
         {
-          "id": "d05b9dc2-da86-4e2c-9db1-551adff26ccf",
+          "id": "dae05171-86de-457c-a6a5-45ab6c6cf6cd",
           "name": "万能小Nn",
           "icon": "\uD83E\uDD16",
-          "faviconUrl": null,
+          "faviconUrl": "",
           "description": "300万人都在用的AI文字专家，一键制作方案书",
           "url": "https://www.wn-nn.com",
           "order": 13,
@@ -1612,10 +1662,10 @@
           "allowCopy": false
         },
         {
-          "id": "c693d65f-d383-402b-90c5-8bbbd6188aa8",
+          "id": "13c78c8f-d9d6-4c5a-8b08-d4951b2c0f3a",
           "name": "boardmix博思白板",
-          "icon": "Assets\\favicons\\boardmix_cn.png",
-          "faviconUrl": "Assets\\favicons\\boardmix_cn.png",
+          "icon": "\uD83D\uDCCB",
+          "faviconUrl": "",
           "description": "多模态AI创作工作空间，集AI生成，一键PPT，思",
           "url": "https://boardmix.cn",
           "order": 14,
@@ -1624,10 +1674,10 @@
           "allowCopy": false
         },
         {
-          "id": "ace8b95d-27dc-4689-a866-61b1b4843a38",
+          "id": "1971dcf6-b0d8-4c2d-bf30-b280058e9c61",
           "name": "百度文库AI",
-          "icon": "Assets\\favicons\\wenku_baidu_com.png",
-          "faviconUrl": "Assets\\favicons\\wenku_baidu_com.png",
+          "icon": "\uD83D\uDCDA",
+          "faviconUrl": "",
           "description": "百度文库AI内容创作和知识管理平台",
           "url": "https://wenku.baidu.com",
           "order": 15,
@@ -1636,10 +1686,10 @@
           "allowCopy": false
         },
         {
-          "id": "674063be-1d1c-4c2b-8e89-fa9d7d8da1a0",
+          "id": "cf3a4283-6e2a-44cb-8e22-fd87cc3d5f28",
           "name": "比格AIPPT",
           "icon": "\uD83D\uDCCA",
-          "faviconUrl": null,
+          "faviconUrl": "",
           "description": "比格AIPPT-AI一键制作精美幻灯片，快速生成AI",
           "url": "https://bigeppt.com",
           "order": 16,
@@ -1648,10 +1698,10 @@
           "allowCopy": false
         },
         {
-          "id": "af0391eb-4a62-48af-9e82-2ea2972e3f3f",
+          "id": "742c8959-4dc9-4de4-8235-2dafc63fb1e3",
           "name": "炸弹AIPPT",
           "icon": "\uD83D\uDCA3",
-          "faviconUrl": null,
+          "faviconUrl": "",
           "description": "炸弹AIPPT模板代码，快速制作精美幻灯片",
           "url": "https://zhadanaippt.com",
           "order": 17,
@@ -1660,10 +1710,10 @@
           "allowCopy": false
         },
         {
-          "id": "3c5157ae-27f1-468c-a9a5-157a9a0efc1a",
+          "id": "a0aff41b-b242-4797-b945-8b22bd4f5efc",
           "name": "ChatDOC",
-          "icon": "Assets\\favicons\\chatdoc_com.png",
-          "faviconUrl": "Assets\\favicons\\chatdoc_com.png",
+          "icon": "\uD83D\uDCC4",
+          "faviconUrl": "",
           "description": "ChatDOC是一款基于ChatGPT的文件阅读助手",
           "url": "https://chatdoc.com",
           "order": 18,
@@ -1672,7 +1722,7 @@
           "allowCopy": false
         },
         {
-          "id": "4522f497-cb02-43aa-b165-17a35e3eda3d",
+          "id": "10bd9d27-1107-4e1b-b764-8dee9a68b106",
           "name": "Dokie AI",
           "icon": "\uD83D\uDCDD",
           "faviconUrl": "",
@@ -1684,7 +1734,7 @@
           "allowCopy": false
         },
         {
-          "id": "d7e7b8de-4de0-4727-a149-15a5bbbb05de",
+          "id": "a997c826-4ee5-48e7-be25-b0f326d885d8",
           "name": "小流熊家族",
           "icon": "\uD83D\uDC3B",
           "faviconUrl": "",
@@ -1696,7 +1746,7 @@
           "allowCopy": false
         },
         {
-          "id": "9878d772-f2de-43b4-9471-517af3300b9b",
+          "id": "2fb0fc87-bc16-4738-99f4-0bff8818d844",
           "name": "Tome",
           "icon": "\uD83D\uDCD6",
           "faviconUrl": "",
@@ -1708,7 +1758,7 @@
           "allowCopy": false
         },
         {
-          "id": "48326351-86e1-4433-985a-4f734645e7f1",
+          "id": "73e95be2-5b15-4a52-869d-717a3d26a041",
           "name": "Gamma.app",
           "icon": "\uD83D\uDCCA",
           "faviconUrl": "",
@@ -1720,7 +1770,7 @@
           "allowCopy": false
         },
         {
-          "id": "253deaa4-4469-4dc3-a921-338dbf0d774c",
+          "id": "eb1cc730-8b5e-43bf-a164-24648d85b524",
           "name": "Kimi.ai",
           "icon": "\uD83E\uDD16",
           "faviconUrl": "",
@@ -1732,7 +1782,7 @@
           "allowCopy": false
         },
         {
-          "id": "258e8e3b-6520-454b-9dc9-2a24f678f31c",
+          "id": "881f02e2-12dd-405b-bee6-f38c9b18adf6",
           "name": "Glimmer Ai",
           "icon": "✨",
           "faviconUrl": "",
@@ -1744,7 +1794,7 @@
           "allowCopy": false
         },
         {
-          "id": "91fc8def-23c0-4298-b6f7-be78e16ccc72",
+          "id": "927dc358-b598-43dc-8cef-7391fc63ed4f",
           "name": "Whimsical",
           "icon": "\uD83C\uDFA8",
           "faviconUrl": "",
@@ -1756,7 +1806,7 @@
           "allowCopy": false
         },
         {
-          "id": "2462f038-6871-423d-bd91-9a1c2d0f3219",
+          "id": "6b739282-1919-4157-b891-c4664817f2f1",
           "name": "AiPPT模板广场",
           "icon": "\uD83D\uDCCA",
           "faviconUrl": "",
@@ -1768,7 +1818,7 @@
           "allowCopy": false
         },
         {
-          "id": "65d6b7da-9f78-4375-8acc-f23629beaf9f",
+          "id": "d0bd2a53-a564-4d78-b934-06b56e35b3d5",
           "name": "笔灵AI智能PPT",
           "icon": "\uD83D\uDD8A️",
           "faviconUrl": "",
@@ -1780,7 +1830,7 @@
           "allowCopy": false
         },
         {
-          "id": "d633cf9c-6434-43c8-b801-8159829f6936",
+          "id": "0691a150-1a00-4d6a-a116-3ba4da8ad36e",
           "name": "飞书多维表格",
           "icon": "\uD83D\uDCCA",
           "faviconUrl": "",
@@ -1792,7 +1842,7 @@
           "allowCopy": false
         },
         {
-          "id": "d68756a6-bf21-4c73-b85e-4308e6a677eb",
+          "id": "14db6eaa-1edf-4046-826a-12d3bd1b7eb8",
           "name": "叮当AI写作",
           "icon": "✍️",
           "faviconUrl": "",
@@ -1804,7 +1854,7 @@
           "allowCopy": false
         },
         {
-          "id": "683ad972-24db-42f3-91ac-285ee34bb490",
+          "id": "9ee669d6-a3f6-4525-8488-8712019f0ba3",
           "name": "通义千问",
           "icon": "\uD83D\uDCAD",
           "faviconUrl": "",
@@ -1823,13 +1873,12 @@
       "name": "AI编程开发",
       "icon": "\uD83D\uDCBB",
       "order": 7,
-      "featured": [],
-      "others": [
+      "websites": [
         {
-          "id": "c619e857-febd-48df-a241-3740d4148793",
+          "id": "a6fce6e9-4edc-46c5-84ca-33fa825162e0",
           "name": "Tree编程",
-          "icon": "Assets\\favicons\\tree_ai.png",
-          "faviconUrl": "Assets\\favicons\\tree_ai.png",
+          "icon": "\uD83C\uDF33",
+          "faviconUrl": "",
           "description": "AI编程编辑，代码自动补全",
           "url": "https://tree.ai",
           "order": 1,
@@ -1838,10 +1887,10 @@
           "allowCopy": false
         },
         {
-          "id": "39925e5e-89be-4c7d-a81f-eb8364fb484f",
+          "id": "84852dde-1c31-4237-a12a-aa7e9aea459e",
           "name": "秒哉",
           "icon": "⚡",
-          "faviconUrl": null,
+          "faviconUrl": "",
           "description": "百度旗下代码AI开发平台，一句话做应用",
           "url": "https://miaozai.baidu.com",
           "order": 2,
@@ -1850,10 +1899,22 @@
           "allowCopy": false
         },
         {
-          "id": "73b52607-fbb6-474b-b140-83dae3bbec05",
+          "id": "1cf79195-c7cf-406a-9f85-99c2590b54e8",
+          "name": "豆包AI编程",
+          "icon": "\uD83E\uDD16",
+          "faviconUrl": "",
+          "description": "豆包推出的AI编程助手",
+          "url": "https://www.doubao.com/coding",
+          "order": 3,
+          "category": null,
+          "noticeText": null,
+          "allowCopy": false
+        },
+        {
+          "id": "ad4caeb7-2fa6-448d-9965-93fab252bf82",
           "name": "码上飞",
           "icon": "\uD83D\uDE80",
-          "faviconUrl": null,
+          "faviconUrl": "",
           "description": "AI编程生成小程序/app/网站等实用应用",
           "url": "https://mashangfei.com",
           "order": 4,
@@ -1862,10 +1923,10 @@
           "allowCopy": false
         },
         {
-          "id": "dc5fc26a-b2e5-4f34-9470-69d659211613",
+          "id": "56c83f17-0360-4395-a894-1daf664f3a3f",
           "name": "扣子编程",
-          "icon": "Assets\\favicons\\www_coze_cn.png",
-          "faviconUrl": "Assets\\favicons\\www_coze_cn.png",
+          "icon": "\uD83D\uDD27",
+          "faviconUrl": "",
           "description": "扣子推出的AI编程助手开发平台，助力开发",
           "url": "https://www.coze.cn/coding",
           "order": 5,
@@ -1874,10 +1935,10 @@
           "allowCopy": false
         },
         {
-          "id": "e9a1dda6-a5a6-46e4-9f6a-43abcaf91757",
+          "id": "9761e91b-6260-42ec-8774-5b4798089015",
           "name": "AI Ping",
           "icon": "\uD83C\uDFD3",
-          "faviconUrl": null,
+          "faviconUrl": "",
           "description": "一站式模型服务平台支持AI编程平台",
           "url": "https://aiping.com",
           "order": 6,
@@ -1886,10 +1947,10 @@
           "allowCopy": false
         },
         {
-          "id": "1cfbd789-7631-4e15-826e-c27d155ee36f",
+          "id": "f1840120-9c44-4c6a-9352-82113210cd72",
           "name": "腾讯元宝电脑版",
-          "icon": "Assets\\favicons\\yuanbao_tencent_com.png",
-          "faviconUrl": "Assets\\favicons\\yuanbao_tencent_com.png",
+          "icon": "\uD83D\uDC8E",
+          "faviconUrl": "",
           "description": "腾讯元宝电脑版AI助手",
           "url": "https://yuanbao.tencent.com",
           "order": 7,
@@ -1898,22 +1959,22 @@
           "allowCopy": false
         },
         {
-          "id": "a7828a97-b567-46f3-a83d-2503ad149843",
+          "id": "1598bf07-58fe-4c3e-bc8b-fece9dd5dead",
           "name": "Cursor",
-          "icon": "Assets\\favicons\\cursor_sh.png",
-          "faviconUrl": "Assets\\favicons\\cursor_sh.png",
+          "icon": "⚡",
+          "faviconUrl": "",
           "description": "强大的AI编程工具，使用AI来帮助你编程，理",
           "url": "https://cursor.sh",
           "order": 8,
-          "category": "AI编程开发",
+          "category": null,
           "noticeText": null,
           "allowCopy": false
         },
         {
-          "id": "e2ecc33c-e6c3-485a-8e63-3b5c1aa2c37c",
+          "id": "15b3c825-23aa-45c9-894f-3905704b03e7",
           "name": "Tree国内版",
           "icon": "\uD83C\uDF33",
-          "faviconUrl": null,
+          "faviconUrl": "",
           "description": "AI编程编辑，代码自动补全",
           "url": "https://tree.cn",
           "order": 9,
@@ -1922,10 +1983,10 @@
           "allowCopy": false
         },
         {
-          "id": "5e14f2a2-f882-45cc-bd7b-6f3ed463d554",
+          "id": "20a6110a-1102-4269-9712-85942d465dba",
           "name": "小完熊家族",
           "icon": "\uD83D\uDC3B",
-          "faviconUrl": null,
+          "faviconUrl": "",
           "description": "小完熊家族是基于商务大语言模型的AI助手",
           "url": "https://xiaowan.com",
           "order": 10,
@@ -1934,7 +1995,7 @@
           "allowCopy": false
         },
         {
-          "id": "b6fac2f3-cc02-4e40-8c9a-392b8fd40a82",
+          "id": "3a5e1321-10ab-426b-b142-9a235de96851",
           "name": "代码小浣熊",
           "icon": "\uD83E\uDD9D",
           "faviconUrl": "",
@@ -1946,10 +2007,10 @@
           "allowCopy": false
         },
         {
-          "id": "c8926127-609d-44a7-9bf1-d5e9da7f4666",
+          "id": "096b07a1-c284-49fe-852f-a3b1cb1df0c5",
           "name": "v0.dev",
-          "icon": "Assets\\favicons\\v0_dev.png",
-          "faviconUrl": "Assets\\favicons\\v0_dev.png",
+          "icon": "\uD83C\uDFA8",
+          "faviconUrl": "",
           "description": "Vercel推出的AI生成式UI工具，通过文字描述生",
           "url": "https://v0.dev",
           "order": 12,
@@ -1958,7 +2019,7 @@
           "allowCopy": false
         },
         {
-          "id": "890d37d0-605f-4cd6-bc2c-da509dea09c1",
+          "id": "43895b26-57b3-4c97-a6fd-cfe2e4e75382",
           "name": "Co.dev",
           "icon": "\uD83D\uDCBB",
           "faviconUrl": "",
@@ -1970,10 +2031,10 @@
           "allowCopy": false
         },
         {
-          "id": "7faf8c18-eeb8-4c82-ac1b-f2e636530c0d",
+          "id": "e8f598c7-466c-4478-869e-8baa736fd7c9",
           "name": "YouWare",
-          "icon": "Assets\\favicons\\youware_com.png",
-          "faviconUrl": "Assets\\favicons\\youware_com.png",
+          "icon": "\uD83D\uDD27",
+          "faviconUrl": "",
           "description": "社区驱动编程平台，支持一键部署看板管理",
           "url": "https://youware.com",
           "order": 14,
@@ -1982,10 +2043,10 @@
           "allowCopy": false
         },
         {
-          "id": "35d8600d-e53b-46ce-872b-64747b0e7454",
+          "id": "2bcfcdf9-6d25-4191-8f14-35708201fb8c",
           "name": "Lovable",
-          "icon": "Assets\\favicons\\lovable_dev.png",
-          "faviconUrl": "Assets\\favicons\\lovable_dev.png",
+          "icon": "❤️",
+          "faviconUrl": "",
           "description": "AI编程助理工具",
           "url": "https://lovable.dev",
           "order": 15,
@@ -1994,10 +2055,10 @@
           "allowCopy": false
         },
         {
-          "id": "f190663e-9dc8-42a2-866c-6556b9dc1f63",
+          "id": "473565fb-f39d-4d92-88c3-5ddf17de916a",
           "name": "What the Diff",
-          "icon": "Assets\\favicons\\whatthediff_ai.png",
-          "faviconUrl": "Assets\\favicons\\whatthediff_ai.png",
+          "icon": "\uD83D\uDD0D",
+          "faviconUrl": "",
           "description": "AI驱动的代码审查对比助手",
           "url": "https://whatthediff.ai",
           "order": 16,
@@ -2006,10 +2067,10 @@
           "allowCopy": false
         },
         {
-          "id": "addd780b-1d39-4312-9979-41ba4032d0fe",
+          "id": "4903e3c0-5232-491e-bb99-d65372671497",
           "name": "CodeWP",
-          "icon": "Assets\\favicons\\codewp_ai.png",
-          "faviconUrl": "Assets\\favicons\\codewp_ai.png",
+          "icon": "\uD83C\uDF10",
+          "faviconUrl": "",
           "description": "针对 WordPress 训练的AI代码生成器",
           "url": "https://codewp.ai",
           "order": 17,
@@ -2018,10 +2079,10 @@
           "allowCopy": false
         },
         {
-          "id": "1c309696-a939-4ccb-9ec9-93167594167c",
+          "id": "b9f3c9f6-d34a-4ad0-9aa5-a7244d505298",
           "name": "Figstack",
-          "icon": "Assets\\favicons\\figstack_com.png",
-          "faviconUrl": "Assets\\favicons\\figstack_com.png",
+          "icon": "\uD83D\uDCDA",
+          "faviconUrl": "",
           "description": "一个基于 Web 的AI代码辅助工具，可以帮助开发",
           "url": "https://figstack.com",
           "order": 18,
@@ -2030,10 +2091,10 @@
           "allowCopy": false
         },
         {
-          "id": "2b1568e0-6fc9-431f-892b-7589f07efff5",
+          "id": "f242686a-3af9-48da-806a-87c56e808a93",
           "name": "Bolt.new",
-          "icon": "Assets\\favicons\\bolt_new.png",
-          "faviconUrl": "Assets\\favicons\\bolt_new.png",
+          "icon": "⚡",
+          "faviconUrl": "",
           "description": "Bolt.new是一个革新的AI全栈开发工具",
           "url": "https://bolt.new",
           "order": 19,
@@ -2042,7 +2103,7 @@
           "allowCopy": false
         },
         {
-          "id": "b109653b-c6bd-4fed-b886-f927105c52a6",
+          "id": "ecfc381d-659d-4afe-a7d5-804c0e943efb",
           "name": "Devin",
           "icon": "\uD83E\uDD16",
           "faviconUrl": "",
@@ -2054,7 +2115,7 @@
           "allowCopy": false
         },
         {
-          "id": "9eaad668-f90d-4f2f-adb8-e7581f6e9aae",
+          "id": "5d36a6d1-319b-42fb-b196-dbdf3615a635",
           "name": "Replit Agent",
           "icon": "\uD83D\uDD27",
           "faviconUrl": "",
@@ -2066,7 +2127,7 @@
           "allowCopy": false
         },
         {
-          "id": "f2fbe5cc-9869-413a-8899-5d0bb2f7ffb2",
+          "id": "59509371-1452-450b-975b-6fd7239db450",
           "name": "GitHub Copilot",
           "icon": "\uD83D\uDC19",
           "faviconUrl": "",
@@ -2078,7 +2139,7 @@
           "allowCopy": false
         },
         {
-          "id": "6ad50d40-ae58-4c55-ba69-18d0043cfafc",
+          "id": "388846d3-2bd4-4c82-a46e-e028831bf2c5",
           "name": "Tabnine",
           "icon": "\uD83E\uDD16",
           "faviconUrl": "",
@@ -2090,7 +2151,7 @@
           "allowCopy": false
         },
         {
-          "id": "5a00036b-77fe-48f8-bccb-08566d84cd61",
+          "id": "15759fa1-d875-42a7-8158-735c246b7a6c",
           "name": "Meituan CatPaw",
           "icon": "\uD83D\uDC3E",
           "faviconUrl": "",
@@ -2102,7 +2163,7 @@
           "allowCopy": false
         },
         {
-          "id": "8daf7e55-efaf-4f2a-bf13-b57a3162f21b",
+          "id": "5c400fc2-d786-4225-9955-3d288c5223c1",
           "name": "千帆AppBuilder",
           "icon": "\uD83D\uDE80",
           "faviconUrl": "",
@@ -2114,7 +2175,7 @@
           "allowCopy": false
         },
         {
-          "id": "5185663f-bc21-4dc1-a8e5-9d396e5783b2",
+          "id": "cd518779-885a-47cd-95a0-df4e06d45a56",
           "name": "Windsurf",
           "icon": "\uD83C\uDFC4",
           "faviconUrl": "",
@@ -2126,7 +2187,7 @@
           "allowCopy": false
         },
         {
-          "id": "c39f88ec-176b-4960-87c9-83eea984b2ec",
+          "id": "53a08ee5-a46d-476b-b0fd-86e30976566c",
           "name": "MeDo",
           "icon": "☁️",
           "faviconUrl": "",
@@ -2138,7 +2199,7 @@
           "allowCopy": false
         },
         {
-          "id": "4f87fa83-10d8-4650-9b17-1093bbde5be8",
+          "id": "e3d00c13-4b63-4736-86ff-fa777d906970",
           "name": "MGX",
           "icon": "\uD83D\uDD27",
           "faviconUrl": "",
@@ -2150,7 +2211,7 @@
           "allowCopy": false
         },
         {
-          "id": "fd2c7f15-808c-4488-b604-26fafcee333f",
+          "id": "6943af2b-0612-4820-97ec-cb8fd34cfcae",
           "name": "通义灵码",
           "icon": "\uD83D\uDCAD",
           "faviconUrl": "",
@@ -2162,7 +2223,7 @@
           "allowCopy": false
         },
         {
-          "id": "8eb911aa-5fe7-4373-ade1-0b5b135c0fb2",
+          "id": "f4cce73b-ac0a-44ad-a806-062182d9580c",
           "name": "通义灵码家族",
           "icon": "\uD83D\uDCAD",
           "faviconUrl": "",
@@ -2181,45 +2242,7 @@
       "name": "短信接码",
       "icon": "\uD83D\uDCF1",
       "order": 8,
-      "featured": [
-        {
-          "id": "96e049a0-faa3-4eda-8b45-6967687c7d28",
-          "name": "SMS-Activate",
-          "icon": "Assets\\favicons\\sms-activate_org.png",
-          "faviconUrl": "Assets\\favicons\\sms-activate_org.png",
-          "description": "全球接码",
-          "url": "https://sms-activate.org",
-          "order": 1,
-          "category": null,
-          "noticeText": null,
-          "allowCopy": false
-        },
-        {
-          "id": "5a15c824-07c4-4047-bc06-ffd179c15090",
-          "name": "5SIM",
-          "icon": "Assets\\favicons\\5sim_net.png",
-          "faviconUrl": "Assets\\favicons\\5sim_net.png",
-          "description": "便宜接码",
-          "url": "https://5sim.net",
-          "order": 2,
-          "category": null,
-          "noticeText": null,
-          "allowCopy": false
-        },
-        {
-          "id": "11acaedc-5c88-4355-90cc-d89ee701f0b2",
-          "name": "SMS-Man",
-          "icon": "Assets\\favicons\\sms-man_com.png",
-          "faviconUrl": "Assets\\favicons\\sms-man_com.png",
-          "description": "稳定接码",
-          "url": "https://sms-man.com",
-          "order": 4,
-          "category": null,
-          "noticeText": null,
-          "allowCopy": false
-        }
-      ],
-      "others": [],
+      "websites": [],
       "hotReferences": []
     },
     {
@@ -2227,57 +2250,7 @@
       "name": "代理IP",
       "icon": "\uD83C\uDF10",
       "order": 9,
-      "featured": [
-        {
-          "id": "dc48131a-53ea-4f6f-9e8b-b075f787b5ff",
-          "name": "Bright Data",
-          "icon": "Assets\\favicons\\brightdata_com.png",
-          "faviconUrl": "Assets\\favicons\\brightdata_com.png",
-          "description": "企业级代理",
-          "url": "https://brightdata.com",
-          "order": 1,
-          "category": null,
-          "noticeText": null,
-          "allowCopy": false
-        },
-        {
-          "id": "944a4315-de90-4470-8b11-083ef57c5d56",
-          "name": "Smartproxy",
-          "icon": "Assets\\favicons\\smartproxy_com.png",
-          "faviconUrl": "Assets\\favicons\\smartproxy_com.png",
-          "description": "住宅代理",
-          "url": "https://smartproxy.com",
-          "order": 2,
-          "category": null,
-          "noticeText": null,
-          "allowCopy": false
-        },
-        {
-          "id": "3560771b-6b31-4ea4-8466-186e559832a9",
-          "name": "Oxylabs",
-          "icon": "Assets\\favicons\\oxylabs_io.png",
-          "faviconUrl": "Assets\\favicons\\oxylabs_io.png",
-          "description": "数据采集",
-          "url": "https://oxylabs.io",
-          "order": 3,
-          "category": null,
-          "noticeText": null,
-          "allowCopy": false
-        },
-        {
-          "id": "f3c7f06e-bc0b-463b-ad64-a0b6e46e1bdc",
-          "name": "IPRoyal",
-          "icon": "Assets\\favicons\\iproyal_com.png",
-          "faviconUrl": "Assets\\favicons\\iproyal_com.png",
-          "description": "性价比高",
-          "url": "https://iproyal.com",
-          "order": 4,
-          "category": null,
-          "noticeText": null,
-          "allowCopy": false
-        }
-      ],
-      "others": [],
+      "websites": [],
       "hotReferences": []
     }
   ]
