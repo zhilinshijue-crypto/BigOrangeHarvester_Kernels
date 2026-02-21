@@ -34,25 +34,13 @@
           "allowCopy": false
         },
         {
-          "id": "jimeng",
-          "name": "即梦AI",
-          "icon": "\uD83C\uDF10",
-          "faviconUrl": "https://jimeng.jianying.com/favicon.ico",
-          "description": "一站式AI创作平台，免费AI图片和视频生成",
-          "url": "https://jimeng.jianying.com",
-          "order": 2,
-          "category": "AI视频创作",
-          "noticeText": null,
-          "allowCopy": false
-        },
-        {
           "id": "fengdie",
           "name": "百度1",
           "icon": "\uD83C\uDF10",
           "faviconUrl": "https://www.baidu.com/favicon.ico",
           "description": "AI数字人视频创作平台，100+精品数字人形象",
           "url": "https://www.baidu.com",
-          "order": 3,
+          "order": 2,
           "category": "AI视频创作",
           "noticeText": null,
           "allowCopy": false
@@ -64,7 +52,7 @@
           "faviconUrl": "",
           "description": "Lightricks推出的生成式AI视频创作平台，可以从",
           "url": "https://ltx.studio",
-          "order": 4,
+          "order": 3,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -76,7 +64,7 @@
           "faviconUrl": "",
           "description": "Stability AI 发布的开源视频模型，用于字幕生成",
           "url": "https://www.stablevideo.com",
-          "order": 5,
+          "order": 4,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -88,8 +76,20 @@
           "faviconUrl": "",
           "description": "海螺AI推出的AI视频生成工具，可以生成高质量",
           "url": "https://hailuo.ai",
-          "order": 6,
+          "order": 5,
           "category": null,
+          "noticeText": null,
+          "allowCopy": false
+        },
+        {
+          "id": "jimeng",
+          "name": "即梦AI",
+          "icon": "\uD83C\uDF10",
+          "faviconUrl": "https://jimeng.jianying.com/favicon.ico",
+          "description": "一站式AI创作平台，免费AI图片和视频生成",
+          "url": "https://jimeng.jianying.com",
+          "order": 6,
+          "category": "AI视频创作",
           "noticeText": null,
           "allowCopy": false
         },
