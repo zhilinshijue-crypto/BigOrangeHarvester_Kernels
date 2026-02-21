@@ -22,13 +22,13 @@
       "order": 2,
       "websites": [
         {
-          "id": "liblib",
-          "name": "LibLibAI",
+          "id": "jimeng",
+          "name": "即梦AI",
           "icon": "\uD83C\uDF10",
-          "faviconUrl": "https://www.liblib.art/favicon.ico",
-          "description": "国内领先的AI视频平台，以图生视频，视频编辑",
-          "url": "https://www.liblib.art",
-          "order": 2,
+          "faviconUrl": "https://jimeng.jianying.com/favicon.ico",
+          "description": "一站式AI创作平台，免费AI图片和视频生成",
+          "url": "https://jimeng.jianying.com",
+          "order": 1,
           "category": "AI视频创作",
           "noticeText": null,
           "allowCopy": false
@@ -46,18 +46,6 @@
           "allowCopy": false
         },
         {
-          "id": "jimeng",
-          "name": "即梦AI",
-          "icon": "\uD83C\uDF10",
-          "faviconUrl": "https://jimeng.jianying.com/favicon.ico",
-          "description": "一站式AI创作平台，免费AI图片和视频生成",
-          "url": "https://jimeng.jianying.com",
-          "order": 1,
-          "category": "AI视频创作",
-          "noticeText": null,
-          "allowCopy": false
-        },
-        {
           "id": "fengdie",
           "name": "百度1",
           "icon": "\uD83C\uDF10",
@@ -65,6 +53,18 @@
           "description": "AI数字人视频创作平台，100+精品数字人形象",
           "url": "https://www.baidu.com",
           "order": 4,
+          "category": "AI视频创作",
+          "noticeText": null,
+          "allowCopy": false
+        },
+        {
+          "id": "liblib",
+          "name": "LibLibAI",
+          "icon": "\uD83C\uDF10",
+          "faviconUrl": "https://www.liblib.art/favicon.ico",
+          "description": "国内领先的AI视频平台，以图生视频，视频编辑",
+          "url": "https://www.liblib.art",
+          "order": 2,
           "category": "AI视频创作",
           "noticeText": null,
           "allowCopy": false
