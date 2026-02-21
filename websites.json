@@ -34,6 +34,30 @@
           "allowCopy": false
         },
         {
+          "id": "fengdie",
+          "name": "百度1",
+          "icon": "\uD83C\uDF10",
+          "faviconUrl": "https://www.baidu.com/favicon.ico",
+          "description": "AI数字人视频创作平台，100+精品数字人形象",
+          "url": "https://www.baidu.com",
+          "order": 4,
+          "category": "AI视频创作",
+          "noticeText": null,
+          "allowCopy": false
+        },
+        {
+          "id": "b3b56e63-03f0-4ff4-b44f-5594f2ec8c49",
+          "name": "LTX Studio",
+          "icon": "\uD83C\uDFAC",
+          "faviconUrl": "",
+          "description": "Lightricks推出的生成式AI视频创作平台，可以从",
+          "url": "https://ltx.studio",
+          "order": 12,
+          "category": null,
+          "noticeText": null,
+          "allowCopy": false
+        },
+        {
           "id": "4225af68-c672-49ba-a005-c36e2bc9eb11",
           "name": "Stable Video",
           "icon": "\uD83C\uDFA5",
@@ -90,30 +114,6 @@
           "url": "https://bairimeng.ai",
           "order": 11,
           "category": null,
-          "noticeText": null,
-          "allowCopy": false
-        },
-        {
-          "id": "b3b56e63-03f0-4ff4-b44f-5594f2ec8c49",
-          "name": "LTX Studio",
-          "icon": "\uD83C\uDFAC",
-          "faviconUrl": "",
-          "description": "Lightricks推出的生成式AI视频创作平台，可以从",
-          "url": "https://ltx.studio",
-          "order": 12,
-          "category": null,
-          "noticeText": null,
-          "allowCopy": false
-        },
-        {
-          "id": "fengdie",
-          "name": "百度1",
-          "icon": "\uD83C\uDF10",
-          "faviconUrl": "https://www.baidu.com/favicon.ico",
-          "description": "AI数字人视频创作平台，100+精品数字人形象",
-          "url": "https://www.baidu.com",
-          "order": 4,
-          "category": "AI视频创作",
           "noticeText": null,
           "allowCopy": false
         },
