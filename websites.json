@@ -22,25 +22,13 @@
       "order": 2,
       "websites": [
         {
-          "id": "49f066bb-ad45-4e7e-94fb-5c41ffb85747",
-          "name": "白日梦AI",
-          "icon": "☁️",
-          "faviconUrl": "",
-          "description": "白日梦AI是一款全新的文生视频类AIGC创作平台",
-          "url": "https://bairimeng.ai",
-          "order": 1,
-          "category": null,
-          "noticeText": null,
-          "allowCopy": false
-        },
-        {
           "id": "860eafba-6a9a-4501-8fd1-c415c3307cda",
           "name": "海螺视频",
           "icon": "\uD83D\uDC1A",
           "faviconUrl": "",
           "description": "海螺AI推出的AI视频生成工具，可以生成高质量",
           "url": "https://hailuo.ai",
-          "order": 2,
+          "order": 1,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -52,8 +40,20 @@
           "faviconUrl": "https://www.baidu.com/favicon.ico",
           "description": "AI数字人视频创作平台，100+精品数字人形象",
           "url": "https://www.baidu.com",
-          "order": 3,
+          "order": 2,
           "category": "AI视频创作",
+          "noticeText": null,
+          "allowCopy": false
+        },
+        {
+          "id": "49f066bb-ad45-4e7e-94fb-5c41ffb85747",
+          "name": "白日梦AI",
+          "icon": "☁️",
+          "faviconUrl": "",
+          "description": "白日梦AI是一款全新的文生视频类AIGC创作平台",
+          "url": "https://bairimeng.ai",
+          "order": 3,
+          "category": null,
           "noticeText": null,
           "allowCopy": false
         },
@@ -82,24 +82,24 @@
           "allowCopy": false
         },
         {
-          "id": "tuiyou",
-          "name": "堆友",
-          "icon": "\uD83C\uDF99️",
-          "faviconUrl": null,
-          "description": "AI设计生产力工具，零门槛AI绘图+多模态创作",
-          "url": "https://d.design/?sharecode=xuRkTC5DDH",
-          "order": 6,
-          "category": "AI视频创作",
-          "noticeText": null,
-          "allowCopy": false
-        },
-        {
           "id": "jimeng",
           "name": "即梦AI",
           "icon": "\uD83C\uDF10",
           "faviconUrl": "https://jimeng.jianying.com/favicon.ico",
           "description": "一站式AI创作平台，免费AI图片和视频生成",
           "url": "https://jimeng.jianying.com",
+          "order": 6,
+          "category": "AI视频创作",
+          "noticeText": null,
+          "allowCopy": false
+        },
+        {
+          "id": "tuiyou",
+          "name": "堆友",
+          "icon": "\uD83C\uDF99️",
+          "faviconUrl": null,
+          "description": "AI设计生产力工具，零门槛AI绘图+多模态创作",
+          "url": "https://d.design/?sharecode=xuRkTC5DDH",
           "order": 7,
           "category": "AI视频创作",
           "noticeText": null,
