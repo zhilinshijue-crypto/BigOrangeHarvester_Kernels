@@ -22,24 +22,24 @@
       "order": 2,
       "websites": [
         {
-          "id": "860eafba-6a9a-4501-8fd1-c415c3307cda",
-          "name": "海螺视频",
-          "icon": "\uD83D\uDC1A",
-          "faviconUrl": "",
-          "description": "海螺AI推出的AI视频生成工具，可以生成高质量",
-          "url": "https://hailuo.ai",
-          "order": 1,
-          "category": null,
-          "noticeText": null,
-          "allowCopy": false
-        },
-        {
           "id": "49f066bb-ad45-4e7e-94fb-5c41ffb85747",
           "name": "白日梦AI",
           "icon": "☁️",
           "faviconUrl": "",
           "description": "白日梦AI是一款全新的文生视频类AIGC创作平台",
           "url": "https://bairimeng.ai",
+          "order": 1,
+          "category": null,
+          "noticeText": null,
+          "allowCopy": false
+        },
+        {
+          "id": "860eafba-6a9a-4501-8fd1-c415c3307cda",
+          "name": "海螺视频",
+          "icon": "\uD83D\uDC1A",
+          "faviconUrl": "",
+          "description": "海螺AI推出的AI视频生成工具，可以生成高质量",
+          "url": "https://hailuo.ai",
           "order": 2,
           "category": null,
           "noticeText": null,
