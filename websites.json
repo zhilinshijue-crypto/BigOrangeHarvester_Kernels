@@ -34,18 +34,6 @@
           "allowCopy": false
         },
         {
-          "id": "tuiyou",
-          "name": "堆友",
-          "icon": "\uD83C\uDF99️",
-          "faviconUrl": null,
-          "description": "AI设计生产力工具，零门槛AI绘图+多模态创作",
-          "url": "https://d.design/?sharecode=xuRkTC5DDH",
-          "order": 3,
-          "category": "AI视频创作",
-          "noticeText": null,
-          "allowCopy": false
-        },
-        {
           "id": "jimeng",
           "name": "即梦AI",
           "icon": "\uD83C\uDF10",
@@ -65,6 +53,18 @@
           "description": "国内领先的AI视频平台，以图生视频，视频编辑",
           "url": "https://www.liblib.art",
           "order": 2,
+          "category": "AI视频创作",
+          "noticeText": null,
+          "allowCopy": false
+        },
+        {
+          "id": "tuiyou",
+          "name": "堆友",
+          "icon": "\uD83C\uDF99️",
+          "faviconUrl": null,
+          "description": "AI设计生产力工具，零门槛AI绘图+多模态创作",
+          "url": "https://d.design/?sharecode=xuRkTC5DDH",
+          "order": 3,
           "category": "AI视频创作",
           "noticeText": null,
           "allowCopy": false
