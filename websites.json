@@ -22,13 +22,13 @@
       "order": 2,
       "websites": [
         {
-          "id": "jimeng",
-          "name": "即梦AI",
+          "id": "fengdie",
+          "name": "百度1",
           "icon": "\uD83C\uDF10",
-          "faviconUrl": "https://jimeng.jianying.com/favicon.ico",
-          "description": "一站式AI创作平台，免费AI图片和视频生成",
-          "url": "https://jimeng.jianying.com",
-          "order": 1,
+          "faviconUrl": "https://www.baidu.com/favicon.ico",
+          "description": "AI数字人视频创作平台，100+精品数字人形象",
+          "url": "https://www.baidu.com",
+          "order": 4,
           "category": "AI视频创作",
           "noticeText": null,
           "allowCopy": false
@@ -46,13 +46,13 @@
           "allowCopy": false
         },
         {
-          "id": "fengdie",
-          "name": "百度1",
+          "id": "jimeng",
+          "name": "即梦AI",
           "icon": "\uD83C\uDF10",
-          "faviconUrl": "https://www.baidu.com/favicon.ico",
-          "description": "AI数字人视频创作平台，100+精品数字人形象",
-          "url": "https://www.baidu.com",
-          "order": 4,
+          "faviconUrl": "https://jimeng.jianying.com/favicon.ico",
+          "description": "一站式AI创作平台，免费AI图片和视频生成",
+          "url": "https://jimeng.jianying.com",
+          "order": 1,
           "category": "AI视频创作",
           "noticeText": null,
           "allowCopy": false
