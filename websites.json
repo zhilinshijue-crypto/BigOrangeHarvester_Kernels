@@ -46,24 +46,24 @@
           "allowCopy": false
         },
         {
-          "id": "860eafba-6a9a-4501-8fd1-c415c3307cda",
-          "name": "海螺视频",
-          "icon": "\uD83D\uDC1A",
-          "faviconUrl": "",
-          "description": "海螺AI推出的AI视频生成工具，可以生成高质量",
-          "url": "https://hailuo.ai",
-          "order": 3,
-          "category": null,
-          "noticeText": null,
-          "allowCopy": false
-        },
-        {
           "id": "b3b56e63-03f0-4ff4-b44f-5594f2ec8c49",
           "name": "LTX Studio",
           "icon": "\uD83C\uDFAC",
           "faviconUrl": "",
           "description": "Lightricks推出的生成式AI视频创作平台，可以从",
           "url": "https://ltx.studio",
+          "order": 3,
+          "category": null,
+          "noticeText": null,
+          "allowCopy": false
+        },
+        {
+          "id": "860eafba-6a9a-4501-8fd1-c415c3307cda",
+          "name": "海螺视频",
+          "icon": "\uD83D\uDC1A",
+          "faviconUrl": "",
+          "description": "海螺AI推出的AI视频生成工具，可以生成高质量",
+          "url": "https://hailuo.ai",
           "order": 4,
           "category": null,
           "noticeText": null,
