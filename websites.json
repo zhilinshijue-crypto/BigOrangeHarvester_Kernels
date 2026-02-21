@@ -9,10 +9,7 @@
       "order": 1,
       "websites": [],
       "hotReferences": [
-        "liblib",
-        "jimeng",
-        "tuiyou",
-        "fengdie"
+        "tuiyou"
       ]
     },
     {
@@ -21,18 +18,6 @@
       "icon": "\uD83C\uDFAC",
       "order": 2,
       "websites": [
-        {
-          "id": "49f066bb-ad45-4e7e-94fb-5c41ffb85747",
-          "name": "白日梦AI",
-          "icon": "☁️",
-          "faviconUrl": "",
-          "description": "白日梦AI是一款全新的文生视频类AIGC创作平台",
-          "url": "https://bairimeng.ai",
-          "order": 1,
-          "category": null,
-          "noticeText": null,
-          "allowCopy": false
-        },
         {
           "id": "liblib",
           "name": "LibLibAI",
@@ -46,26 +31,14 @@
           "allowCopy": false
         },
         {
-          "id": "jimeng",
-          "name": "即梦AI",
-          "icon": "\uD83C\uDF10",
-          "faviconUrl": "https://jimeng.jianying.com/favicon.ico",
-          "description": "一站式AI创作平台，免费AI图片和视频生成",
-          "url": "https://jimeng.jianying.com",
-          "order": 3,
-          "category": "AI视频创作",
-          "noticeText": null,
-          "allowCopy": false
-        },
-        {
-          "id": "fengdie",
-          "name": "百度1",
-          "icon": "\uD83C\uDF10",
-          "faviconUrl": "https://www.baidu.com/favicon.ico",
-          "description": "AI数字人视频创作平台，100+精品数字人形象",
-          "url": "https://www.baidu.com",
-          "order": 4,
-          "category": "AI视频创作",
+          "id": "49f066bb-ad45-4e7e-94fb-5c41ffb85747",
+          "name": "白日梦AI",
+          "icon": "☁️",
+          "faviconUrl": "",
+          "description": "白日梦AI是一款全新的文生视频类AIGC创作平台",
+          "url": "https://bairimeng.ai",
+          "order": 1,
+          "category": null,
           "noticeText": null,
           "allowCopy": false
         },
@@ -114,18 +87,6 @@
           "url": "https://d.design/?sharecode=xuRkTC5DDH",
           "order": 8,
           "category": "AI视频创作",
-          "noticeText": null,
-          "allowCopy": false
-        },
-        {
-          "id": "743b97cb-4577-4991-a409-0e2acf014459",
-          "name": "Runway",
-          "icon": "\uD83C\uDF9E️",
-          "faviconUrl": "",
-          "description": "Runway是一个AI创意生成平台，支持AI视频生成",
-          "url": "https://runwayml.com",
-          "order": 9,
-          "category": null,
           "noticeText": null,
           "allowCopy": false
         },
