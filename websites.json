@@ -70,26 +70,26 @@
           "allowCopy": false
         },
         {
-          "id": "jimeng",
-          "name": "即梦AI",
-          "icon": "\uD83C\uDF10",
-          "faviconUrl": "https://jimeng.jianying.com/favicon.ico",
-          "description": "一站式AI创作平台，免费AI图片和视频生成",
-          "url": "https://jimeng.jianying.com",
-          "order": 5,
-          "category": "AI视频创作",
-          "noticeText": null,
-          "allowCopy": false
-        },
-        {
           "id": "4225af68-c672-49ba-a005-c36e2bc9eb11",
           "name": "Stable Video",
           "icon": "\uD83C\uDFA5",
           "faviconUrl": "",
           "description": "Stability AI 发布的开源视频模型，用于字幕生成",
           "url": "https://www.stablevideo.com",
-          "order": 6,
+          "order": 5,
           "category": null,
+          "noticeText": null,
+          "allowCopy": false
+        },
+        {
+          "id": "jimeng",
+          "name": "即梦AI",
+          "icon": "\uD83C\uDF10",
+          "faviconUrl": "https://jimeng.jianying.com/favicon.ico",
+          "description": "一站式AI创作平台，免费AI图片和视频生成",
+          "url": "https://jimeng.jianying.com",
+          "order": 6,
+          "category": "AI视频创作",
           "noticeText": null,
           "allowCopy": false
         },
