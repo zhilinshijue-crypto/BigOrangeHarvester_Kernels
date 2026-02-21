@@ -22,26 +22,26 @@
       "order": 2,
       "websites": [
         {
-          "id": "fengdie",
-          "name": "百度1",
-          "icon": "\uD83C\uDF10",
-          "faviconUrl": "https://www.baidu.com/favicon.ico",
-          "description": "AI数字人视频创作平台，100+精品数字人形象",
-          "url": "https://www.baidu.com",
-          "order": 1,
-          "category": "AI视频创作",
-          "noticeText": null,
-          "allowCopy": false
-        },
-        {
           "id": "49f066bb-ad45-4e7e-94fb-5c41ffb85747",
           "name": "白日梦AI",
           "icon": "☁️",
           "faviconUrl": "",
           "description": "白日梦AI是一款全新的文生视频类AIGC创作平台",
           "url": "https://bairimeng.ai",
-          "order": 2,
+          "order": 1,
           "category": null,
+          "noticeText": null,
+          "allowCopy": false
+        },
+        {
+          "id": "fengdie",
+          "name": "百度1",
+          "icon": "\uD83C\uDF10",
+          "faviconUrl": "https://www.baidu.com/favicon.ico",
+          "description": "AI数字人视频创作平台，100+精品数字人形象",
+          "url": "https://www.baidu.com",
+          "order": 2,
+          "category": "AI视频创作",
           "noticeText": null,
           "allowCopy": false
         },
