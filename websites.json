@@ -70,54 +70,6 @@
           "allowCopy": false
         },
         {
-          "id": "5ee0deeb-1af8-4315-a6b4-a0bac7f15c38",
-          "name": "魔珠星云",
-          "icon": "\uD83C\uDFA5",
-          "faviconUrl": "",
-          "description": "无需高端GPU，一键解锁磁盘实况/二次元多风格",
-          "url": "https://www.mozhu.ai",
-          "order": 5,
-          "category": null,
-          "noticeText": null,
-          "allowCopy": false
-        },
-        {
-          "id": "dc6bbfe6-2432-4f27-a89c-854303115b71",
-          "name": "万彩AI",
-          "icon": "\uD83C\uDFA8",
-          "faviconUrl": "",
-          "description": "多功能AI创作平台，支持AI写作、AI绘画",
-          "url": "https://www.wancai.com",
-          "order": 6,
-          "category": null,
-          "noticeText": null,
-          "allowCopy": false
-        },
-        {
-          "id": "f92ecbc8-baeb-4781-9e76-b69e2a02e6ca",
-          "name": "有言",
-          "icon": "\uD83D\uDCAC",
-          "faviconUrl": "",
-          "description": "有言是一个一站式AI视频创作平台的数字人生成",
-          "url": "https://www.youyan.ai",
-          "order": 7,
-          "category": null,
-          "noticeText": null,
-          "allowCopy": false
-        },
-        {
-          "id": "ebdcd428-f51e-4532-9d5a-51cd19b2c3d3",
-          "name": "讯飞智绘",
-          "icon": "\uD83C\uDFAC",
-          "faviconUrl": "",
-          "description": "讯飞智绘：AI视频创作平台，支持AI动画、MV",
-          "url": "https://zhihui.iflytek.com",
-          "order": 8,
-          "category": null,
-          "noticeText": null,
-          "allowCopy": false
-        },
-        {
           "id": "860eafba-6a9a-4501-8fd1-c415c3307cda",
           "name": "海螺视频",
           "icon": "\uD83D\uDC1A",
@@ -125,18 +77,6 @@
           "description": "海螺AI推出的AI视频生成工具，可以生成高质量",
           "url": "https://hailuo.ai",
           "order": 9,
-          "category": null,
-          "noticeText": null,
-          "allowCopy": false
-        },
-        {
-          "id": "c071dc85-c8ab-4ca1-bb0c-ca1282c60067",
-          "name": "可灵AI",
-          "icon": "✨",
-          "faviconUrl": "",
-          "description": "可灵AI：新一代AI创意生产力平台",
-          "url": "https://klingai.com",
-          "order": 10,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -245,18 +185,6 @@
           "description": "Google 最新发布的 AI 视频生成模型",
           "url": "https://deepmind.google/veo",
           "order": 19,
-          "category": null,
-          "noticeText": null,
-          "allowCopy": false
-        },
-        {
-          "id": "30a4ead8-bab7-478f-8cfd-d14b300475d0",
-          "name": "绘蛙-多图成片",
-          "icon": "\uD83D\uDC38",
-          "faviconUrl": "",
-          "description": "绘蛙推出的AI视频生成工具",
-          "url": "https://www.huiwa.com",
-          "order": 20,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -506,18 +434,6 @@
           "description": "Seed-TTS是一个高质量直接多功能的文本转语音生",
           "url": "https://seed-tts.com",
           "order": 10,
-          "category": null,
-          "noticeText": null,
-          "allowCopy": false
-        },
-        {
-          "id": "6bcf2a97-e4fb-42e6-b082-e7fe2e981357",
-          "name": "讯飞听见",
-          "icon": "\uD83D\uDC42",
-          "faviconUrl": "",
-          "description": "海螺AI推出的AI音频生成工具，支持多种特性",
-          "url": "https://tingjian.iflytek.com",
-          "order": 11,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -815,18 +731,6 @@
           "description": "超级AI智能写作助手",
           "url": "https://wawa.ai",
           "order": 5,
-          "category": null,
-          "noticeText": null,
-          "allowCopy": false
-        },
-        {
-          "id": "eeae05cb-3e97-4f40-8cf6-cd78af7174e5",
-          "name": "讯飞绘文",
-          "icon": "✍️",
-          "faviconUrl": "",
-          "description": "讯飞绘文",
-          "url": "https://huiwen.iflytek.com",
-          "order": 6,
           "category": null,
           "noticeText": null,
           "allowCopy": false
