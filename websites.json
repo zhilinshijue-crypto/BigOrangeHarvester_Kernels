@@ -82,24 +82,24 @@
           "allowCopy": false
         },
         {
-          "id": "jimeng",
-          "name": "即梦AI",
-          "icon": "\uD83C\uDF10",
-          "faviconUrl": "https://jimeng.jianying.com/favicon.ico",
-          "description": "一站式AI创作平台，免费AI图片和视频生成",
-          "url": "https://jimeng.jianying.com",
-          "order": 6,
-          "category": "AI视频创作",
-          "noticeText": null,
-          "allowCopy": false
-        },
-        {
           "id": "tuiyou",
           "name": "堆友",
           "icon": "\uD83C\uDF99️",
           "faviconUrl": null,
           "description": "AI设计生产力工具，零门槛AI绘图+多模态创作",
           "url": "https://d.design/?sharecode=xuRkTC5DDH",
+          "order": 6,
+          "category": "AI视频创作",
+          "noticeText": null,
+          "allowCopy": false
+        },
+        {
+          "id": "jimeng",
+          "name": "即梦AI",
+          "icon": "\uD83C\uDF10",
+          "faviconUrl": "https://jimeng.jianying.com/favicon.ico",
+          "description": "一站式AI创作平台，免费AI图片和视频生成",
+          "url": "https://jimeng.jianying.com",
           "order": 7,
           "category": "AI视频创作",
           "noticeText": null,
@@ -319,25 +319,13 @@
       "order": 3,
       "websites": [
         {
-          "id": "b78621ba-d2f1-477b-b690-e330b7698173",
-          "name": "讯飞智作",
-          "icon": "\uD83C\uDF99️",
-          "faviconUrl": "",
-          "description": "科大讯飞旗下AI音视频创作平台",
-          "url": "https://zhizuo.iflytek.com",
-          "order": 1,
-          "category": null,
-          "noticeText": null,
-          "allowCopy": false
-        },
-        {
           "id": "9b7e6c89-165a-4c6e-b389-e2c322fd0877",
           "name": "魔珠星云",
           "icon": "☁️",
           "faviconUrl": "",
           "description": "无需高端GPU，一键解锁磁盘实况/二次元多风格",
           "url": "https://www.mozhu.ai",
-          "order": 2,
+          "order": 1,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -349,6 +337,18 @@
           "faviconUrl": "",
           "description": "专为播客和音频设计的AI配音编辑",
           "url": "https://soundview.ai",
+          "order": 2,
+          "category": null,
+          "noticeText": null,
+          "allowCopy": false
+        },
+        {
+          "id": "b78621ba-d2f1-477b-b690-e330b7698173",
+          "name": "讯飞智作",
+          "icon": "\uD83C\uDF99️",
+          "faviconUrl": "",
+          "description": "科大讯飞旗下AI音视频创作平台",
+          "url": "https://zhizuo.iflytek.com",
           "order": 3,
           "category": null,
           "noticeText": null,
@@ -445,7 +445,7 @@
           "faviconUrl": "",
           "description": "AI音视频录文字翻译工具",
           "url": "https://memo.ai",
-          "order": 12,
+          "order": 11,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -457,7 +457,7 @@
           "faviconUrl": "",
           "description": "专业级的AI音频制作工具",
           "url": "https://zeemo.ai",
-          "order": 13,
+          "order": 12,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -469,7 +469,7 @@
           "faviconUrl": "",
           "description": "一强大的多语言AI音频合成应用视频平台",
           "url": "https://viitor.ai",
-          "order": 14,
+          "order": 13,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -481,7 +481,7 @@
           "faviconUrl": "",
           "description": "轻松将视频转换为AI画面完美匹配的高质量音频",
           "url": "https://finevoice.ai/audio",
-          "order": 15,
+          "order": 14,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -493,7 +493,7 @@
           "faviconUrl": "",
           "description": "为所有人提供的音频AI",
           "url": "https://fish.audio",
-          "order": 16,
+          "order": 15,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -505,7 +505,7 @@
           "faviconUrl": "",
           "description": "免费在线语音克隆，1分钟即可克隆你的声音",
           "url": "https://finevoice.ai/clone",
-          "order": 17,
+          "order": 16,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -517,7 +517,7 @@
           "faviconUrl": "",
           "description": "用文贝壳一款AI数字音频笔记，随时随地",
           "url": "https://neirongbeike.com",
-          "order": 18,
+          "order": 17,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -529,7 +529,7 @@
           "faviconUrl": "",
           "description": "万兴天幕AI是一款AI视频生成工具，支持语音克隆",
           "url": "https://tianmu.wondershare.com",
-          "order": 19,
+          "order": 18,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -541,7 +541,7 @@
           "faviconUrl": "",
           "description": "多语言免费AI配音工具",
           "url": "https://dubbing.com",
-          "order": 20,
+          "order": 19,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -553,7 +553,7 @@
           "faviconUrl": "",
           "description": "音跃AI音频下的一站式AI音频创作平台，强大",
           "url": "https://yinyue.ai",
-          "order": 21,
+          "order": 20,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -565,7 +565,7 @@
           "faviconUrl": "",
           "description": "对话式 AI API，用于设计游戏和虚拟世界的",
           "url": "https://convai.com",
-          "order": 22,
+          "order": 21,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -577,7 +577,7 @@
           "faviconUrl": "",
           "description": "视频内的声音，敲键Ctrl+C, Ctrl+V一样",
           "url": "https://voicy.ai",
-          "order": 23,
+          "order": 22,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -589,7 +589,7 @@
           "faviconUrl": "",
           "description": "播客showNote生成器|为播客创作而生的",
           "url": "https://yinji.ai",
-          "order": 24,
+          "order": 23,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -601,7 +601,7 @@
           "faviconUrl": "",
           "description": "国产剪辑软件AI API，用于设计游戏和虚拟世界",
           "url": "https://miao.wondershare.com",
-          "order": 25,
+          "order": 24,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -613,7 +613,7 @@
           "faviconUrl": "",
           "description": "音记AI配音转文字，声波流式转录",
           "url": "https://yinji.ai",
-          "order": 26,
+          "order": 25,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -625,7 +625,7 @@
           "faviconUrl": "",
           "description": "简单新闻AI音频生成文字工具",
           "url": "https://jiandan.news",
-          "order": 27,
+          "order": 26,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -637,7 +637,7 @@
           "faviconUrl": "",
           "description": "超拟真音频合成与音频克隆平台",
           "url": "https://reecho.ai",
-          "order": 28,
+          "order": 27,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -649,7 +649,7 @@
           "faviconUrl": "",
           "description": "百度推出的AI音频生成文字工具",
           "url": "https://qianji.baidu.com",
-          "order": 29,
+          "order": 28,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -661,7 +661,7 @@
           "faviconUrl": "",
           "description": "国产剪辑软件AI音频编辑功能",
           "url": "https://filmora.wondershare.com",
-          "order": 30,
+          "order": 29,
           "category": null,
           "noticeText": null,
           "allowCopy": false
