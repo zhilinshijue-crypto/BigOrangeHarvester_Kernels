@@ -34,6 +34,18 @@
           "allowCopy": false
         },
         {
+          "id": "860eafba-6a9a-4501-8fd1-c415c3307cda",
+          "name": "海螺视频",
+          "icon": "\uD83D\uDC1A",
+          "faviconUrl": "",
+          "description": "海螺AI推出的AI视频生成工具，可以生成高质量",
+          "url": "https://hailuo.ai",
+          "order": 9,
+          "category": null,
+          "noticeText": null,
+          "allowCopy": false
+        },
+        {
           "id": "49f066bb-ad45-4e7e-94fb-5c41ffb85747",
           "name": "白日梦AI",
           "icon": "☁️",
@@ -102,18 +114,6 @@
           "url": "https://www.liblib.art",
           "order": 2,
           "category": "AI视频创作",
-          "noticeText": null,
-          "allowCopy": false
-        },
-        {
-          "id": "860eafba-6a9a-4501-8fd1-c415c3307cda",
-          "name": "海螺视频",
-          "icon": "\uD83D\uDC1A",
-          "faviconUrl": "",
-          "description": "海螺AI推出的AI视频生成工具，可以生成高质量",
-          "url": "https://hailuo.ai",
-          "order": 9,
-          "category": null,
           "noticeText": null,
           "allowCopy": false
         },
