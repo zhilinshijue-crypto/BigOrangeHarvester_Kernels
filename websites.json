@@ -179,13 +179,25 @@
           "allowCopy": false
         },
         {
+          "id": "b0996e3b-1f23-4134-9637-57fd3b633942",
+          "name": "蝉镜",
+          "icon": "C:\\Users\\Zac\\AppData\\Roaming\\BigOrangeHarvester\\favicons\\www_chanjing_cc.png",
+          "faviconUrl": null,
+          "description": "AI数字人视频生成制作|数字人克隆分身",
+          "url": "https://www.chanjing.cc/",
+          "order": 14,
+          "category": null,
+          "noticeText": null,
+          "allowCopy": false
+        },
+        {
           "id": "edf2056f-f654-42cd-bd36-7ecf679c6e67",
           "name": "Mootion",
           "icon": "\uD83C\uDFAC",
           "faviconUrl": "",
           "description": "Mootion是一个革命性的3D动画创作平台，利",
           "url": "https://mootion.com",
-          "order": 14,
+          "order": 15,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -197,7 +209,7 @@
           "faviconUrl": "",
           "description": "Viggle AI是一个强大的3D动画生成平台，可",
           "url": "https://viggle.ai",
-          "order": 15,
+          "order": 16,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -209,7 +221,7 @@
           "faviconUrl": "",
           "description": "一个成熟可靠的AI视频生成和编辑工具",
           "url": "https://haiper.ai",
-          "order": 16,
+          "order": 17,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -221,7 +233,7 @@
           "faviconUrl": "https://openai.com/favicon.ico",
           "description": "Sora是OpenAI发布的一种文生视频AI大模型，可以根据文本指令创建现实和富有想象力的场景",
           "url": "https://openai.com/sora",
-          "order": 17,
+          "order": 18,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -233,7 +245,7 @@
           "faviconUrl": "",
           "description": "PixVerse是一款强大的AI视频生成工具，可以轻",
           "url": "https://pixverse.ai",
-          "order": 18,
+          "order": 19,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -245,7 +257,7 @@
           "faviconUrl": "",
           "description": "Morph Studio是一款领先的文字转视频AI平台",
           "url": "https://morphstudio.com",
-          "order": 19,
+          "order": 20,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -257,7 +269,7 @@
           "faviconUrl": "",
           "description": "Kreado AI是一个多语言AI视频创作平台，只需",
           "url": "https://kreado.ai",
-          "order": 20,
+          "order": 21,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -269,7 +281,7 @@
           "faviconUrl": "",
           "description": "Vimeo平台的AI视频生成工具",
           "url": "https://vimeo.com",
-          "order": 21,
+          "order": 22,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -281,7 +293,7 @@
           "faviconUrl": "",
           "description": "一款专为海外中小企业和创作者打造的AI数字",
           "url": "https://keevx.com",
-          "order": 22,
+          "order": 23,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -293,7 +305,7 @@
           "faviconUrl": "",
           "description": "绘蛙推出的AI视频制作工具",
           "url": "https://video.huiwa.com",
-          "order": 23,
+          "order": 24,
           "category": null,
           "noticeText": null,
           "allowCopy": false
