@@ -155,14 +155,14 @@
         {
           "id": "743b97cb-4577-4991-a409-0e2acf014459",
           "name": "Runway",
-          "icon": "\uD83C\uDF9E️",
-          "faviconUrl": "",
-          "description": "Runway是一个AI创意生成平台，支持AI视频生成",
+          "icon": "\uD83C\uDF10",
+          "faviconUrl": "https://runwayml.com/favicon.ico",
+          "description": "输入注册码获得1000积分。Runway是一个AI创意生成平台，支持AI视频生成、AI图像生成。",
           "url": "https://runwayml.com",
           "order": 12,
           "category": null,
-          "noticeText": null,
-          "allowCopy": false
+          "noticeText": "zhilinshijue-m1axtg",
+          "allowCopy": true
         },
         {
           "id": "d4e59d0e-6e6e-445b-9191-04f4faaff3b9",
@@ -201,18 +201,6 @@
           "allowCopy": false
         },
         {
-          "id": "a8e8efae-3f67-491d-abfe-03153ef106e3",
-          "name": "潮际好莱AI视频",
-          "icon": "\uD83C\uDFAC",
-          "faviconUrl": "",
-          "description": "潮际好莱AI视频制作工具",
-          "url": "https://www.chaoji.com",
-          "order": 16,
-          "category": null,
-          "noticeText": null,
-          "allowCopy": false
-        },
-        {
           "id": "ce569894-842b-4c35-a864-963c614a0d49",
           "name": "Veo",
           "icon": "\uD83C\uDFA5",
@@ -226,11 +214,11 @@
         },
         {
           "id": "30a4ead8-bab7-478f-8cfd-d14b300475d0",
-          "name": "绘蛙-多图成片",
-          "icon": "\uD83D\uDC38",
-          "faviconUrl": "",
+          "name": "绘蛙",
+          "icon": "\uD83C\uDF10",
+          "faviconUrl": "https://www.ihuiwa.com/favicon.ico",
           "description": "绘蛙推出的AI视频生成工具",
-          "url": "https://www.huiwa.com",
+          "url": "https://www.ihuiwa.com/",
           "order": 18,
           "category": null,
           "noticeText": null,
