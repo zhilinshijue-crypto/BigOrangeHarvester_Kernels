@@ -132,13 +132,25 @@
           "allowCopy": false
         },
         {
+          "id": "fdf608a9-1823-4f1b-abe4-b2ac49b87095",
+          "name": "通义视频",
+          "icon": "\uD83D\uDCF9",
+          "faviconUrl": "",
+          "description": "通义万能的AI视频生成工具",
+          "url": "https://tongyi.aliyun.com",
+          "order": 10,
+          "category": null,
+          "noticeText": null,
+          "allowCopy": false
+        },
+        {
           "id": "d4e59d0e-6e6e-445b-9191-04f4faaff3b9",
           "name": "Sora",
           "icon": "\uD83C\uDF1F",
           "faviconUrl": "",
           "description": "Sora是OpenAI发布的一种文生视频AI模型，能够",
           "url": "https://openai.com/sora",
-          "order": 10,
+          "order": 11,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -150,7 +162,7 @@
           "faviconUrl": "",
           "description": "Pika.art是一个AI视频的创作平台",
           "url": "https://pika.art",
-          "order": 11,
+          "order": 12,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -162,7 +174,7 @@
           "faviconUrl": "https://app.pixverse.ai/favicon.ico",
           "description": "注册填写邀请获得大量积分。PixVerse是一款强大的AI视频生成工具，可以轻松地将多种输入转化为令人惊叹的视频",
           "url": "https://app.pixverse.ai/",
-          "order": 12,
+          "order": 13,
           "category": "AI视频创作",
           "noticeText": "1BKBCS3Q",
           "allowCopy": true
@@ -174,7 +186,7 @@
           "faviconUrl": "https://www.kreadoai.com/favicon.ico",
           "description": "Kreado AI是一个多语言AI视频创作平台，只需",
           "url": "https://www.kreadoai.com/?inviteCode=184870026",
-          "order": 13,
+          "order": 14,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -186,7 +198,7 @@
           "faviconUrl": "",
           "description": "Vimeo平台的AI视频生成工具",
           "url": "https://vimeo.com",
-          "order": 14,
+          "order": 15,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -198,7 +210,7 @@
           "faviconUrl": "",
           "description": "Google 最新发布的 AI 视频生成模型",
           "url": "https://deepmind.google/veo",
-          "order": 15,
+          "order": 16,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -210,31 +222,7 @@
           "faviconUrl": "https://www.ihuiwa.com/favicon.ico",
           "description": "绘蛙推出的AI视频生成工具",
           "url": "https://www.ihuiwa.com/",
-          "order": 16,
-          "category": null,
-          "noticeText": null,
-          "allowCopy": false
-        },
-        {
-          "id": "fdf608a9-1823-4f1b-abe4-b2ac49b87095",
-          "name": "通义视频",
-          "icon": "\uD83D\uDCF9",
-          "faviconUrl": "",
-          "description": "通义万能的AI视频生成工具",
-          "url": "https://tongyi.aliyun.com",
           "order": 17,
-          "category": null,
-          "noticeText": null,
-          "allowCopy": false
-        },
-        {
-          "id": "eb12da2d-da2f-4091-ad98-05babb3fccdc",
-          "name": "Viggle AI",
-          "icon": "\uD83D\uDC83",
-          "faviconUrl": "",
-          "description": "Viggle AI是一个强大的3D动画生成平台，可",
-          "url": "https://viggle.ai",
-          "order": 18,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -246,7 +234,7 @@
           "faviconUrl": "",
           "description": "一个成熟可靠的AI视频生成和编辑工具",
           "url": "https://haiper.ai",
-          "order": 19,
+          "order": 18,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -258,7 +246,7 @@
           "faviconUrl": "",
           "description": "一款专为海外中小企业和创作者打造的AI数字",
           "url": "https://keevx.com",
-          "order": 20,
+          "order": 19,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -270,7 +258,7 @@
           "faviconUrl": "",
           "description": "绘蛙推出的AI视频制作工具",
           "url": "https://video.huiwa.com",
-          "order": 21,
+          "order": 20,
           "category": null,
           "noticeText": null,
           "allowCopy": false
