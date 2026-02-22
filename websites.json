@@ -287,24 +287,24 @@
           "allowCopy": false
         },
         {
-          "id": "b0996e3b-1f23-4134-9637-57fd3b633942",
-          "name": "蝉镜",
-          "icon": "C:\\Users\\Zac\\AppData\\Roaming\\BigOrangeHarvester\\favicons\\www_chanjing_cc.png",
-          "faviconUrl": null,
-          "description": "AI数字人视频生成制作|数字人克隆分身",
-          "url": "https://www.chanjing.cc/",
-          "order": 23,
-          "category": null,
-          "noticeText": null,
-          "allowCopy": false
-        },
-        {
           "id": "08ada603-d837-4e33-9a71-64a4a5ea7d3d",
           "name": "绘蛙AI视频",
           "icon": "\uD83D\uDC38",
           "faviconUrl": "",
           "description": "绘蛙推出的AI视频制作工具",
           "url": "https://video.huiwa.com",
+          "order": 23,
+          "category": null,
+          "noticeText": null,
+          "allowCopy": false
+        },
+        {
+          "id": "b0996e3b-1f23-4134-9637-57fd3b633942",
+          "name": "蝉镜",
+          "icon": "C:\\Users\\Zac\\AppData\\Roaming\\BigOrangeHarvester\\favicons\\www_chanjing_cc.png",
+          "faviconUrl": null,
+          "description": "AI数字人视频生成制作|数字人克隆分身",
+          "url": "https://www.chanjing.cc/",
           "order": 24,
           "category": null,
           "noticeText": null,
