@@ -275,24 +275,24 @@
           "allowCopy": false
         },
         {
-          "id": "b0996e3b-1f23-4134-9637-57fd3b633942",
-          "name": "蝉镜",
-          "icon": "C:\\Users\\Zac\\AppData\\Roaming\\BigOrangeHarvester\\favicons\\www_chanjing_cc.png",
-          "faviconUrl": null,
-          "description": "AI数字人视频生成制作|数字人克隆分身",
-          "url": "https://www.chanjing.cc/",
-          "order": 22,
-          "category": null,
-          "noticeText": null,
-          "allowCopy": false
-        },
-        {
           "id": "cfff45af-0872-421a-ba5c-8b0d1b84fe73",
           "name": "Keevx",
           "icon": "\uD83C\uDFAC",
           "faviconUrl": "",
           "description": "一款专为海外中小企业和创作者打造的AI数字",
           "url": "https://keevx.com",
+          "order": 22,
+          "category": null,
+          "noticeText": null,
+          "allowCopy": false
+        },
+        {
+          "id": "b0996e3b-1f23-4134-9637-57fd3b633942",
+          "name": "蝉镜",
+          "icon": "C:\\Users\\Zac\\AppData\\Roaming\\BigOrangeHarvester\\favicons\\www_chanjing_cc.png",
+          "faviconUrl": null,
+          "description": "AI数字人视频生成制作|数字人克隆分身",
+          "url": "https://www.chanjing.cc/",
           "order": 23,
           "category": null,
           "noticeText": null,
