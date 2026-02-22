@@ -11,8 +11,7 @@
       "hotReferences": [
         "jimeng",
         "liblib",
-        "tuiyou",
-        "fengdie"
+        "tuiyou"
       ]
     },
     {
@@ -22,38 +21,14 @@
       "order": 2,
       "websites": [
         {
-          "id": "5ee0deeb-1af8-4315-a6b4-a0bac7f15c38",
-          "name": "魔珠星云",
-          "icon": "\uD83C\uDFA5",
-          "faviconUrl": "",
-          "description": "无需高端GPU，一键解锁磁盘实况/二次元多风格",
-          "url": "https://www.mozhu.ai",
+          "id": "49f066bb-ad45-4e7e-94fb-5c41ffb85747",
+          "name": "白日梦AI",
+          "icon": "\uD83C\uDF10",
+          "faviconUrl": "https://aibrm.com/favicon.ico",
+          "description": "白日梦AI是一款全新的文生视频类AIGC创作平台",
+          "url": "https://aibrm.com?code=lf8mdyk7a",
           "order": 1,
           "category": null,
-          "noticeText": null,
-          "allowCopy": false
-        },
-        {
-          "id": "jimeng",
-          "name": "即梦AI",
-          "icon": "\uD83C\uDF10",
-          "faviconUrl": "https://jimeng.jianying.com/favicon.ico",
-          "description": "一站式AI创作平台，免费AI图片和视频生成",
-          "url": "https://jimeng.jianying.com",
-          "order": 2,
-          "category": "AI视频创作",
-          "noticeText": null,
-          "allowCopy": false
-        },
-        {
-          "id": "fengdie",
-          "name": "百度1",
-          "icon": "\uD83C\uDF10",
-          "faviconUrl": "https://www.baidu.com/favicon.ico",
-          "description": "AI数字人视频创作平台，100+精品数字人形象",
-          "url": "https://www.baidu.com",
-          "order": 3,
-          "category": "AI视频创作",
           "noticeText": null,
           "allowCopy": false
         },
@@ -64,7 +39,19 @@
           "faviconUrl": null,
           "description": "AI设计生产力工具，零门槛AI绘图+多模态创作",
           "url": "https://d.design/?sharecode=xuRkTC5DDH",
-          "order": 4,
+          "order": 2,
+          "category": "AI视频创作",
+          "noticeText": null,
+          "allowCopy": false
+        },
+        {
+          "id": "jimeng",
+          "name": "即梦AI",
+          "icon": "\uD83C\uDF10",
+          "faviconUrl": "https://jimeng.jianying.com/favicon.ico",
+          "description": "一站式AI创作平台，免费AI图片和视频生成",
+          "url": "https://jimeng.jianying.com",
+          "order": 3,
           "category": "AI视频创作",
           "noticeText": null,
           "allowCopy": false
@@ -76,7 +63,7 @@
           "faviconUrl": "https://www.liblib.art/favicon.ico",
           "description": "国内领先的AI视频平台，以图生视频，视频编辑",
           "url": "https://www.liblib.art",
-          "order": 5,
+          "order": 4,
           "category": "AI视频创作",
           "noticeText": null,
           "allowCopy": false
@@ -88,7 +75,7 @@
           "faviconUrl": "",
           "description": "多功能AI创作平台，支持AI写作、AI绘画",
           "url": "https://www.wancai.com",
-          "order": 6,
+          "order": 5,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -100,7 +87,7 @@
           "faviconUrl": "",
           "description": "有言是一个一站式AI视频创作平台的数字人生成",
           "url": "https://www.youyan.ai",
-          "order": 7,
+          "order": 6,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -112,7 +99,7 @@
           "faviconUrl": "",
           "description": "讯飞智绘：AI视频创作平台，支持AI动画、MV",
           "url": "https://zhihui.iflytek.com",
-          "order": 8,
+          "order": 7,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -124,7 +111,7 @@
           "faviconUrl": "",
           "description": "海螺AI推出的AI视频生成工具，可以生成高质量",
           "url": "https://hailuo.ai",
-          "order": 9,
+          "order": 8,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -136,19 +123,7 @@
           "faviconUrl": "",
           "description": "可灵AI：新一代AI创意生产力平台",
           "url": "https://klingai.com",
-          "order": 10,
-          "category": null,
-          "noticeText": null,
-          "allowCopy": false
-        },
-        {
-          "id": "49f066bb-ad45-4e7e-94fb-5c41ffb85747",
-          "name": "白日梦AI",
-          "icon": "☁️",
-          "faviconUrl": "",
-          "description": "白日梦AI是一款全新的文生视频类AIGC创作平台",
-          "url": "https://bairimeng.ai",
-          "order": 11,
+          "order": 9,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -160,7 +135,7 @@
           "faviconUrl": "",
           "description": "Lightricks推出的生成式AI视频创作平台，可以从",
           "url": "https://ltx.studio",
-          "order": 12,
+          "order": 10,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -172,7 +147,7 @@
           "faviconUrl": "",
           "description": "Stability AI 发布的开源视频模型，用于字幕生成",
           "url": "https://www.stablevideo.com",
-          "order": 13,
+          "order": 11,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -184,7 +159,7 @@
           "faviconUrl": "",
           "description": "Runway是一个AI创意生成平台，支持AI视频生成",
           "url": "https://runwayml.com",
-          "order": 14,
+          "order": 12,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -196,7 +171,7 @@
           "faviconUrl": "",
           "description": "Sora是OpenAI发布的一种文生视频AI模型，能够",
           "url": "https://openai.com/sora",
-          "order": 15,
+          "order": 13,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -208,7 +183,7 @@
           "faviconUrl": "",
           "description": "Pika.art是一个AI视频的创作平台",
           "url": "https://pika.art",
-          "order": 16,
+          "order": 14,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -220,7 +195,7 @@
           "faviconUrl": "",
           "description": "阿里巴巴出品的AI助手",
           "url": "https://qianwen.aliyun.com",
-          "order": 17,
+          "order": 15,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -232,7 +207,7 @@
           "faviconUrl": "",
           "description": "潮际好莱AI视频制作工具",
           "url": "https://www.chaoji.com",
-          "order": 18,
+          "order": 16,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -244,7 +219,7 @@
           "faviconUrl": "",
           "description": "Google 最新发布的 AI 视频生成模型",
           "url": "https://deepmind.google/veo",
-          "order": 19,
+          "order": 17,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -256,7 +231,7 @@
           "faviconUrl": "",
           "description": "绘蛙推出的AI视频生成工具",
           "url": "https://www.huiwa.com",
-          "order": 20,
+          "order": 18,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -268,7 +243,7 @@
           "faviconUrl": "",
           "description": "通义万能的AI视频生成工具",
           "url": "https://tongyi.aliyun.com",
-          "order": 21,
+          "order": 19,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -280,7 +255,7 @@
           "faviconUrl": "",
           "description": "Mootion是一个革命性的3D动画创作平台，利",
           "url": "https://mootion.com",
-          "order": 22,
+          "order": 20,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -292,7 +267,7 @@
           "faviconUrl": "",
           "description": "Viggle AI是一个强大的3D动画生成平台，可",
           "url": "https://viggle.ai",
-          "order": 23,
+          "order": 21,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -304,7 +279,7 @@
           "faviconUrl": "",
           "description": "一个成熟可靠的AI视频生成和编辑工具",
           "url": "https://haiper.ai",
-          "order": 24,
+          "order": 22,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -316,7 +291,7 @@
           "faviconUrl": "",
           "description": "PixVerse是一款强大的AI视频生成工具，可以轻",
           "url": "https://pixverse.ai",
-          "order": 25,
+          "order": 23,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -328,7 +303,7 @@
           "faviconUrl": "",
           "description": "Morph Studio是一款领先的文字转视频AI平台",
           "url": "https://morphstudio.com",
-          "order": 26,
+          "order": 24,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -340,7 +315,7 @@
           "faviconUrl": "",
           "description": "Kreado AI是一个多语言AI视频创作平台，只需",
           "url": "https://kreado.ai",
-          "order": 27,
+          "order": 25,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -352,7 +327,7 @@
           "faviconUrl": "",
           "description": "Vimeo平台的AI视频生成工具",
           "url": "https://vimeo.com",
-          "order": 28,
+          "order": 26,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -364,7 +339,7 @@
           "faviconUrl": "",
           "description": "一款专为海外中小企业和创作者打造的AI数字",
           "url": "https://keevx.com",
-          "order": 29,
+          "order": 27,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -376,7 +351,7 @@
           "faviconUrl": "",
           "description": "绘蛙推出的AI视频制作工具",
           "url": "https://video.huiwa.com",
-          "order": 30,
+          "order": 28,
           "category": null,
           "noticeText": null,
           "allowCopy": false
