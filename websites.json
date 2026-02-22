@@ -119,13 +119,25 @@
           "allowCopy": true
         },
         {
+          "id": "edf2056f-f654-42cd-bd36-7ecf679c6e67",
+          "name": "Mootion",
+          "icon": "\uD83C\uDFAC",
+          "faviconUrl": "",
+          "description": "Mootion是一个革命性的3D动画创作平台，利",
+          "url": "https://mootion.com",
+          "order": 9,
+          "category": null,
+          "noticeText": null,
+          "allowCopy": false
+        },
+        {
           "id": "d4e59d0e-6e6e-445b-9191-04f4faaff3b9",
           "name": "Sora",
           "icon": "\uD83C\uDF1F",
           "faviconUrl": "",
           "description": "Sora是OpenAI发布的一种文生视频AI模型，能够",
           "url": "https://openai.com/sora",
-          "order": 9,
+          "order": 10,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -137,7 +149,7 @@
           "faviconUrl": "",
           "description": "Pika.art是一个AI视频的创作平台",
           "url": "https://pika.art",
-          "order": 10,
+          "order": 11,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -191,25 +203,13 @@
           "allowCopy": false
         },
         {
-          "id": "edf2056f-f654-42cd-bd36-7ecf679c6e67",
-          "name": "Mootion",
-          "icon": "\uD83C\uDFAC",
-          "faviconUrl": "",
-          "description": "Mootion是一个革命性的3D动画创作平台，利",
-          "url": "https://mootion.com",
-          "order": 16,
-          "category": null,
-          "noticeText": null,
-          "allowCopy": false
-        },
-        {
           "id": "eb12da2d-da2f-4091-ad98-05babb3fccdc",
           "name": "Viggle AI",
           "icon": "\uD83D\uDC83",
           "faviconUrl": "",
           "description": "Viggle AI是一个强大的3D动画生成平台，可",
           "url": "https://viggle.ai",
-          "order": 17,
+          "order": 16,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -221,7 +221,7 @@
           "faviconUrl": "",
           "description": "一个成熟可靠的AI视频生成和编辑工具",
           "url": "https://haiper.ai",
-          "order": 18,
+          "order": 17,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -233,7 +233,7 @@
           "faviconUrl": "",
           "description": "PixVerse是一款强大的AI视频生成工具，可以轻",
           "url": "https://pixverse.ai",
-          "order": 19,
+          "order": 18,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -245,7 +245,7 @@
           "faviconUrl": "",
           "description": "Morph Studio是一款领先的文字转视频AI平台",
           "url": "https://morphstudio.com",
-          "order": 20,
+          "order": 19,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -257,7 +257,7 @@
           "faviconUrl": "",
           "description": "Vimeo平台的AI视频生成工具",
           "url": "https://vimeo.com",
-          "order": 21,
+          "order": 20,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -269,7 +269,7 @@
           "faviconUrl": "",
           "description": "一款专为海外中小企业和创作者打造的AI数字",
           "url": "https://keevx.com",
-          "order": 22,
+          "order": 21,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -281,7 +281,7 @@
           "faviconUrl": "",
           "description": "绘蛙推出的AI视频制作工具",
           "url": "https://video.huiwa.com",
-          "order": 23,
+          "order": 22,
           "category": null,
           "noticeText": null,
           "allowCopy": false
