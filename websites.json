@@ -12,7 +12,8 @@
         "tuiyou",
         "jimeng",
         "liblib",
-        "49f066bb-ad45-4e7e-94fb-5c41ffb85747"
+        "49f066bb-ad45-4e7e-94fb-5c41ffb85747",
+        "743b97cb-4577-4991-a409-0e2acf014459"
       ]
     },
     {
@@ -48,9 +49,9 @@
         {
           "id": "c071dc85-c8ab-4ca1-bb0c-ca1282c60067",
           "name": "可灵AI",
-          "icon": "✨",
-          "faviconUrl": "",
-          "description": "可灵AI：新一代AI创意生产力平台",
+          "icon": "\uD83C\uDF10",
+          "faviconUrl": "https://klingai.com/favicon.ico",
+          "description": "新一代AI创意生产力平台",
           "url": "https://klingai.com",
           "order": 3,
           "category": null,
@@ -84,14 +85,14 @@
         {
           "id": "743b97cb-4577-4991-a409-0e2acf014459",
           "name": "Runway",
-          "icon": "\uD83C\uDF9E️",
-          "faviconUrl": "",
-          "description": "Runway是一个AI创意生成平台，支持AI视频生成",
+          "icon": "\uD83C\uDF10",
+          "faviconUrl": "https://runwayml.com/favicon.ico",
+          "description": "复制邀请码可获得1000积分哦。Runway是一个AI创意生成平台，支持AI视频生成",
           "url": "https://runwayml.com",
           "order": 6,
-          "category": null,
-          "noticeText": null,
-          "allowCopy": false
+          "category": "AI视频创作",
+          "noticeText": "邀请码：zhilinshijue-m1axtg",
+          "allowCopy": true
         },
         {
           "id": "860eafba-6a9a-4501-8fd1-c415c3307cda",
