@@ -46,13 +46,25 @@
           "allowCopy": false
         },
         {
+          "id": "743b97cb-4577-4991-a409-0e2acf014459",
+          "name": "Runway",
+          "icon": "\uD83C\uDF9E️",
+          "faviconUrl": "",
+          "description": "Runway是一个AI创意生成平台，支持AI视频生成",
+          "url": "https://runwayml.com",
+          "order": 3,
+          "category": null,
+          "noticeText": null,
+          "allowCopy": false
+        },
+        {
           "id": "tuiyou",
           "name": "堆友",
           "icon": "\uD83C\uDF10",
           "faviconUrl": "https://d.design/favicon.ico",
           "description": "AI设计生产力工具，零门槛AI绘图+多模态创作",
           "url": "https://d.design/?sharecode=xuRkTC5DDH",
-          "order": 3,
+          "order": 4,
           "category": "AI视频创作",
           "noticeText": null,
           "allowCopy": false
@@ -64,7 +76,7 @@
           "faviconUrl": "",
           "description": "海螺AI推出的AI视频生成工具，可以生成高质量",
           "url": "https://hailuo.ai",
-          "order": 4,
+          "order": 5,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -76,7 +88,7 @@
           "faviconUrl": "",
           "description": "可灵AI：新一代AI创意生产力平台",
           "url": "https://klingai.com",
-          "order": 5,
+          "order": 6,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -88,7 +100,7 @@
           "faviconUrl": "https://aibrm.com/favicon.ico",
           "description": "白日梦AI是一款全新的文生视频类AIGC创作平台",
           "url": "https://aibrm.com?code=lf8mdyk7a",
-          "order": 6,
+          "order": 7,
           "category": "AI视频创作",
           "noticeText": null,
           "allowCopy": false
@@ -100,18 +112,6 @@
           "faviconUrl": "",
           "description": "Stability AI 发布的开源视频模型，用于字幕生成",
           "url": "https://www.stablevideo.com",
-          "order": 7,
-          "category": null,
-          "noticeText": null,
-          "allowCopy": false
-        },
-        {
-          "id": "743b97cb-4577-4991-a409-0e2acf014459",
-          "name": "Runway",
-          "icon": "\uD83C\uDF9E️",
-          "faviconUrl": "",
-          "description": "Runway是一个AI创意生成平台，支持AI视频生成",
-          "url": "https://runwayml.com",
           "order": 8,
           "category": null,
           "noticeText": null,
