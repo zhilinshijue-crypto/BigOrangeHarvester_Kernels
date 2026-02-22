@@ -121,10 +121,10 @@
         {
           "id": "edf2056f-f654-42cd-bd36-7ecf679c6e67",
           "name": "Mootion",
-          "icon": "\uD83C\uDFAC",
-          "faviconUrl": "",
+          "icon": "\uD83C\uDF10",
+          "faviconUrl": "https://storyteller.mootion.com/favicon.ico",
           "description": "Mootion是一个革命性的3D动画创作平台，利",
-          "url": "https://mootion.com",
+          "url": "https://storyteller.mootion.com/referral?code=O4J7cSdYwHU",
           "order": 9,
           "category": null,
           "noticeText": null,
@@ -155,13 +155,25 @@
           "allowCopy": false
         },
         {
+          "id": "91ef5b2b-589b-4647-8e5c-0d8831c247c9",
+          "name": "PixVerse",
+          "icon": "✨",
+          "faviconUrl": "",
+          "description": "PixVerse是一款强大的AI视频生成工具，可以轻",
+          "url": "https://pixverse.ai",
+          "order": 12,
+          "category": null,
+          "noticeText": null,
+          "allowCopy": false
+        },
+        {
           "id": "b8adf746-5888-44f0-92e4-248fb6a7bd96",
           "name": "Kreado AI",
           "icon": "\uD83C\uDF10",
           "faviconUrl": "https://www.kreadoai.com/favicon.ico",
           "description": "Kreado AI是一个多语言AI视频创作平台，只需",
           "url": "https://www.kreadoai.com/?inviteCode=184870026",
-          "order": 12,
+          "order": 13,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -173,7 +185,7 @@
           "faviconUrl": "",
           "description": "Google 最新发布的 AI 视频生成模型",
           "url": "https://deepmind.google/veo",
-          "order": 13,
+          "order": 14,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -185,7 +197,7 @@
           "faviconUrl": "https://www.ihuiwa.com/favicon.ico",
           "description": "绘蛙推出的AI视频生成工具",
           "url": "https://www.ihuiwa.com/",
-          "order": 14,
+          "order": 15,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -197,7 +209,7 @@
           "faviconUrl": "",
           "description": "通义万能的AI视频生成工具",
           "url": "https://tongyi.aliyun.com",
-          "order": 15,
+          "order": 16,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -209,7 +221,7 @@
           "faviconUrl": "",
           "description": "Viggle AI是一个强大的3D动画生成平台，可",
           "url": "https://viggle.ai",
-          "order": 16,
+          "order": 17,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -221,18 +233,6 @@
           "faviconUrl": "",
           "description": "一个成熟可靠的AI视频生成和编辑工具",
           "url": "https://haiper.ai",
-          "order": 17,
-          "category": null,
-          "noticeText": null,
-          "allowCopy": false
-        },
-        {
-          "id": "91ef5b2b-589b-4647-8e5c-0d8831c247c9",
-          "name": "PixVerse",
-          "icon": "✨",
-          "faviconUrl": "",
-          "description": "PixVerse是一款强大的AI视频生成工具，可以轻",
-          "url": "https://pixverse.ai",
           "order": 18,
           "category": null,
           "noticeText": null,
