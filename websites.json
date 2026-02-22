@@ -180,13 +180,25 @@
           "allowCopy": false
         },
         {
+          "id": "8dbee88b-8cc8-492f-84ae-e19f31545e67",
+          "name": "Vimeo",
+          "icon": "\uD83D\uDCF9",
+          "faviconUrl": "",
+          "description": "Vimeo平台的AI视频生成工具",
+          "url": "https://vimeo.com",
+          "order": 14,
+          "category": null,
+          "noticeText": null,
+          "allowCopy": false
+        },
+        {
           "id": "ce569894-842b-4c35-a864-963c614a0d49",
           "name": "Veo",
           "icon": "\uD83C\uDFA5",
           "faviconUrl": "",
           "description": "Google 最新发布的 AI 视频生成模型",
           "url": "https://deepmind.google/veo",
-          "order": 14,
+          "order": 15,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -198,7 +210,7 @@
           "faviconUrl": "https://www.ihuiwa.com/favicon.ico",
           "description": "绘蛙推出的AI视频生成工具",
           "url": "https://www.ihuiwa.com/",
-          "order": 15,
+          "order": 16,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -210,7 +222,7 @@
           "faviconUrl": "",
           "description": "通义万能的AI视频生成工具",
           "url": "https://tongyi.aliyun.com",
-          "order": 16,
+          "order": 17,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -222,7 +234,7 @@
           "faviconUrl": "",
           "description": "Viggle AI是一个强大的3D动画生成平台，可",
           "url": "https://viggle.ai",
-          "order": 17,
+          "order": 18,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -234,31 +246,7 @@
           "faviconUrl": "",
           "description": "一个成熟可靠的AI视频生成和编辑工具",
           "url": "https://haiper.ai",
-          "order": 18,
-          "category": null,
-          "noticeText": null,
-          "allowCopy": false
-        },
-        {
-          "id": "0d55469d-05a7-45b5-bc48-f8b7a85e6cf0",
-          "name": "Morph Studio",
-          "icon": "\uD83C\uDFAC",
-          "faviconUrl": "",
-          "description": "Morph Studio是一款领先的文字转视频AI平台",
-          "url": "https://morphstudio.com",
           "order": 19,
-          "category": null,
-          "noticeText": null,
-          "allowCopy": false
-        },
-        {
-          "id": "8dbee88b-8cc8-492f-84ae-e19f31545e67",
-          "name": "Vimeo",
-          "icon": "\uD83D\uDCF9",
-          "faviconUrl": "",
-          "description": "Vimeo平台的AI视频生成工具",
-          "url": "https://vimeo.com",
-          "order": 20,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -270,7 +258,7 @@
           "faviconUrl": "",
           "description": "一款专为海外中小企业和创作者打造的AI数字",
           "url": "https://keevx.com",
-          "order": 21,
+          "order": 20,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -282,7 +270,7 @@
           "faviconUrl": "",
           "description": "绘蛙推出的AI视频制作工具",
           "url": "https://video.huiwa.com",
-          "order": 22,
+          "order": 21,
           "category": null,
           "noticeText": null,
           "allowCopy": false
