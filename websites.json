@@ -94,24 +94,24 @@
           "allowCopy": false
         },
         {
-          "id": "c071dc85-c8ab-4ca1-bb0c-ca1282c60067",
-          "name": "可灵AI",
-          "icon": "✨",
-          "faviconUrl": "",
-          "description": "可灵AI：新一代AI创意生产力平台",
-          "url": "https://klingai.com",
-          "order": 7,
-          "category": null,
-          "noticeText": null,
-          "allowCopy": false
-        },
-        {
           "id": "4225af68-c672-49ba-a005-c36e2bc9eb11",
           "name": "Stable Video",
           "icon": "\uD83C\uDFA5",
           "faviconUrl": "",
           "description": "Stability AI 发布的开源视频模型，用于字幕生成",
           "url": "https://www.stablevideo.com",
+          "order": 7,
+          "category": null,
+          "noticeText": null,
+          "allowCopy": false
+        },
+        {
+          "id": "c071dc85-c8ab-4ca1-bb0c-ca1282c60067",
+          "name": "可灵AI",
+          "icon": "✨",
+          "faviconUrl": "",
+          "description": "可灵AI：新一代AI创意生产力平台",
+          "url": "https://klingai.com",
           "order": 8,
           "category": null,
           "noticeText": null,
