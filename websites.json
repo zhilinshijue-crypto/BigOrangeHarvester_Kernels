@@ -120,24 +120,24 @@
           "allowCopy": false
         },
         {
-          "id": "4225af68-c672-49ba-a005-c36e2bc9eb11",
-          "name": "Stable Video",
-          "icon": "\uD83C\uDFA5",
-          "faviconUrl": "",
-          "description": "Stability AI 发布的开源视频模型，用于字幕生成",
-          "url": "https://www.stablevideo.com",
-          "order": 9,
-          "category": null,
-          "noticeText": null,
-          "allowCopy": false
-        },
-        {
           "id": "30a4ead8-bab7-478f-8cfd-d14b300475d0",
           "name": "绘蛙-多图成片",
           "icon": "\uD83D\uDC38",
           "faviconUrl": "",
           "description": "绘蛙推出的AI视频生成工具",
           "url": "https://www.huiwa.com",
+          "order": 9,
+          "category": null,
+          "noticeText": null,
+          "allowCopy": false
+        },
+        {
+          "id": "4225af68-c672-49ba-a005-c36e2bc9eb11",
+          "name": "Stable Video",
+          "icon": "\uD83C\uDFA5",
+          "faviconUrl": "",
+          "description": "Stability AI 发布的开源视频模型，用于字幕生成",
+          "url": "https://www.stablevideo.com",
           "order": 10,
           "category": null,
           "noticeText": null,
