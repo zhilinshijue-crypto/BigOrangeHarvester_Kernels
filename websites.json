@@ -108,24 +108,24 @@
           "allowCopy": false
         },
         {
-          "id": "860eafba-6a9a-4501-8fd1-c415c3307cda",
-          "name": "海螺视频",
-          "icon": "\uD83D\uDC1A",
-          "faviconUrl": "",
-          "description": "海螺AI推出的AI视频生成工具，可以生成高质量",
-          "url": "https://hailuo.ai",
-          "order": 8,
-          "category": null,
-          "noticeText": null,
-          "allowCopy": false
-        },
-        {
           "id": "30a4ead8-bab7-478f-8cfd-d14b300475d0",
           "name": "绘蛙-多图成片",
           "icon": "\uD83D\uDC38",
           "faviconUrl": "",
           "description": "绘蛙推出的AI视频生成工具",
           "url": "https://www.huiwa.com",
+          "order": 8,
+          "category": null,
+          "noticeText": null,
+          "allowCopy": false
+        },
+        {
+          "id": "860eafba-6a9a-4501-8fd1-c415c3307cda",
+          "name": "海螺视频",
+          "icon": "\uD83D\uDC1A",
+          "faviconUrl": "",
+          "description": "海螺AI推出的AI视频生成工具，可以生成高质量",
+          "url": "https://hailuo.ai",
           "order": 9,
           "category": null,
           "noticeText": null,
