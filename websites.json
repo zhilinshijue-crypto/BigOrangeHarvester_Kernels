@@ -239,14 +239,14 @@
         {
           "id": "b78621ba-d2f1-477b-b690-e330b7698173",
           "name": "讯飞智作",
-          "icon": "\uD83C\uDF99️",
-          "faviconUrl": "",
+          "icon": "\uD83C\uDF10",
+          "faviconUrl": "https://peiyin.xunfei.cn/favicon.ico",
           "description": "科大讯飞旗下AI音视频创作平台",
-          "url": "https://zhizuo.iflytek.com",
+          "url": "https://peiyin.xunfei.cn/",
           "order": 1,
-          "category": null,
-          "noticeText": null,
-          "allowCopy": false
+          "category": "AI文本写作",
+          "noticeText": "JR70ULH1",
+          "allowCopy": true
         },
         {
           "id": "9b7e6c89-165a-4c6e-b389-e2c322fd0877",
