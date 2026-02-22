@@ -226,42 +226,6 @@
           "category": null,
           "noticeText": null,
           "allowCopy": false
-        },
-        {
-          "id": "f682357b-0304-4cfa-9f1e-a5346184b550",
-          "name": "Haiper",
-          "icon": "\uD83C\uDFA5",
-          "faviconUrl": "",
-          "description": "一个成熟可靠的AI视频生成和编辑工具",
-          "url": "https://haiper.ai",
-          "order": 18,
-          "category": null,
-          "noticeText": null,
-          "allowCopy": false
-        },
-        {
-          "id": "cfff45af-0872-421a-ba5c-8b0d1b84fe73",
-          "name": "Keevx",
-          "icon": "\uD83C\uDFAC",
-          "faviconUrl": "",
-          "description": "一款专为海外中小企业和创作者打造的AI数字",
-          "url": "https://keevx.com",
-          "order": 19,
-          "category": null,
-          "noticeText": null,
-          "allowCopy": false
-        },
-        {
-          "id": "08ada603-d837-4e33-9a71-64a4a5ea7d3d",
-          "name": "绘蛙AI视频",
-          "icon": "\uD83D\uDC38",
-          "faviconUrl": "",
-          "description": "绘蛙推出的AI视频制作工具",
-          "url": "https://video.huiwa.com",
-          "order": 20,
-          "category": null,
-          "noticeText": null,
-          "allowCopy": false
         }
       ],
       "hotReferences": []
