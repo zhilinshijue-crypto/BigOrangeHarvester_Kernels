@@ -13,7 +13,8 @@
         "liblib",
         "tuiyou",
         "743b97cb-4577-4991-a409-0e2acf014459",
-        "dc6bbfe6-2432-4f27-a89c-854303115b71"
+        "dc6bbfe6-2432-4f27-a89c-854303115b71",
+        "91ef5b2b-589b-4647-8e5c-0d8831c247c9"
       ]
     },
     {
@@ -158,13 +159,13 @@
           "id": "91ef5b2b-589b-4647-8e5c-0d8831c247c9",
           "name": "PixVerse",
           "icon": "\uD83C\uDF10",
-          "faviconUrl": "https://share.pix.video/favicon.ico",
-          "description": "ixVerse是一款强大的AI视频生成工具，可以轻松地将多种输入转化为令人惊叹的视频",
-          "url": "https://share.pix.video/",
+          "faviconUrl": "https://app.pixverse.ai/favicon.ico",
+          "description": "注册填写邀请获得大量积分。PixVerse是一款强大的AI视频生成工具，可以轻松地将多种输入转化为令人惊叹的视频",
+          "url": "https://app.pixverse.ai/",
           "order": 12,
-          "category": null,
-          "noticeText": null,
-          "allowCopy": false
+          "category": "AI视频创作",
+          "noticeText": "1BKBCS3Q",
+          "allowCopy": true
         },
         {
           "id": "b8adf746-5888-44f0-92e4-248fb6a7bd96",
