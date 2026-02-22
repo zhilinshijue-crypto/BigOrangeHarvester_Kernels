@@ -95,13 +95,25 @@
           "allowCopy": true
         },
         {
+          "id": "5466e095-0599-43d0-a964-f5e0dc395cdc",
+          "name": "万彩AI",
+          "icon": "C:\\Users\\Zac\\AppData\\Roaming\\BigOrangeHarvester\\favicons\\ai_kezhan365_com.png",
+          "faviconUrl": null,
+          "description": "多功能AI创作工具合集，支持AI写作、AI换脸、AI数字人等",
+          "url": "https://ai.kezhan365.com/inviteCode/MkTg2m",
+          "order": 7,
+          "category": null,
+          "noticeText": null,
+          "allowCopy": false
+        },
+        {
           "id": "860eafba-6a9a-4501-8fd1-c415c3307cda",
           "name": "海螺视频",
           "icon": "\uD83D\uDC1A",
           "faviconUrl": "",
           "description": "海螺AI推出的AI视频生成工具，可以生成高质量",
           "url": "https://hailuo.ai",
-          "order": 7,
+          "order": 8,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -113,7 +125,7 @@
           "faviconUrl": "",
           "description": "Stability AI 发布的开源视频模型，用于字幕生成",
           "url": "https://www.stablevideo.com",
-          "order": 8,
+          "order": 9,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -125,7 +137,7 @@
           "faviconUrl": "",
           "description": "Pika.art是一个AI视频的创作平台",
           "url": "https://pika.art",
-          "order": 9,
+          "order": 10,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -137,7 +149,7 @@
           "faviconUrl": "",
           "description": "潮际好莱AI视频制作工具",
           "url": "https://www.chaoji.com",
-          "order": 10,
+          "order": 11,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -149,7 +161,7 @@
           "faviconUrl": "",
           "description": "Google 最新发布的 AI 视频生成模型",
           "url": "https://deepmind.google/veo",
-          "order": 11,
+          "order": 12,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -161,7 +173,7 @@
           "faviconUrl": "",
           "description": "绘蛙推出的AI视频生成工具",
           "url": "https://www.huiwa.com",
-          "order": 12,
+          "order": 13,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -173,18 +185,6 @@
           "faviconUrl": "",
           "description": "通义万能的AI视频生成工具",
           "url": "https://tongyi.aliyun.com",
-          "order": 13,
-          "category": null,
-          "noticeText": null,
-          "allowCopy": false
-        },
-        {
-          "id": "5466e095-0599-43d0-a964-f5e0dc395cdc",
-          "name": "万彩AI",
-          "icon": "C:\\Users\\Zac\\AppData\\Roaming\\BigOrangeHarvester\\favicons\\ai_kezhan365_com.png",
-          "faviconUrl": null,
-          "description": "多功能AI创作工具合集，支持AI写作、AI换脸、AI数字人等",
-          "url": "https://ai.kezhan365.com/inviteCode/MkTg2m",
           "order": 14,
           "category": null,
           "noticeText": null,
