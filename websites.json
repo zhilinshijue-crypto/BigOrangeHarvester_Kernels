@@ -22,18 +22,6 @@
       "order": 2,
       "websites": [
         {
-          "id": "a1405858-981e-4ab5-9913-298126749ecd",
-          "name": "谷歌呢嫩234234234234234",
-          "icon": "\uD83C\uDF10",
-          "faviconUrl": "https://google.com/favicon.ico",
-          "description": "",
-          "url": "https://google.com",
-          "order": 31,
-          "category": null,
-          "noticeText": null,
-          "allowCopy": false
-        },
-        {
           "id": "jimeng",
           "name": "即梦AI",
           "icon": "\uD83C\uDF10",
@@ -47,7 +35,7 @@
         },
         {
           "id": "fengdie",
-          "name": "百度123",
+          "name": "百度1",
           "icon": "\uD83C\uDF10",
           "faviconUrl": "https://www.baidu.com/favicon.ico",
           "description": "AI数字人视频创作平台，100+精品数字人形象",
@@ -70,23 +58,11 @@
           "allowCopy": false
         },
         {
-          "id": "f92ecbc8-baeb-4781-9e76-b69e2a02e6ca",
-          "name": "有言",
-          "icon": "\uD83D\uDCAC",
-          "faviconUrl": "",
-          "description": "有言是一个一站式AI视频创作平台的数字人生成",
-          "url": "https://www.youyan.ai",
-          "order": 7,
-          "category": null,
-          "noticeText": null,
-          "allowCopy": false
-        },
-        {
           "id": "tuiyou",
           "name": "堆友",
-          "icon": "\uD83C\uDF10",
-          "faviconUrl": "https://d.design/favicon.ico",
-          "description": "AI设计生产力工具，零门槛AI绘图+多模态创作1",
+          "icon": "\uD83C\uDF99️",
+          "faviconUrl": null,
+          "description": "AI设计生产力工具，零门槛AI绘图+多模态创作",
           "url": "https://d.design/?sharecode=xuRkTC5DDH",
           "order": 3,
           "category": "AI视频创作",
@@ -113,6 +89,18 @@
           "description": "多功能AI创作平台，支持AI写作、AI绘画",
           "url": "https://www.wancai.com",
           "order": 6,
+          "category": null,
+          "noticeText": null,
+          "allowCopy": false
+        },
+        {
+          "id": "f92ecbc8-baeb-4781-9e76-b69e2a02e6ca",
+          "name": "有言",
+          "icon": "\uD83D\uDCAC",
+          "faviconUrl": "",
+          "description": "有言是一个一站式AI视频创作平台的数字人生成",
+          "url": "https://www.youyan.ai",
+          "order": 7,
           "category": null,
           "noticeText": null,
           "allowCopy": false
