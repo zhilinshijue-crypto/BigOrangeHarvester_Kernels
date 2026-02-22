@@ -9,9 +9,9 @@
       "order": 1,
       "websites": [],
       "hotReferences": [
+        "tuiyou",
         "jimeng",
         "liblib",
-        "tuiyou",
         "fengdie"
       ]
     },
@@ -34,18 +34,6 @@
           "allowCopy": false
         },
         {
-          "id": "fengdie",
-          "name": "百度1",
-          "icon": "\uD83C\uDF10",
-          "faviconUrl": "https://www.baidu.com/favicon.ico",
-          "description": "AI数字人视频创作平台，100+精品数字人形象",
-          "url": "https://www.baidu.com",
-          "order": 4,
-          "category": "AI视频创作",
-          "noticeText": null,
-          "allowCopy": false
-        },
-        {
           "id": "liblib",
           "name": "LibLibAI",
           "icon": "\uD83C\uDF10",
@@ -60,11 +48,23 @@
         {
           "id": "tuiyou",
           "name": "堆友",
-          "icon": "\uD83C\uDF99️",
-          "faviconUrl": null,
+          "icon": "\uD83C\uDF10",
+          "faviconUrl": "https://d.design/favicon.ico",
           "description": "AI设计生产力工具，零门槛AI绘图+多模态创作",
           "url": "https://d.design/?sharecode=xuRkTC5DDH",
           "order": 3,
+          "category": "AI视频创作",
+          "noticeText": null,
+          "allowCopy": false
+        },
+        {
+          "id": "fengdie",
+          "name": "百度1",
+          "icon": "\uD83C\uDF10",
+          "faviconUrl": "https://www.baidu.com/favicon.ico",
+          "description": "AI数字人视频创作平台，100+精品数字人形象",
+          "url": "https://www.baidu.com",
+          "order": 4,
           "category": "AI视频创作",
           "noticeText": null,
           "allowCopy": false
