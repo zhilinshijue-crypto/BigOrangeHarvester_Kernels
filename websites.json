@@ -70,6 +70,18 @@
           "allowCopy": false
         },
         {
+          "id": "f92ecbc8-baeb-4781-9e76-b69e2a02e6ca",
+          "name": "有言",
+          "icon": "\uD83D\uDCAC",
+          "faviconUrl": "",
+          "description": "有言是一个一站式AI视频创作平台的数字人生成",
+          "url": "https://www.youyan.ai",
+          "order": 7,
+          "category": null,
+          "noticeText": null,
+          "allowCopy": false
+        },
+        {
           "id": "tuiyou",
           "name": "堆友",
           "icon": "\uD83C\uDF10",
@@ -101,18 +113,6 @@
           "description": "多功能AI创作平台，支持AI写作、AI绘画",
           "url": "https://www.wancai.com",
           "order": 6,
-          "category": null,
-          "noticeText": null,
-          "allowCopy": false
-        },
-        {
-          "id": "f92ecbc8-baeb-4781-9e76-b69e2a02e6ca",
-          "name": "有言",
-          "icon": "\uD83D\uDCAC",
-          "faviconUrl": "",
-          "description": "有言是一个一站式AI视频创作平台的数字人生成",
-          "url": "https://www.youyan.ai",
-          "order": 7,
           "category": null,
           "noticeText": null,
           "allowCopy": false
