@@ -107,25 +107,13 @@
           "allowCopy": false
         },
         {
-          "id": "b3b56e63-03f0-4ff4-b44f-5594f2ec8c49",
-          "name": "LTX Studio",
-          "icon": "\uD83C\uDFAC",
-          "faviconUrl": "",
-          "description": "Lightricks推出的生成式AI视频创作平台，可以从",
-          "url": "https://ltx.studio",
-          "order": 8,
-          "category": null,
-          "noticeText": null,
-          "allowCopy": false
-        },
-        {
           "id": "743b97cb-4577-4991-a409-0e2acf014459",
           "name": "Runway",
           "icon": "\uD83C\uDF10",
           "faviconUrl": "https://runwayml.com/favicon.ico",
           "description": "输入注册码获得1000积分。Runway是一个AI创意生成平台，支持AI视频生成、AI图像生成。",
           "url": "https://runwayml.com",
-          "order": 9,
+          "order": 8,
           "category": "AI视频创作",
           "noticeText": "zhilinshijue-m1axtg",
           "allowCopy": true
@@ -137,7 +125,7 @@
           "faviconUrl": "",
           "description": "Sora是OpenAI发布的一种文生视频AI模型，能够",
           "url": "https://openai.com/sora",
-          "order": 10,
+          "order": 9,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -149,18 +137,18 @@
           "faviconUrl": "",
           "description": "Pika.art是一个AI视频的创作平台",
           "url": "https://pika.art",
-          "order": 11,
+          "order": 10,
           "category": null,
           "noticeText": null,
           "allowCopy": false
         },
         {
-          "id": "c261d27c-2d49-4c8a-ac6e-b66b673344f4",
-          "name": "千问",
-          "icon": "\uD83D\uDCAD",
-          "faviconUrl": "",
-          "description": "阿里巴巴出品的AI助手",
-          "url": "https://qianwen.aliyun.com",
+          "id": "b8adf746-5888-44f0-92e4-248fb6a7bd96",
+          "name": "Kreado AI",
+          "icon": "\uD83C\uDF10",
+          "faviconUrl": "https://www.kreadoai.com/favicon.ico",
+          "description": "Kreado AI是一个多语言AI视频创作平台，只需",
+          "url": "https://www.kreadoai.com/?inviteCode=184870026",
           "order": 12,
           "category": null,
           "noticeText": null,
@@ -263,25 +251,13 @@
           "allowCopy": false
         },
         {
-          "id": "b8adf746-5888-44f0-92e4-248fb6a7bd96",
-          "name": "Kreado AI",
-          "icon": "\uD83C\uDFA5",
-          "faviconUrl": "",
-          "description": "Kreado AI是一个多语言AI视频创作平台，只需",
-          "url": "https://kreado.ai",
-          "order": 21,
-          "category": null,
-          "noticeText": null,
-          "allowCopy": false
-        },
-        {
           "id": "8dbee88b-8cc8-492f-84ae-e19f31545e67",
           "name": "Vimeo",
           "icon": "\uD83D\uDCF9",
           "faviconUrl": "",
           "description": "Vimeo平台的AI视频生成工具",
           "url": "https://vimeo.com",
-          "order": 22,
+          "order": 21,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -293,7 +269,7 @@
           "faviconUrl": "",
           "description": "一款专为海外中小企业和创作者打造的AI数字",
           "url": "https://keevx.com",
-          "order": 23,
+          "order": 22,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -305,7 +281,7 @@
           "faviconUrl": "",
           "description": "绘蛙推出的AI视频制作工具",
           "url": "https://video.huiwa.com",
-          "order": 24,
+          "order": 23,
           "category": null,
           "noticeText": null,
           "allowCopy": false
