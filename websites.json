@@ -22,13 +22,25 @@
       "order": 2,
       "websites": [
         {
+          "id": "49f066bb-ad45-4e7e-94fb-5c41ffb85747",
+          "name": "白日梦AI",
+          "icon": "\uD83C\uDF10",
+          "faviconUrl": "https://aibrm.com/favicon.ico",
+          "description": "白日梦AI是一款全新的文生视频类AIGC创作平台",
+          "url": "https://aibrm.com?code=lf8mdyk7a",
+          "order": 1,
+          "category": "AI视频创作",
+          "noticeText": null,
+          "allowCopy": false
+        },
+        {
           "id": "tuiyou",
           "name": "堆友",
           "icon": "\uD83C\uDF10",
           "faviconUrl": "https://d.design/favicon.ico",
           "description": "AI设计生产力工具，零门槛AI绘图+多模态创作",
           "url": "https://d.design/?sharecode=xuRkTC5DDH",
-          "order": 1,
+          "order": 2,
           "category": "AI视频创作",
           "noticeText": null,
           "allowCopy": false
@@ -40,7 +52,7 @@
           "faviconUrl": "https://jimeng.jianying.com/favicon.ico",
           "description": "一站式AI创作平台，免费AI图片和视频生成",
           "url": "https://jimeng.jianying.com",
-          "order": 2,
+          "order": 3,
           "category": "AI视频创作",
           "noticeText": null,
           "allowCopy": false
@@ -52,7 +64,7 @@
           "faviconUrl": "https://www.liblib.art/favicon.ico",
           "description": "国内领先的AI视频平台，以图生视频，视频编辑",
           "url": "https://www.liblib.art",
-          "order": 3,
+          "order": 4,
           "category": "AI视频创作",
           "noticeText": null,
           "allowCopy": false
@@ -64,7 +76,7 @@
           "faviconUrl": "",
           "description": "Runway是一个AI创意生成平台，支持AI视频生成",
           "url": "https://runwayml.com",
-          "order": 4,
+          "order": 5,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -76,7 +88,7 @@
           "faviconUrl": "",
           "description": "海螺AI推出的AI视频生成工具，可以生成高质量",
           "url": "https://hailuo.ai",
-          "order": 5,
+          "order": 6,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -88,20 +100,8 @@
           "faviconUrl": "",
           "description": "可灵AI：新一代AI创意生产力平台",
           "url": "https://klingai.com",
-          "order": 6,
-          "category": null,
-          "noticeText": null,
-          "allowCopy": false
-        },
-        {
-          "id": "49f066bb-ad45-4e7e-94fb-5c41ffb85747",
-          "name": "白日梦AI",
-          "icon": "\uD83C\uDF10",
-          "faviconUrl": "https://aibrm.com/favicon.ico",
-          "description": "白日梦AI是一款全新的文生视频类AIGC创作平台",
-          "url": "https://aibrm.com?code=lf8mdyk7a",
           "order": 7,
-          "category": "AI视频创作",
+          "category": null,
           "noticeText": null,
           "allowCopy": false
         },
