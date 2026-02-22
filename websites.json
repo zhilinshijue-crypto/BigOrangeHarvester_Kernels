@@ -132,13 +132,25 @@
           "allowCopy": false
         },
         {
+          "id": "30a4ead8-bab7-478f-8cfd-d14b300475d0",
+          "name": "绘蛙-多图成片",
+          "icon": "\uD83D\uDC38",
+          "faviconUrl": "",
+          "description": "绘蛙推出的AI视频生成工具",
+          "url": "https://www.huiwa.com",
+          "order": 10,
+          "category": null,
+          "noticeText": null,
+          "allowCopy": false
+        },
+        {
           "id": "dabe493d-2659-49c2-b9d6-9d566079fc46",
           "name": "Pika",
           "icon": "⚡",
           "faviconUrl": "",
           "description": "Pika.art是一个AI视频的创作平台",
           "url": "https://pika.art",
-          "order": 10,
+          "order": 11,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -150,7 +162,7 @@
           "faviconUrl": "",
           "description": "潮际好莱AI视频制作工具",
           "url": "https://www.chaoji.com",
-          "order": 11,
+          "order": 12,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -162,18 +174,6 @@
           "faviconUrl": "",
           "description": "Google 最新发布的 AI 视频生成模型",
           "url": "https://deepmind.google/veo",
-          "order": 12,
-          "category": null,
-          "noticeText": null,
-          "allowCopy": false
-        },
-        {
-          "id": "30a4ead8-bab7-478f-8cfd-d14b300475d0",
-          "name": "绘蛙-多图成片",
-          "icon": "\uD83D\uDC38",
-          "faviconUrl": "",
-          "description": "绘蛙推出的AI视频生成工具",
-          "url": "https://www.huiwa.com",
           "order": 13,
           "category": null,
           "noticeText": null,
