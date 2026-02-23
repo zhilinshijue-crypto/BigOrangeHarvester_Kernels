@@ -31,26 +31,26 @@
       "order": 2,
       "websites": [
         {
-          "id": "49f066bb-ad45-4e7e-94fb-5c41ffb85747",
-          "name": "白日梦AI",
-          "icon": "\uD83C\uDF10",
-          "faviconUrl": "https://aibrm.com/favicon.ico",
-          "description": "白日梦AI是一款全新的文生视频类AIGC创作平台",
-          "url": "https://aibrm.com?code=lf8mdyk7a",
-          "order": 1,
-          "category": null,
-          "noticeText": null,
-          "allowCopy": false
-        },
-        {
           "id": "tuiyou",
           "name": "堆友",
           "icon": "\uD83C\uDF99️",
           "faviconUrl": null,
           "description": "AI设计生产力工具，零门槛AI绘图+多模态创作",
           "url": "https://d.design/?sharecode=xuRkTC5DDH",
-          "order": 2,
+          "order": 1,
           "category": "AI视频创作",
+          "noticeText": null,
+          "allowCopy": false
+        },
+        {
+          "id": "49f066bb-ad45-4e7e-94fb-5c41ffb85747",
+          "name": "白日梦AI",
+          "icon": "\uD83C\uDF10",
+          "faviconUrl": "https://aibrm.com/favicon.ico",
+          "description": "白日梦AI是一款全新的文生视频类AIGC创作平台",
+          "url": "https://aibrm.com?code=lf8mdyk7a",
+          "order": 2,
+          "category": null,
           "noticeText": null,
           "allowCopy": false
         },
