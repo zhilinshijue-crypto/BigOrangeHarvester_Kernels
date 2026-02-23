@@ -474,18 +474,6 @@
       "order": 5,
       "websites": [
         {
-          "id": "fdf2ad33-3813-400d-a972-50c5482f20f7",
-          "name": "HoloPix AI",
-          "icon": "\uD83C\uDFB2",
-          "faviconUrl": "",
-          "description": "HoloPix AI 创作平台，游戏动漫设计的创意助",
-          "url": "https://holopix.ai",
-          "order": 1,
-          "category": null,
-          "noticeText": null,
-          "allowCopy": false
-        },
-        {
           "id": "2f7945df-baee-4023-a11f-14a6de0288e9",
           "name": "Leonardo.ai",
           "icon": "\uD83C\uDFA8",
@@ -510,18 +498,6 @@
           "allowCopy": false
         },
         {
-          "id": "60a2e730-bb64-4014-8131-a797c44dd3c4",
-          "name": "魔珠星云",
-          "icon": "☁️",
-          "faviconUrl": "",
-          "description": "无需高端GPU，一键解锁磁盘实况/二次元多风格",
-          "url": "https://www.mozhu.ai",
-          "order": 4,
-          "category": null,
-          "noticeText": null,
-          "allowCopy": false
-        },
-        {
           "id": "02de5eea-1d97-4080-9712-aa68916eadb6",
           "name": "混元游戏",
           "icon": "\uD83C\uDFAE",
@@ -529,18 +505,6 @@
           "description": "腾讯混元推出的工业级AIGC游戏引擎生产平台",
           "url": "https://hunyuan.tencent.com/game",
           "order": 5,
-          "category": null,
-          "noticeText": null,
-          "allowCopy": false
-        },
-        {
-          "id": "87a64a29-46ee-4216-b27e-0ac94ba5bf94",
-          "name": "有言",
-          "icon": "\uD83D\uDCAC",
-          "faviconUrl": "",
-          "description": "有言是一个一站式AI视频创作平台的数字人生成",
-          "url": "https://www.youyan.ai",
-          "order": 6,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -637,18 +601,6 @@
           "description": "Viggle AI是一个强大的3D动画生成平台，可",
           "url": "https://viggle.ai",
           "order": 14,
-          "category": null,
-          "noticeText": null,
-          "allowCopy": false
-        },
-        {
-          "id": "62739490-8655-425b-bb95-3d2228f5be5e",
-          "name": "Project Neo",
-          "icon": "\uD83C\uDFAF",
-          "faviconUrl": "",
-          "description": "Adobe发布的3D设计神器，为2D平面设计松",
-          "url": "https://neo.adobe.com",
-          "order": 15,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -798,18 +750,6 @@
           "allowCopy": false
         },
         {
-          "id": "62543eb4-49e6-47d5-b9a0-5f2fc6357aab",
-          "name": "Hitem3D",
-          "icon": "\uD83C\uDFAF",
-          "faviconUrl": "",
-          "description": "AI驱动的3D模型生成器",
-          "url": "https://hitem3d.com",
-          "order": 28,
-          "category": null,
-          "noticeText": null,
-          "allowCopy": false
-        },
-        {
           "id": "6d18f317-3199-489a-93ec-452c1ae16a27",
           "name": "Dreamhouse AI",
           "icon": "\uD83C\uDFE1",
@@ -915,18 +855,6 @@
           "allowCopy": false
         },
         {
-          "id": "b9f89ab8-a767-4bad-a1a4-a0e033fc53ed",
-          "name": "可器AI",
-          "icon": "\uD83D\uDD27",
-          "faviconUrl": "",
-          "description": "文字一秒可视化，免费AI办神器",
-          "url": "https://keqi.ai",
-          "order": 7,
-          "category": null,
-          "noticeText": null,
-          "allowCopy": false
-        },
-        {
           "id": "8ea263fa-8d24-49cc-bcd6-af3bd12f45a0",
           "name": "星辰Agent",
           "icon": "⭐",
@@ -975,30 +903,6 @@
           "allowCopy": false
         },
         {
-          "id": "67194c35-473d-418b-a3ff-698a3e564bcf",
-          "name": "福定PPT",
-          "icon": "\uD83D\uDCCA",
-          "faviconUrl": "",
-          "description": "福定PPT智能在线演示",
-          "url": "https://fudingppt.com",
-          "order": 12,
-          "category": null,
-          "noticeText": null,
-          "allowCopy": false
-        },
-        {
-          "id": "6b562c97-e3d5-4b9d-9bb1-e611b0409347",
-          "name": "万能小Nn",
-          "icon": "\uD83E\uDD16",
-          "faviconUrl": "",
-          "description": "300万人都在用的AI文字专家，一键制作方案书",
-          "url": "https://www.wn-nn.com",
-          "order": 13,
-          "category": null,
-          "noticeText": null,
-          "allowCopy": false
-        },
-        {
           "id": "08d02659-25d0-4aa3-9b4f-447ab526756f",
           "name": "boardmix博思白板",
           "icon": "\uD83D\uDCCB",
@@ -1023,30 +927,6 @@
           "allowCopy": false
         },
         {
-          "id": "f8985f19-4cb5-44d4-9f8d-7e054b6edd04",
-          "name": "比格AIPPT",
-          "icon": "\uD83D\uDCCA",
-          "faviconUrl": "",
-          "description": "比格AIPPT-AI一键制作精美幻灯片，快速生成AI",
-          "url": "https://bigeppt.com",
-          "order": 16,
-          "category": null,
-          "noticeText": null,
-          "allowCopy": false
-        },
-        {
-          "id": "89d3d0d5-cf38-49cd-93fd-240305f7425c",
-          "name": "炸弹AIPPT",
-          "icon": "\uD83D\uDCA3",
-          "faviconUrl": "",
-          "description": "炸弹AIPPT模板代码，快速制作精美幻灯片",
-          "url": "https://zhadanaippt.com",
-          "order": 17,
-          "category": null,
-          "noticeText": null,
-          "allowCopy": false
-        },
-        {
           "id": "ce2a1adf-cb4e-4251-a0c1-8bc1a0ec3a4b",
           "name": "ChatDOC",
           "icon": "\uD83D\uDCC4",
@@ -1066,18 +946,6 @@
           "description": "AI PPT生成工具",
           "url": "https://dokie.ai",
           "order": 19,
-          "category": null,
-          "noticeText": null,
-          "allowCopy": false
-        },
-        {
-          "id": "cdfc4c4e-f4cb-4372-895b-e1f64362e13c",
-          "name": "小流熊家族",
-          "icon": "\uD83D\uDC3B",
-          "faviconUrl": "",
-          "description": "小流熊家族是基于商务大语言模型的AI助手",
-          "url": "https://xiaoliuxiong.com",
-          "order": 20,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -1224,18 +1092,6 @@
           "allowCopy": false
         },
         {
-          "id": "727cde33-2f2a-4438-b408-cbc2bb23a6f2",
-          "name": "秒哉",
-          "icon": "⚡",
-          "faviconUrl": "",
-          "description": "百度旗下代码AI开发平台，一句话做应用",
-          "url": "https://miaozai.baidu.com",
-          "order": 2,
-          "category": null,
-          "noticeText": null,
-          "allowCopy": false
-        },
-        {
           "id": "61709bec-63d3-4fb4-950a-87f5c015e0e8",
           "name": "豆包AI编程",
           "icon": "\uD83E\uDD16",
@@ -1248,18 +1104,6 @@
           "allowCopy": false
         },
         {
-          "id": "10b8ad62-60fd-411c-9c88-f3ba3d754e72",
-          "name": "码上飞",
-          "icon": "\uD83D\uDE80",
-          "faviconUrl": "",
-          "description": "AI编程生成小程序/app/网站等实用应用",
-          "url": "https://mashangfei.com",
-          "order": 4,
-          "category": null,
-          "noticeText": null,
-          "allowCopy": false
-        },
-        {
           "id": "e54b8b78-829f-48a8-b224-50f07025f9e8",
           "name": "扣子编程",
           "icon": "\uD83D\uDD27",
@@ -1267,18 +1111,6 @@
           "description": "扣子推出的AI编程助手开发平台，助力开发",
           "url": "https://www.coze.cn/coding",
           "order": 5,
-          "category": null,
-          "noticeText": null,
-          "allowCopy": false
-        },
-        {
-          "id": "0dcd4a36-d5db-4fb2-bc2e-e9e8bb84e3d0",
-          "name": "AI Ping",
-          "icon": "\uD83C\uDFD3",
-          "faviconUrl": "",
-          "description": "一站式模型服务平台支持AI编程平台",
-          "url": "https://aiping.com",
-          "order": 6,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -1303,30 +1135,6 @@
           "description": "强大的AI编程工具，使用AI来帮助你编程，理",
           "url": "https://cursor.sh",
           "order": 8,
-          "category": null,
-          "noticeText": null,
-          "allowCopy": false
-        },
-        {
-          "id": "fac28ed2-1d94-4ca6-8d26-0ab3dfb8ffbe",
-          "name": "Tree国内版",
-          "icon": "\uD83C\uDF33",
-          "faviconUrl": "",
-          "description": "AI编程编辑，代码自动补全",
-          "url": "https://tree.cn",
-          "order": 9,
-          "category": null,
-          "noticeText": null,
-          "allowCopy": false
-        },
-        {
-          "id": "e4c7d896-c89c-4dc3-a92d-8b1b36c85182",
-          "name": "小完熊家族",
-          "icon": "\uD83D\uDC3B",
-          "faviconUrl": "",
-          "description": "小完熊家族是基于商务大语言模型的AI助手",
-          "url": "https://xiaowan.com",
-          "order": 10,
           "category": null,
           "noticeText": null,
           "allowCopy": false
@@ -1500,18 +1308,6 @@
           "allowCopy": false
         },
         {
-          "id": "2b70e079-3fb2-457d-9cdb-e010bd78eca1",
-          "name": "千帆AppBuilder",
-          "icon": "\uD83D\uDE80",
-          "faviconUrl": "",
-          "description": "百度推出的一站式AI应用开发和测试工具",
-          "url": "https://appbuilder.baidu.com",
-          "order": 25,
-          "category": null,
-          "noticeText": null,
-          "allowCopy": false
-        },
-        {
           "id": "4b00b978-0f6b-4175-87bd-8aaeee106ba7",
           "name": "Windsurf",
           "icon": "\uD83C\uDFC4",
@@ -1524,18 +1320,6 @@
           "allowCopy": false
         },
         {
-          "id": "3d2c4390-c0cf-4f00-aa2d-6f413eb73566",
-          "name": "MeDo",
-          "icon": "☁️",
-          "faviconUrl": "",
-          "description": "百度智能云推出，无代码AI应用开发",
-          "url": "https://medo.baidu.com",
-          "order": 27,
-          "category": null,
-          "noticeText": null,
-          "allowCopy": false
-        },
-        {
           "id": "f440899d-da96-44d3-98c2-17979ad5f482",
           "name": "MGX",
           "icon": "\uD83D\uDD27",
@@ -1543,30 +1327,6 @@
           "description": "MetaGPT推出的AI全语言编程工具",
           "url": "https://mgx.ai",
           "order": 28,
-          "category": null,
-          "noticeText": null,
-          "allowCopy": false
-        },
-        {
-          "id": "b3f5aa77-d865-46df-b90f-dcb0895eaafa",
-          "name": "通义灵码",
-          "icon": "\uD83D\uDCAD",
-          "faviconUrl": "",
-          "description": "阿里云推出的一款AI编程辅助工具",
-          "url": "https://tongyi.aliyun.com/lingma",
-          "order": 29,
-          "category": null,
-          "noticeText": null,
-          "allowCopy": false
-        },
-        {
-          "id": "1fb781b1-48e8-4ae7-9e27-eb72ca9c6faf",
-          "name": "通义灵码家族",
-          "icon": "\uD83D\uDCAD",
-          "faviconUrl": "",
-          "description": "阿里云推出的AI编程工具家族",
-          "url": "https://tongyi.aliyun.com/lingma/family",
-          "order": 30,
           "category": null,
           "noticeText": null,
           "allowCopy": false
